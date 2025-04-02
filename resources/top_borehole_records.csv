@@ -1,0 +1,338 @@
+Borehole ID,Document ID,Sub Borehole Layer,Latitude,Longitude,Top Depth,Bottom Depth,Description,USCS,Lithology,Elevation,Depth to Water (hydrologic: B),Lithology_layer_depth,Lithology_Group,Lithology_Rank,Lithology_Index
+68502,13699,1,47.77749653,-122.3640509,0.0,6.0,No description,,Undefined,452.6,,6.0,Data not available,8,800
+68502,13699,2,47.77749653,-122.3640509,6.0,11.0,"Medium dense, red brown, wet, slightly gravelly SILTY SAND (SM), fine to coarse sand, fine to coarse gravel, subround to round, numerous organics, wood debris, homogeneous (af)",SM,Silty sand,452.6,,3.0,Sands,4,401
+68502,13699,4,47.77749653,-122.3640509,11.0,29.0,"Dense, brown-olive-gray, moist, gravelly SAND (SW), well-graded, fine to coarse sand, fine to coarse gravel, subround to round, homogeneous (Qva)",SW,Gravelly sand,452.6,,11.0,Sands,4,402
+68502,13699,8,47.77749653,-122.3640509,29.0,38.0,"Dense, red brown, moist to wet, slightly gravelly SAND (SP), poorly-graded, trace coarse sand, fine to medium sand, fine to coarse gravel, subround to round, homogeneous, trace silt (Qva)",SP,Sand,452.6,,9.0,Sands,4,400
+68502,13699,9,47.77749653,-122.3640509,38.0,40.0,"Dense, red brown, moist, gravelly SAND (SW), well-graded, fine to coarse sand, fine to coarse gravel, subround to round, homogeneous (Qva)",SW,Gravelly sand,452.6,,2.0,Sands,4,402
+68502,13699,10,47.77749653,-122.3640509,40.0,47.0,"Dense, red brown, moist, slightly gravelly SAND (SP), poorly-graded, trace silt, trace coarse sand, fine to medium sand, subround to round, homogeneous (Qva)",SP,Sand,452.6,,1.2000007600000018,Sands,4,400
+68502,13699,13,47.77749653,-122.3640509,47.0,48.0,"Dense, gray, wet, slightly silty, gravelly SAND (SP-SM), poorly-graded, trace coarse sand, fine to medium sand, fine to coarse gravel, subround to round, scattered weathered silty nodules, brown yellow, homogeneous (Qva)",SP-SM,Gravelly sand,452.6,,1.0,Sands,4,402
+68502,13699,14,47.77749653,-122.3640509,48.0,50.0,"Dense, gray, wet, silty sandy GRAVEL (GM), fine to oarse sand, fine to oarse gravel, subround to round, homogeneous (Qva)",GM,Sandy gravel,452.6,,2.0,Sands,4,403
+68502,13699,15,47.77749653,-122.3640509,50.0,61.0,"Dense, brown/gray, wet, slightly silty gravelly SAND (SM), trace coarse sand, fine to medium sand, subround to round, homogeneous, trace Fe(II) staining, weathered yellow brown silt clasts-scattered (Qva)",SM,Gravelly sand,452.6,,10.0,Sands,4,402
+68502,13699,17,47.77749653,-122.3640509,61.0,61.5,"Very dense, light gray, wet, silty GRAVEL (GM), trace medium to coarse sand, fine sand, fine to coarse gravel (2-3 in. diameter), subround to round (Qva)",GM,Silty gravel,452.6,,0.5,Gravels,5,501
+68502,13699,18,47.77749653,-122.3640509,61.5,73.0,"Dense to very dense, red brown, slightly silty, gravelly SAND (SP-SM), poorly-graded, layers of fine to coarse gravel, subrounded to rounded, homogeneous, fine to coarse sand (Qva)",SP-SM,Gravelly sand,452.6,,8.5,Sands,4,402
+68502,13699,20,47.77749653,-122.3640509,73.0,77.0,"Very dense, red brown, wet, sandy GRAVEL (GW), well-graded, fine to coarse sand, fine to coarse gravel, subround to round, homogeneous, trace silt (Qva)",GW,Sandy gravel,452.6,,4.0,Sands,4,403
+68502,13699,21,47.77749653,-122.3640509,77.0,102.5,"Dense, brown, wet SAND (SP), poorly-graded, trace silt, trace medium to coarse sand, trace fine to coarse gravel, fine sand, subround to round, homogeneous (Qva)",SP,Sand,452.6,,19.19999695,Sands,4,400
+68502,13699,26,47.77749653,-122.3640509,102.5,103.0,"Very dense, brown, wet, gravelly SAND (SW), well-graded, trace silt, fine to coarse sand, fine to coarse gravel, subround to round (Qva)",SW,Gravelly sand,452.6,,0.5,Sands,4,402
+68502,13699,27,47.77749653,-122.3640509,103.0,106.0,"Dense, brown, wet SAND (SP), poorly-graded, trace silt, trace medium to coase sand, trace fine to coarse gravel, fine sand, subrounded to rounded (Qva)",SP,Sand,452.6,,3.0,Sands,4,400
+68502,13699,28,47.77749653,-122.3640509,106.0,107.0,"Very dense, brown, moist, sandy GRAVEL (GW), well-graded, fine to coarse sand, fine to coarse gravel, subrounded to rounded, homogeneous (Qva)",GW,Sandy gravel,452.6,,1.0,Sands,4,403
+68502,13699,29,47.77749653,-122.3640509,107.0,120.0,"Dense, brown, moist, slightly gravelly SAND (SP), poorly-graded, trace medium to coarse sand, trace silt, fine sand, fine to coarse gravel, subround to round, homogeneous (Qva)",SP,Sand,452.6,,13.0,Sands,4,400
+68502,13699,30,47.77749653,-122.3640509,120.0,121.0,"Dense, brown, moist, gravelly SAND (SW), well-graded, trace silt, fine to coarse sand, fine to coarse gravel, subrund to round, homogeneous (Qva)",SW,Gravelly sand,452.6,,1.0,Sands,4,402
+68502,13699,31,47.77749653,-122.3640509,121.0,123.5,"Dense, brown, moist SAND (SP), poorly-graded, trace fine gravel, trace medium to coarse sand, fine sand, subrounded to rounded, homogeneous (Qva)",SP,Sand,452.6,,2.5,Sands,4,400
+68502,13699,32,47.77749653,-122.3640509,123.5,124.1999969,"Dense, brown, moist, gravelly SAND (SW), well-graded, trace silt, fine to oarse sand, fine to coarse gravel, subrund to round, homogeneous (Qva)",SW,Gravelly sand,452.6,,0.6999969000000021,Sands,4,402
+68502,13699,33,47.77749653,-122.3640509,124.1999969,125.0,"Dense, brown, moist SAND (SP), poorly-graded, trace fine gravel, trace medium to coarse sand, fine sand, subrounded to rounded, homogeneous (Qva)",SP,Sand,452.6,,0.8000030999999979,Sands,4,400
+68502,13699,34,47.77749653,-122.3640509,125.0,126.3000031,"Dense, brown, moist, gravelly SAND (SW), well-graded, trace silt, fine to oarse sand, fine to coarse gravel, subrund to round, homogeneous (Qva)",SW,Gravelly sand,452.6,,1.300003099999998,Sands,4,402
+68502,13699,35,47.77749653,-122.3640509,126.3000031,128.0,"Dense, brown, moist, slightly gravelly SAND (SP), poorly-graded, trace silt, trace coarse sand, fine to medium sand, fine to coarse gravel, subrounded to rounded, homogeneous, numerous silt/sand clasts (Qva)",SP,Sand,452.6,,1.699996900000002,Sands,4,400
+68502,13699,36,47.77749653,-122.3640509,128.0,130.0,"Dense, brown, moist, gravelly SAND (SW), well-graded, trace silt, fine to oarse sand, fine to coarse gravel, subrund to round, homogeneous (Qva)",SW,Gravelly sand,452.6,,2.0,Sands,4,402
+68502,13699,37,47.77749653,-122.3640509,130.0,132.8000031,"Dense, brown, moist SAND (SP), poorly-graded, trace silt, trace fine gravel, trace coarse sand, fine to medium sand, subrounded to rounded, homogeneous (Qva)",SP,Sand,452.6,,2.800003099999998,Sands,4,400
+68502,13699,38,47.77749653,-122.3640509,132.8000031,133.3000031,"Dense, brown, moist, gravelly SAND (SW), well-graded, trace silt, fine to coarse sand, fine to coarse gravel, subrund to round, homogeneous (Qva)",SW,Gravelly sand,452.6,,0.5,Sands,4,402
+68502,13699,39,47.77749653,-122.3640509,133.3000031,178.0,"Dense, brown, moist SAND (SP), poorly-graded, trace fine gravel, trace medium to coarse sand, fine sand, subrounded to rounded, homogeneous (Qva)",SP,Sand,452.6,,44.6999969,Sands,4,400
+68502,13699,40,47.77749653,-122.3640509,178.0,182.0,"Very dense, brown gray, wet, slightly silty, gravelly SAND (SW), well-graded, fine to coarse sand, fine to coarse gravel, subrounded to rounded, homogeneous (Qva)",SW,Gravelly sand,452.6,,4.0,Sands,4,402
+68502,13699,41,47.77749653,-122.3640509,182.0,253.3999939,"Dense, brown, moist SAND (SP), poorly-graded, trace coarse sand, trace fine to coarse gravel, trace silt, fine to medium sand, subrounded to rounded, homogeneous (Qva)",SP,Sand,452.6,,71.3999939,Sands,4,400
+68502,13699,42,47.77749653,-122.3640509,253.3999939,255.8000031,"Hard, dark gray, moist, clayey SILT (ML), trace fine sand, subrounded to rounded, medium plasticity, medium strength, massive (Qvlc)",ML,Clayey silt,452.6,,2.4000091999999995,Silts,2,202
+68502,13699,43,47.77749653,-122.3640509,255.8000031,265.0,"Very dense, dark gray, moist, slightly silty SAND (SP-SM), poorly-graded, trace medium sand, fine sand, homogeneous, micaceous, occasional organic fragments (Qpfnf)",SP-SM,Sand,452.6,,9.199996900000002,Sands,4,400
+68502,13699,44,47.77749653,-122.3640509,265.0,294.5,"Dense, dark gray brown, wet, silty SAND (SM), fine sand, subrounded to rounded, homogeneous, rapid dilatancy, occasional organic fragments (Qpfnf)",SM,Silty sand,452.6,,29.5,Sands,4,401
+68502,13699,45,47.77749653,-122.3640509,294.5,310.0,"Very stiff, dark gray, wet, clayey SILT (ML), trace fine sand, low plasticity, rapid dilatancy, massive, trace organics (Qpfnl)
+",ML,Clayey silt,452.6,,15.5,Silts,2,202
+68502,13699,46,47.77749653,-122.3640509,310.0,336.0,"Hard, gray, moist, very silty CLAY (CL), low to moderate plasticity, medium dry strength, massive, slow dilatancy, occasional organics (Qpfnl)",CL,Silty clay,452.6,,26.0,Clays,3,301
+68502,13699,47,47.77749653,-122.3640509,336.0,340.0,"Dense, dark gray, moist, slightly silty SAND (SP-SM), poorly-graded, fine to medium sand, subrounded to rounded, homogeneous, scattered (ML) layers (Qpfnf)",SP-SM,Sand,452.6,,4.0,Sands,4,400
+68502,13699,48,47.77749653,-122.3640509,340.0,342.0,"Hard, dark gray, moist, clayey SILT (ML), low plasticity, non-dilatant, massive (Qpfnl)",ML,Clayey silt,452.6,,2.0,Silts,2,202
+68502,13699,49,47.77749653,-122.3640509,342.0,343.0,"Dense, gray green, moist, slightly silty SAND (SP-SM), poorly-graded, fine to medium, trace organics (Qpfnf)",SP-SM,Sand,452.6,,1.0,Sands,4,400
+68502,13699,50,47.77749653,-122.3640509,343.0,361.5,"Very stiff to hard, gray, moist, clayey SILT (ML), low plasticity, laminated, rapid dilatancy, organic odor (Qpfnl)",ML,Clayey silt,452.6,,18.5,Silts,2,202
+68502,13699,51,47.77749653,-122.3640509,361.5,364.5,"Dense, dark gray, moist, silty SAND (SM), fine sand, subround to round, poorly-graded, homogeneous, trace organics, scattered brown organic nodules (Qpfnf)",SM,Silty sand,452.6,,3.0,Sands,4,401
+68502,13699,52,47.77749653,-122.3640509,364.5,372.7000122,"Stiff, dark gray, moist, sandy SILT (ML), trace medium sand, fine sand, subround to round, nonplastic, slow to rapid dilatancy, homogeneous (Qpfnl)",ML,Sandy silt,452.6,,6.5,Silts,2,201
+68502,13699,54,47.77749653,-122.3640509,372.7000122,375.0,"Hard, dark gray, silty CLAY (CL), trace fine gravel, low plasticity, medium strength, massive, occasional partings of light gray fine sand (Qpfnl)",CL,Silty clay,452.6,,2.2999877999999967,Clays,3,301
+68502,13699,55,47.77749653,-122.3640509,375.0,377.0,"Stiff, dark gray, wet, slightly sandy, clayey SILT (ML), fine sand, subround to round, low plasticity, low strength, massive, slow dilatancy (Qpfnl)",ML,Clayey silt,452.6,,2.0,Silts,2,202
+68502,13699,56,47.77749653,-122.3640509,377.0,379.0,"Dense, dark gray, wet, silty SAND (SM), sand fine, rapid dilatancy (Qpfnf)",SM,Silty sand,452.6,,2.0,Sands,4,401
+68502,13699,57,47.77749653,-122.3640509,379.0,406.0,"Hard, dark gray, moist, silty CLAY (CH), trace fine sand and fine gravel, moderate to high plasticity, medium strength, non-dilatant, massive, scattered partings of fine sand, light gray (Qpfnl)",CH,Silty clay,452.6,,27.0,Clays,3,301
+68502,13699,58,47.77749653,-122.3640509,406.0,411.0,"Dense, dark gray, moist, silty SAND (SM), fine sand, subrounded to rounded, layers of silty sand with clay (CL) pockets, trace organics (Qpfnf)",SM,Silty sand,452.6,,5.0,Sands,4,401
+68502,13699,59,47.77749653,-122.3640509,411.0,417.5,"Very stiff, dark gray, moist, sandy SILT (ML) (Qpfnl)",ML,Sandy silt,452.6,,6.5,Silts,2,201
+68502,13699,60,47.77749653,-122.3640509,417.5,427.5,"Dense, darj gray, moist, very silty SAND (SM), to very sandy SILT (ML), fine sand, trace organics (Qpfnf)",SM,Silty sand,452.6,,10.0,Sands,4,401
+68502,13699,61,47.77749653,-122.3640509,427.5,435.0,"Stiff, dark gray, moist, slightly sandy to sandy SILT (ML), trace medium sand, fine sand, subround to round, nonplastic, slow to rapid dilatancy, homogeneous (Qpfnl)",ML,Sandy silt,452.6,,7.5,Silts,2,201
+68502,13699,62,47.77749653,-122.3640509,435.0,447.0,"Dense, dark gray, wet, silty SAND (SM), fine to medium sand, subrounded to rounded, homogeneous (Qpfnl)",SM,Silty sand,452.6,,12.0,Sands,4,401
+68502,13699,63,47.77749653,-122.3640509,447.0,449.0,"Hard, dark gray, moist, slightly clayey SILT (ML), nonplastic, medium strength, numerous organics (dark brown), black and white organic nodules, massive (Qpfnl)",ML,Silt,452.6,,2.0,Silts,2,200
+68502,13699,64,47.77749653,-122.3640509,449.0,465.0,"Dense, dark gray, wet, silty to slightly silty SAND (SM), fine to medium sand, subround to round, homogeneous, scattered silt clasts (Qpfnf)",SM,Silty sand,452.6,,16.0,Sands,4,401
+68502,13699,65,47.77749653,-122.3640509,465.0,467.3999939,"Hard, gray, moist, slightly clayey SILT (ML), low plastsicity, low strength, massive, numerous black organic nodules (Qpfnl)",ML,Silt,452.6,,0.5,Silts,2,200
+68502,13699,67,47.77749653,-122.3640509,467.3999939,475.5,"Hard, brown gray to gray, moist, clayey SILT (ML), low plasticity, medium strength, massive, numerous organic nodules (Qpfnl)",ML,Clayey silt,452.6,,8.100006099999973,Silts,2,202
+68502,13699,68,47.77749653,-122.3640509,475.5,480.0,"Hard, dark brown, moist, organic SILT (OL), nonplastic to low plasticity, medium strength, numerous brown-black organics (Qpfnw)",OL,Silt,452.6,,1.5,Silts,2,200
+68502,13699,70,47.77749653,-122.3640509,480.0,482.7000122,"Dense, dark gray, wet, slightly silty SAND (SP-SM), fine to medium sand, subround to round, poorly-graded, homogeneous (Qpfnf)",SP-SM,Sand,452.6,,2.7000122000000033,Sands,4,400
+68502,13699,71,47.77749653,-122.3640509,482.7000122,484.0,"Grades to very stiff, brown gray, mottled, silt (ML), trace fine sand, nonplastic to low plasticity, medium strength, numerous organics, slow to rapid dilatancy",ML,Silt,452.6,,1.2999877999999967,Silts,2,200
+68502,13699,72,47.77749653,-122.3640509,484.0,488.2000122,"Dense, dark gray, wet, silty SAND (SM), fine to medium sand, subrounded to rounded, homogeneous, occasional organics (Qpfnf)",SM,Silty sand,452.6,,4.200012200000003,Sands,4,401
+68502,13699,73,47.77749653,-122.3640509,488.2000122,491.6000061,"Medium stiff, gray, wet, sandy SILT (ML), fine sand, nonplastic, homogeneous, rapid dilatancy (Qpfnl)",ML,Sandy silt,452.6,,3.39999389999997,Silts,2,201
+68502,13699,74,47.77749653,-122.3640509,491.6000061,494.0,"Very stiff, dark brown, wet PEAT (PT), numerous partings of ash, fibrous, wood debris, 2 to 4-inch layers of gray SILT (ML) (Qpfnw)",PT,Peat,452.6,,2.3999939000000268,Organic Soils,1,101
+68502,13699,75,47.77749653,-122.3640509,494.0,498.0,"Medium stiff, gray, wet, slightly sandy SILT (ML), fine sand, nonplastic, scattered organics, low strength, rapid dilatancy (Qpfnl)",ML,Silt,452.6,,4.0,Silts,2,200
+68502,13699,76,47.77749653,-122.3640509,498.0,516.0,"Dense, dark gray, moist, silty SAND (SM), fine sand, subround to round, homogeneous (Qpfnf)",SM,Silty sand,452.6,,18.0,Sands,4,401
+68502,13699,77,47.77749653,-122.3640509,516.0,523.0,"Dense, dark gray, moist, slightly silty SAND (SP-SM), fine to medium sand, subround to round poorly-graded, homogeneous, numerous silt clasts (Qpfnf)",SP-SM,Sand,452.6,,7.0,Sands,4,400
+68502,13699,78,47.77749653,-122.3640509,523.0,526.0,"Interbedded layers of stiff, dark gray/green gray, slightly clayey, slightly sandy SILT (ML), fine sand, nonplastic, low strength, trace brown organic nodules (Qpfnl)",ML,Silt,452.6,,3.0,Silts,2,200
+68502,13699,79,47.77749653,-122.3640509,526.0,533.0,"Dense, dark gray, moist, slightly silty SAND (SP), poorly-graded, fine to medium, trace gravel (Qpfnl)",SP,Sand,452.6,,7.0,Sands,4,400
+68502,13699,80,47.77749653,-122.3640509,533.0,535.0,"Dense, dark gray, moist, silty SAND (SM), fine sand, trace medium sand, homogeneous (Qpfnf)",SM,Silty sand,452.6,,2.0,Sands,4,401
+70328,14335,1,47.42361928,-122.2564598,0.0,1.0,Organic material,,Topsoil / vegetation,28.2,,1.0,Organic Soils,1,100
+70328,14335,2,47.42361928,-122.2564598,1.0,2.0,Sensitive fine grained,,Undefined,28.2,,1.0,Data not available,8,800
+70328,14335,3,47.42361928,-122.2564598,2.0,2.5,Organic material,,Topsoil / vegetation,28.2,,0.5,Organic Soils,1,100
+70328,14335,4,47.42361928,-122.2564598,2.5,3.0,Sensitive fine grained,,Undefined,28.2,,0.5,Data not available,8,800
+70328,14335,5,47.42361928,-122.2564598,3.0,3.200000048,Clay,,Clay,28.2,,0.2000000480000001,Clays,3,300
+70328,14335,6,47.42361928,-122.2564598,3.200000048,3.400000095,Silty clay to clay,,Silty clay,28.2,,0.200000047,Clays,3,301
+70328,14335,7,47.42361928,-122.2564598,3.400000095,3.599999905,Clayey silt to silty clay,,Clayey silt,28.2,,0.1999998099999995,Silts,2,202
+70328,14335,8,47.42361928,-122.2564598,3.599999905,4.0,Sandy silt to clayey silt,,Sandy silt,28.2,,0.4000000950000002,Silts,2,201
+70328,14335,9,47.42361928,-122.2564598,4.0,4.199999809,Clayey silt to silty clay,,Clayey silt,28.2,,0.1999998090000003,Silts,2,202
+70328,14335,10,47.42361928,-122.2564598,4.199999809,4.400000095,Silty clay to clay,,Silty clay,28.2,,0.2000002859999998,Clays,3,301
+70328,14335,11,47.42361928,-122.2564598,4.400000095,4.800000191,Clay,,Clay,28.2,,0.4000000959999994,Clays,3,300
+70328,14335,12,47.42361928,-122.2564598,4.800000191,5.0,Silty clay to clay,,Silty clay,28.2,,0.1999998090000003,Clays,3,301
+70328,14335,13,47.42361928,-122.2564598,5.0,5.599999905,Clayey silt to silty clay,,Clayey silt,28.2,,0.5999999049999998,Silts,2,202
+70328,14335,14,47.42361928,-122.2564598,5.599999905,7.800000191,Silty clay to clay,,Silty clay,28.2,,2.200000286,Clays,3,301
+70328,14335,15,47.42361928,-122.2564598,7.800000191,8.199999809,Clayey silt to silty clay,,Clayey silt,28.2,,0.3999996179999998,Silts,2,202
+70328,14335,16,47.42361928,-122.2564598,8.199999809,9.800000191,Clay,,Clay,28.2,,1.600000382000001,Clays,3,300
+70328,14335,17,47.42361928,-122.2564598,9.800000191,10.0,Clayey silt to silty clay,,Clayey silt,28.2,,0.1999998089999994,Silts,2,202
+70328,14335,18,47.42361928,-122.2564598,10.0,10.39999962,Clay,,Clay,28.2,,0.3999996199999991,Clays,3,300
+70328,14335,19,47.42361928,-122.2564598,10.39999962,10.80000019,Sensitive fine grained,,Undefined,28.2,,0.4000005700000013,Data not available,8,800
+70328,14335,20,47.42361928,-122.2564598,10.80000019,11.0,Clay,,Clay,28.2,,0.1999998099999995,Clays,3,300
+70328,14335,21,47.42361928,-122.2564598,11.0,11.19999981,Silty clay to clay,,Silty clay,28.2,,0.1999998099999995,Clays,3,301
+70328,14335,22,47.42361928,-122.2564598,11.19999981,11.39999962,Clayey silt to silty clay,,Clayey silt,28.2,,0.1999998099999995,Silts,2,202
+70328,14335,23,47.42361928,-122.2564598,11.39999962,11.60000038,Sandy silt to clayey silt,,Sandy silt,28.2,,0.2000007600000017,Silts,2,201
+70328,14335,24,47.42361928,-122.2564598,11.60000038,11.80000019,Silty sand to sandy silt,,Silty sand,28.2,,0.1999998099999995,Sands,4,401
+70328,14335,25,47.42361928,-122.2564598,11.80000019,12.0,Sandy silt to clayey silt,,Sandy silt,28.2,,0.1999998099999995,Silts,2,201
+70328,14335,26,47.42361928,-122.2564598,12.0,12.80000019,Silty sand to sandy silt,,Silty sand,28.2,,0.8000001900000004,Sands,4,401
+70328,14335,27,47.42361928,-122.2564598,12.80000019,13.0,Sandy silt to clayey silt,,Sandy silt,28.2,,0.1999998099999995,Silts,2,201
+70328,14335,28,47.42361928,-122.2564598,13.0,13.19999981,Clayey silt to silty clay,,Clayey silt,28.2,,0.1999998099999995,Silts,2,202
+70328,14335,29,47.42361928,-122.2564598,13.19999981,14.0,Clay,,Clay,28.2,,0.8000001900000004,Clays,3,300
+70328,14335,30,47.42361928,-122.2564598,14.0,14.19999981,Sandy silt to clayey silt,,Sandy silt,28.2,,0.1999998099999995,Silts,2,201
+70328,14335,31,47.42361928,-122.2564598,14.19999981,14.39999962,Silty sand  to sandy silt,,Silty sand,28.2,,0.1999998099999995,Sands,4,401
+70328,14335,32,47.42361928,-122.2564598,14.39999962,14.80000019,Sand to silty sand,,Sand,28.2,,0.4000005700000013,Sands,4,400
+70328,14335,33,47.42361928,-122.2564598,14.80000019,15.0,Silty sand to sandy silt,,Silty sand,28.2,,0.1999998099999995,Sands,4,401
+70328,14335,34,47.42361928,-122.2564598,15.0,15.60000038,Sand to silty sand,,Sand,28.2,,0.6000003800000009,Sands,4,400
+70328,14335,35,47.42361928,-122.2564598,15.60000038,16.0,Silty sand to sandy silt,,Silty sand,28.2,,0.3999996199999991,Sands,4,401
+70328,14335,36,47.42361928,-122.2564598,16.0,16.20000076,Sandy silt to clayey silt,,Sandy silt,28.2,,0.2000007600000017,Silts,2,201
+70328,14335,37,47.42361928,-122.2564598,16.20000076,16.39999962,Silty sand to sandy silt,,Silty sand,28.2,,0.1999988599999973,Sands,4,401
+70328,14335,38,47.42361928,-122.2564598,16.39999962,35.20000076,Sand to silty sand,,Sand,28.2,,6.399999619999999,Sands,4,400
+70328,14335,43,47.42361928,-122.2564598,35.20000076,35.59999847,Silty sand to sandy silt,,Silty sand,28.2,,0.3999977100000009,Sands,4,401
+70328,14335,44,47.42361928,-122.2564598,35.59999847,38.0,Sand to silty sand,,Sand,28.2,,0.2000007699999955,Sands,4,400
+70328,14335,47,47.42361928,-122.2564598,38.0,38.40000153,Silty sand to sandy silt,,Silty sand,28.2,,0.4000015299999973,Sands,4,401
+70328,14335,48,47.42361928,-122.2564598,38.40000153,38.79999924,Sandy silt to clayey silt,,Sandy silt,28.2,,0.3999977100000009,Silts,2,201
+70328,14335,49,47.42361928,-122.2564598,38.79999924,39.59999847,Clayey silt to silty clay,,Clayey silt,28.2,,0.7999992300000045,Silts,2,202
+70328,14335,50,47.42361928,-122.2564598,39.59999847,39.79999924,Sandy silt to clayey silt,,Sandy silt,28.2,,0.2000007699999955,Silts,2,201
+70328,14335,51,47.42361928,-122.2564598,39.79999924,40.0,Silty sand to sandy silt,,Silty sand,28.2,,0.2000007600000017,Sands,4,401
+70328,14335,52,47.42361928,-122.2564598,40.0,40.40000153,Sand to silty sand,,Sand,28.2,,0.4000015299999973,Sands,4,400
+70328,14335,53,47.42361928,-122.2564598,40.40000153,41.0,Silty sand to sandy silt,,Silty sand,28.2,,0.5999984700000027,Sands,4,401
+70328,14335,54,47.42361928,-122.2564598,41.0,44.79999924,Sand to silty sand,,Sand,28.2,,0.7999992399999982,Sands,4,400
+70328,14335,57,47.42361928,-122.2564598,44.79999924,45.0,Silty sand to sandy silt,,Silty sand,28.2,,0.2000007600000017,Sands,4,401
+70328,14335,58,47.42361928,-122.2564598,45.0,45.20000076,Sandy silt to clayey silt,,Sandy silt,28.2,,0.2000007600000017,Silts,2,201
+70328,14335,59,47.42361928,-122.2564598,45.20000076,45.79999924,Clayey silt to silty clay,,Clayey silt,28.2,,0.5999984799999964,Silts,2,202
+70328,14335,60,47.42361928,-122.2564598,45.79999924,46.20000076,Sandy silt to clayey silt,,Sandy silt,28.2,,0.4000015200000035,Silts,2,201
+70328,14335,61,47.42361928,-122.2564598,46.20000076,46.40000153,Clayey silt to silty clay,,Clayey silt,28.2,,0.2000007699999955,Silts,2,202
+70328,14335,62,47.42361928,-122.2564598,46.40000153,46.79999924,Sandy silt to clayey silt,,Sandy silt,28.2,,0.3999977100000009,Silts,2,201
+70328,14335,63,47.42361928,-122.2564598,46.79999924,47.0,Clayey silt to silty clay,,Clayey silt,28.2,,0.2000007600000017,Silts,2,202
+70328,14335,64,47.42361928,-122.2564598,47.0,48.0,Sensitive fine grained,,Undefined,28.2,,1.0,Data not available,8,800
+70328,14335,65,47.42361928,-122.2564598,48.0,48.20000076,Clayey silt to silty clay,,Clayey silt,28.2,,0.2000007600000017,Silts,2,202
+70328,14335,66,47.42361928,-122.2564598,48.20000076,48.40000153,Sandy silt to clayey silt,,Sandy silt,28.2,,0.2000007699999955,Silts,2,201
+70328,14335,67,47.42361928,-122.2564598,48.40000153,48.79999924,Clayey silt to silty clay,,Clayey silt,28.2,,0.3999977100000009,Silts,2,202
+70328,14335,68,47.42361928,-122.2564598,48.79999924,49.79999924,Sandy silt to clayey silt,,Sandy silt,28.2,,1.0,Silts,2,201
+70328,14335,69,47.42361928,-122.2564598,49.79999924,50.20000076,Clayey silt to silty clay,,Clayey silt,28.2,,0.4000015200000035,Silts,2,202
+70328,14335,70,47.42361928,-122.2564598,50.20000076,51.20000076,Sand to silty sand,,Sand,28.2,,0.3999977100000009,Sands,4,400
+70328,14335,73,47.42361928,-122.2564598,51.20000076,51.40000153,Sandy silt to clayey silt,,Sandy silt,28.2,,0.2000007699999955,Silts,2,201
+70328,14335,74,47.42361928,-122.2564598,51.40000153,51.79999924,Clayey silt to silty clay,,Clayey silt,28.2,,0.3999977100000009,Silts,2,202
+70328,14335,75,47.42361928,-122.2564598,51.79999924,52.0,Silty sand to sandy silt,,Silty sand,28.2,,0.2000007600000017,Sands,4,401
+70328,14335,76,47.42361928,-122.2564598,52.0,59.40000153,Sand to silty sand,,Sand,28.2,,0.2000007600000017,Sands,4,400
+70328,14335,83,47.42361928,-122.2564598,59.40000153,59.90000153,Silty sand to sandy silt,,Silty sand,28.2,,0.5,Sands,4,401
+70329,14335,1,47.42422325,-122.2556877,0.0,0.200000003,Sensitive fine grained,,Undefined,27.1,,0.200000003,Data not available,8,800
+70329,14335,2,47.42422325,-122.2556877,0.200000003,0.400000006,Organic material,,Topsoil / vegetation,27.1,,0.200000003,Organic Soils,1,100
+70329,14335,3,47.42422325,-122.2556877,0.400000006,1.0,Sensitive fine grained,,Undefined,27.1,,0.599999994,Data not available,8,800
+70329,14335,4,47.42422325,-122.2556877,1.0,1.399999976,Clay,,Clay,27.1,,0.3999999759999999,Clays,3,300
+70329,14335,5,47.42422325,-122.2556877,1.399999976,2.599999905,Clayey silt to silty clay,,Clayey silt,27.1,,1.199999929,Silts,2,202
+70329,14335,6,47.42422325,-122.2556877,2.599999905,3.400000095,Clay,,Clay,27.1,,0.4000000950000002,Clays,3,300
+70329,14335,8,47.42422325,-122.2556877,3.400000095,3.799999952,Clayey silt to silty clay,,Clayey silt,27.1,,0.3999998569999996,Silts,2,202
+70329,14335,9,47.42422325,-122.2556877,3.799999952,4.0,Sandy silt to clayey silt,,Sandy silt,27.1,,0.2000000480000001,Silts,2,201
+70329,14335,10,47.42422325,-122.2556877,4.0,4.199999809,Silty sand to sandy silt,,Silty sand,27.1,,0.1999998090000003,Sands,4,401
+70329,14335,11,47.42422325,-122.2556877,4.199999809,4.800000191,Sand to silty sand,,Sand,27.1,,0.6000003819999993,Sands,4,400
+70329,14335,12,47.42422325,-122.2556877,4.800000191,5.199999809,Silty sand to sandy silt,,Silty sand,27.1,,0.3999996180000007,Sands,4,401
+70329,14335,13,47.42422325,-122.2556877,5.199999809,5.400000095,Sandy silt to clayey silt,,Sandy silt,27.1,,0.2000002859999998,Silts,2,201
+70329,14335,14,47.42422325,-122.2556877,5.400000095,6.0,Clayey silt to silty clay,,Clayey silt,27.1,,0.5999999049999998,Silts,2,202
+70329,14335,15,47.42422325,-122.2556877,6.0,6.599999905,Clay,,Clay,27.1,,0.5999999049999998,Clays,3,300
+70329,14335,16,47.42422325,-122.2556877,6.599999905,7.400000095,Silty clay to clay,,Silty clay,27.1,,0.8000001900000004,Clays,3,301
+70329,14335,17,47.42422325,-122.2556877,7.400000095,7.800000191,Clayey silt to silty clay,,Clayey silt,27.1,,0.4000000959999994,Silts,2,202
+70329,14335,18,47.42422325,-122.2556877,7.800000191,8.199999809,Clay,,Clay,27.1,,0.3999996179999998,Clays,3,300
+70329,14335,19,47.42422325,-122.2556877,8.199999809,8.399999619,Clayey silt to silty clay,,Clayey silt,27.1,,0.1999998100000013,Silts,2,202
+70329,14335,20,47.42422325,-122.2556877,8.399999619,8.600000381,Sandy silt to clayey silt,,Sandy silt,27.1,,0.2000007619999984,Silts,2,201
+70329,14335,21,47.42422325,-122.2556877,8.600000381,10.0,Silty sand to sandy silt,,Silty sand,27.1,,1.3999996190000008,Sands,4,401
+70329,14335,22,47.42422325,-122.2556877,10.0,12.0,Sandy silt to clayey silt,,Sandy silt,27.1,,2.0,Silts,2,201
+70329,14335,23,47.42422325,-122.2556877,12.0,12.60000038,Clay,,Clay,27.1,,0.6000003800000009,Clays,3,300
+70329,14335,24,47.42422325,-122.2556877,12.60000038,12.80000019,Clayey silt to silty clay,,Clayey silt,27.1,,0.1999998099999995,Silts,2,202
+70329,14335,25,47.42422325,-122.2556877,12.80000019,13.39999962,Sandy silt to clayey silt,,Sandy silt,27.1,,0.5999994299999987,Silts,2,201
+70329,14335,26,47.42422325,-122.2556877,13.39999962,13.60000038,Silty sand to sandy silt,,Silty sand,27.1,,0.2000007600000017,Sands,4,401
+70329,14335,27,47.42422325,-122.2556877,13.60000038,14.19999981,Sand to silty sand,,Sand,27.1,,0.5999994299999987,Sands,4,400
+70329,14335,28,47.42422325,-122.2556877,14.19999981,14.39999962,Silty sand to sandy silt,,Silty sand,27.1,,0.1999998099999995,Sands,4,401
+70329,14335,29,47.42422325,-122.2556877,14.39999962,14.60000038,Sandy silt to clayey silt,,Sandy silt,27.1,,0.2000007600000017,Silts,2,201
+70329,14335,30,47.42422325,-122.2556877,14.60000038,14.80000019,Clayey silt to silty clay,,Clayey silt,27.1,,0.1999998099999995,Silts,2,202
+70329,14335,31,47.42422325,-122.2556877,14.80000019,15.39999962,Sensitive fine grained,,Undefined,27.1,,0.5999994299999987,Data not available,8,800
+70329,14335,32,47.42422325,-122.2556877,15.39999962,15.60000038,Sandy silt to clayey silt,,Sandy silt,27.1,,0.2000007600000017,Silts,2,201
+70329,14335,33,47.42422325,-122.2556877,15.60000038,15.80000019,Silty sand to sandy silt,,Silty sand,27.1,,0.1999998099999995,Sands,4,401
+70329,14335,34,47.42422325,-122.2556877,15.80000019,18.0,Sand to silty sand,,Sand,27.1,,2.1999998099999996,Sands,4,400
+70329,14335,35,47.42422325,-122.2556877,18.0,19.20000076,Silty sand to sandy silt,,Silty sand,27.1,,1.2000007600000018,Sands,4,401
+70329,14335,36,47.42422325,-122.2556877,19.20000076,20.0,Sandy silt to clayey silt,,Sandy silt,27.1,,0.7999992399999982,Silts,2,201
+70329,14335,37,47.42422325,-122.2556877,20.0,20.39999962,Sand to silty sand,,Sand,27.1,,0.3999996199999991,Sands,4,400
+70329,14335,38,47.42422325,-122.2556877,20.39999962,20.60000038,Silty sand to sandy silt,,Silty sand,27.1,,0.2000007600000017,Sands,4,401
+70329,14335,39,47.42422325,-122.2556877,20.60000038,20.79999924,Sandy silt to clayey silt,,Sandy silt,27.1,,0.1999988599999973,Silts,2,201
+70329,14335,40,47.42422325,-122.2556877,20.79999924,21.0,Silty sand to sandy silt,,Silty sand,27.1,,0.2000007600000017,Sands,4,401
+70329,14335,41,47.42422325,-122.2556877,21.0,21.39999962,Sand to silty sand,,Sand,27.1,,0.3999996199999991,Sands,4,400
+70329,14335,42,47.42422325,-122.2556877,21.39999962,22.0,Silty sand to sandy silt,,Silty sand,27.1,,0.6000003800000009,Sands,4,401
+70329,14335,43,47.42422325,-122.2556877,22.0,39.5,Sand to silty sand,,Sand,27.1,,4.5,Sands,4,400
+70329,14335,52,47.42422325,-122.2556877,39.5,40.0,Silty sand to sandy silt,,Silty sand,27.1,,0.5,Sands,4,401
+70329,14335,53,47.42422325,-122.2556877,40.0,40.40000153,Sandy silt to silty sand,,Sandy silt,27.1,,0.4000015299999973,Silts,2,201
+70329,14335,54,47.42422325,-122.2556877,40.40000153,40.59999847,Silty sand to sandy silt,,Silty sand,27.1,,0.1999969400000054,Sands,4,401
+70329,14335,55,47.42422325,-122.2556877,40.59999847,40.79999924,Sandy silt to clayey silt,,Sandy silt,27.1,,0.2000007699999955,Silts,2,201
+70329,14335,56,47.42422325,-122.2556877,40.79999924,41.20000076,Clayey silt to silty clay,,Clayey silt,27.1,,0.4000015200000035,Silts,2,202
+70329,14335,57,47.42422325,-122.2556877,41.20000076,41.59999847,Clay,,Clay,27.1,,0.3999977100000009,Clays,3,300
+70329,14335,58,47.42422325,-122.2556877,41.59999847,41.79999924,Clayey silt to silty clay,,Clayey silt,27.1,,0.2000007699999955,Silts,2,202
+70329,14335,59,47.42422325,-122.2556877,41.79999924,42.40000153,Sandy silt to clayey silt,,Sandy silt,27.1,,0.600002289999999,Silts,2,201
+70329,14335,60,47.42422325,-122.2556877,42.40000153,42.79999924,Silty sand to sandy silt,,Silty sand,27.1,,0.3999977100000009,Sands,4,401
+70329,14335,61,47.42422325,-122.2556877,42.79999924,43.40000153,Clayey silt to silty clay,,Clayey silt,27.1,,0.600002289999999,Silts,2,202
+70329,14335,62,47.42422325,-122.2556877,43.40000153,44.0,Sandy silt to clayey silt,,Sandy silt,27.1,,0.5999984700000027,Silts,2,201
+70329,14335,63,47.42422325,-122.2556877,44.0,45.59999847,Sand to silty sand,,Sand,27.1,,0.5999984700000027,Sands,4,400
+70329,14335,66,47.42422325,-122.2556877,45.59999847,45.79999924,Silty sand to sandy silt,,Silty sand,27.1,,0.2000007699999955,Sands,4,401
+70329,14335,67,47.42422325,-122.2556877,45.79999924,46.0,Clayey silt to silty clay,,Clayey silt,27.1,,0.2000007600000017,Silts,2,202
+70329,14335,68,47.42422325,-122.2556877,46.0,46.20000076,Clay,,Clay,27.1,,0.2000007600000017,Clays,3,300
+70329,14335,69,47.42422325,-122.2556877,46.20000076,46.40000153,Sandy silt to clayey silt,,Sandy silt,27.1,,0.2000007699999955,Silts,2,201
+70329,14335,70,47.42422325,-122.2556877,46.40000153,48.40000153,Sand to silty sand,,Sand,27.1,,0.1999969400000054,Sands,4,400
+70329,14335,73,47.42422325,-122.2556877,48.40000153,48.59999847,Silty sand to sandy silt,,Silty sand,27.1,,0.1999969400000054,Sands,4,401
+70329,14335,74,47.42422325,-122.2556877,48.59999847,50.0,Sandy silt to clayey silt,,Sandy silt,27.1,,1.4000015299999973,Silts,2,201
+70329,14335,75,47.42422325,-122.2556877,50.0,50.59999847,Clayey silt to silty clay,,Clayey silt,27.1,,0.5999984700000027,Silts,2,202
+70329,14335,76,47.42422325,-122.2556877,50.59999847,51.40000153,Sandy silt to clayey silt,,Sandy silt,27.1,,0.8000030599999945,Silts,2,201
+70329,14335,77,47.42422325,-122.2556877,51.40000153,51.59999847,Clayey silt to silty clay,,Clayey silt,27.1,,0.1999969400000054,Silts,2,202
+70329,14335,78,47.42422325,-122.2556877,51.59999847,51.79999924,Sandy silt to silty clay,,Sandy silt,27.1,,0.2000007699999955,Silts,2,201
+70329,14335,79,47.42422325,-122.2556877,51.79999924,52.0,Silty sand to sandy silt,,Silty sand,27.1,,0.2000007600000017,Sands,4,401
+70329,14335,80,47.42422325,-122.2556877,52.0,52.59999847,Sand to silty sand,,Sand,27.1,,0.5999984700000027,Sands,4,400
+70329,14335,81,47.42422325,-122.2556877,52.59999847,52.79999924,Silty sand to sandy silt,,Silty sand,27.1,,0.2000007699999955,Sands,4,401
+70329,14335,82,47.42422325,-122.2556877,52.79999924,62.20000076,Sand to silty sand,,Sand,27.1,,0.2000007600000017,Sands,4,400
+70329,14335,91,47.42422325,-122.2556877,62.20000076,62.40000153,Silty sand to sandy silt,,Silty sand,27.1,,0.2000007699999955,Sands,4,401
+70329,14335,92,47.42422325,-122.2556877,62.40000153,62.79999924,Clayey silt to silty clay,,Clayey silt,27.1,,0.3999977100000009,Silts,2,202
+70329,14335,93,47.42422325,-122.2556877,62.79999924,64.0,Sandy silt to clayey silt,,Sandy silt,27.1,,1.2000007600000018,Silts,2,201
+70329,14335,94,47.42422325,-122.2556877,64.0,64.40000153,Clayey silt to silty clay,,Clayey silt,27.1,,0.4000015299999973,Silts,2,202
+70329,14335,95,47.42422325,-122.2556877,64.40000153,64.80000305,Sandy silt to clayey silt,,Sandy silt,27.1,,0.4000015200000035,Silts,2,201
+70329,14335,96,47.42422325,-122.2556877,64.80000305,65.0,Clayey silt to silty clay,,Clayey silt,27.1,,0.1999969499999991,Silts,2,202
+70329,14335,97,47.42422325,-122.2556877,65.0,66.80000305,Sandy silt to clayey silt,,Sandy silt,27.1,,1.8000030500000008,Silts,2,201
+71903,15326,1,47.46020081,-122.0456448,0.0,0.5,approx. 6-inches asphalt,Not applicable,Asphalt / concrete,744.6,,0.5,Mixed / Non-standard,6,602
+71903,15326,2,47.46020081,-122.0456448,0.5,16.5,"SM medium dense, gray, silty, fine to medium SAND, moist. Contains cardboard approaching 4 ft, and smells like garbage. (FILL)",SM,Fill,744.6,,3.5,Mixed / Non-standard,6,600
+71903,15326,4,47.46020081,-122.0456448,16.5,26.0,"GM very dense, gray, silty, sandy, fine to coarse GRAVEL, moist. Gravel subrounded. (VASHON TILL)",GM,Sandy gravel,744.6,,9.5,Sands,4,403
+71903,15326,5,47.46020081,-122.0456448,26.0,34.0,"SM very dense, gray to dark gray, silty, gravelly, fine to medium SAND, moist. Lenses of clean, fine to coarse sand; deformed bedding, flame structures. (ICE-CONTACT STRATITIFED DRIFT)",SM,Gravelly sand,744.6,,8.0,Sands,4,402
+71903,15326,6,47.46020081,-122.0456448,34.0,51.0,"ML-SM very dense, dray to dark gray, fine sandy SILT, moist. Bedding irregular to wavy. (GLACIOLACUSTRINE DRIFT)",ML,Sandy silt,744.6,,2.0,Silts,2,201
+71903,15326,10,47.46020081,-122.0456448,51.0,53.0,"SM very dense, dark olive-gray, very silty, fine SAND, moist. Some laminae of SILT.",SM,Silty sand,744.6,,2.0,Sands,4,401
+71903,15326,11,47.46020081,-122.0456448,53.0,54.0,"CL hard, interbedded, yellow-brown silty CLAY, and gray and dark gray SILT with fine sand laminae, moist. Bedding deformed.",CL,Silty clay,744.6,,1.0,Clays,3,301
+71903,15326,12,47.46020081,-122.0456448,54.0,65.0,"GM very dense, yellow-brown with heavy manganese-oxide staining around gravel, silty, coarse sandy, fine to coarse GRAVEL, moist. (ADVANCE OUTWASH)",GM,Sandy gravel,744.6,,5.0,Sands,4,403
+71903,15326,14,47.46020081,-122.0456448,65.0,69.0,"GP-GM @ 65 to 69 ft: Gravel mostly coarse, with cobbles. Very slow drilling progess. Fines dusty from hard drilling. Gravels mostly porphyritic basalt; also low-grade metamorphosed volcanics, and pale green quartzite.",GP-GM,Gravel,744.6,,4.0,Gravels,5,500
+71903,15326,15,47.46020081,-122.0456448,69.0,72.0,"GC very dense, brown, clayey, silty, fine to coarse sandy, fine to coarse GRAVEL, wet. Softer drilling.",GC,Clayey gravel,744.6,,3.0,Clays,3,304
+71903,15326,16,47.46020081,-122.0456448,72.0,93.5,"GP-GM very dense, brown, slightly silty and sandy, coarse GRAVEL and COBBLES, moist. Gravel and cobbles subrounded. Cutting become dry, due to hard drilling.",GP-GM,Sandy gravel,744.6,,21.5,Sands,4,403
+71903,15326,17,47.46020081,-122.0456448,93.5,106.0,"GC very dense, yellow-brown with olive-brown mottling, clayey, silty, sandy, fine to coarse GRAVEL wtih cobbles, wet",GC,Clayey gravel,744.6,,12.5,Clays,3,304
+71903,15326,18,47.46020081,-122.0456448,106.0,112.0,"GM very dense, brown, silty, fine to coarse sandy, fine to coarse GRAVEL with occasional cobbles, moist to wet",GM,Sandy gravel,744.6,,6.0,Sands,4,403
+71903,15326,19,47.46020081,-122.0456448,112.0,114.0,"SP dense, yellow-brown, slightly fine gravelly, fine to medium SAND, moist",SP,Gravelly sand,744.6,,2.0,Sands,4,402
+71903,15326,20,47.46020081,-122.0456448,114.0,118.0,"GP very dense, dark yellow-brown, slightly silty, fine to medium sandy, fine to coarse GRAVEL, moist. Gravel subrounded. 40 to 45 blows/ft.",GP,Sandy gravel,744.6,,4.0,Sands,4,403
+71903,15326,21,47.46020081,-122.0456448,118.0,123.0,"SP very dense, olive-brown, fine gravelly, fine to coarse SAND, damp to moist. Sand mostly medium",SP,Gravelly sand,744.6,,5.0,Sands,4,402
+71903,15326,22,47.46020081,-122.0456448,123.0,124.5,"ML hard, yellow-brown, finely bedded SILT with partings of very fine sand, moist. Iron oxidation along sand partings, 2-4 mm apart. Some partings have carbonized organic fragments, < 1/2 mm.",ML,Silt,744.6,,1.5,Silts,2,200
+71903,15326,23,47.46020081,-122.0456448,124.5,126.5,"ML-SM very dense, gray, very silty, fine SAND, moist",ML,Silty sand,744.6,,2.0,Sands,4,401
+71903,15326,24,47.46020081,-122.0456448,126.5,130.0,"SP-SM very dense, olive-brown, fine to medium SAND, moist, grading to fine gravelly sand. [Sampling via wireline & 140-lb. hammer, 126.5 to 293.5 ft]",SP-SM,Sand,744.6,,3.5,Sands,4,400
+71903,15326,25,47.46020081,-122.0456448,130.0,142.0,"GM brown, silty, fine to medium sandy, fine to coarse GRAVEL with occasional cobbles; cuttings dry due to hard drilling.",GM,Sandy gravel,744.6,,4.0,Sands,4,403
+71903,15326,27,47.46020081,-122.0456448,142.0,148.5,"SP very dense, olive-brown, clean, gravelly, fine to medium SAND, moist. Silt coating on gravel clasts.",SP,Gravelly sand,744.6,,6.5,Sands,4,402
+71903,15326,28,47.46020081,-122.0456448,148.5,151.0,"GP very dense, olive-brown, clean, fine to coarse sandy, fine to coarse GRAVEL, moist. Gravel subrounded with silt coating. Sand mostly medium.",GP,Sandy gravel,744.6,,2.5,Sands,4,403
+71903,15326,29,47.46020081,-122.0456448,151.0,152.0,"SP sand lens: very dense, yellow-brown, clean, fine to coarse SAND, moist",SP,Sand,744.6,,1.0,Sands,4,400
+71903,15326,30,47.46020081,-122.0456448,152.0,158.0,"GP very dense, yellow-brown, medium to coarse sandy, fine to coarse GRAVEL with cobbles, damp to moist. Gravel subrounded, silt coated. Sand is clean.",GP,Sandy gravel,744.6,,6.0,Sands,4,403
+71903,15326,31,47.46020081,-122.0456448,158.0,159.0,SP sand lens,SP,Sand,744.6,,1.0,Sands,4,400
+71903,15326,32,47.46020081,-122.0456448,159.0,166.0,"GP very dense, light yellow-brown, clean, fine to medium sandy, fine to coarse GRAVEL, damp to moist. Gravel silt-coated, 1-2 mm thick.",GP,Sandy gravel,744.6,,7.0,Sands,4,403
+71903,15326,33,47.46020081,-122.0456448,166.0,167.0,"SP sand lens: clean, medium SAND, damp",SP,Sand,744.6,,1.0,Sands,4,400
+71903,15326,34,47.46020081,-122.0456448,167.0,170.5,"GP very dense, clean, fine to medium sandy fine to coarse GRAVEL and cobbles, damp to moist. Silt coating on gravel (in cuttings) up to 4mm thick, dark brown to rust-brown, and moist",GP,Sandy gravel,744.6,,3.5,Sands,4,403
+71903,15326,35,47.46020081,-122.0456448,170.5,171.5,"SP sand lens: dark yellow-brown, clean, fine to medium SAND, some coarse sand, damp",SP,Sand,744.6,,1.0,Sands,4,400
+71903,15326,36,47.46020081,-122.0456448,171.5,175.0,"GP very dense, brown grading to olive-brown, fine to medium sandy, fine to coarse GRAVEL with some cobbles, moist",GP,Sandy gravel,744.6,,3.5,Sands,4,403
+71903,15326,37,47.46020081,-122.0456448,175.0,182.0,"SP very dense, olive-brown, clean, slightly fine gravelly, medium SAND, damp to moist",SP,Gravelly sand,744.6,,7.0,Sands,4,402
+71903,15326,38,47.46020081,-122.0456448,182.0,185.0,"GP grades to very dense, yellow-brown, clean, fine to medium sandy, fine to coarse GRAVEL with cobbles, damp",GP,Sandy gravel,744.6,,3.0,Sands,4,403
+71903,15326,39,47.46020081,-122.0456448,185.0,187.0,"SP very dense, clean, yellow-brown, fine to medium SAND, damp",SP,Sand,744.6,,2.0,Sands,4,400
+71903,15326,40,47.46020081,-122.0456448,187.0,193.0,"GP very dense, brown, slightly sandy, fine to coarse GRAVEL, moist to wet",GP,Sandy gravel,744.6,,6.0,Sands,4,403
+71903,15326,41,47.46020081,-122.0456448,193.0,194.0,"SP sand lens: yellow-brown, fine gravelly, fine to medium SAND",SP,Gravelly sand,744.6,,1.0,Sands,4,402
+71903,15326,42,47.46020081,-122.0456448,194.0,197.5,"GP very dense, brown, slightly sandy, fine to coares GRAVEL, damp. Gravel subrounded, silt coated",GP,Gravel,744.6,,3.5,Gravels,5,500
+71903,15326,43,47.46020081,-122.0456448,197.5,203.0,"SP very dense, dark gray-brown, medium to coarse SAND and fine GRAVEL, damp to moist",SP,Gravelly sand,744.6,,5.5,Sands,4,402
+71903,15326,44,47.46020081,-122.0456448,203.0,204.0,"GP very dense, reddish-brown, fine to medium sandy, fine to coarse GRAVEL, moist to wet",GP,Sandy gravel,744.6,,1.0,Sands,4,403
+71903,15326,45,47.46020081,-122.0456448,204.0,206.5,"SP very dense, yellow brown, slightly silty, fine to medium SAND, damp to moist",SP,Sand,744.6,,2.5,Sands,4,400
+71903,15326,46,47.46020081,-122.0456448,206.5,208.0,"GP very dense, slightly sandy, fine to coarse GRAVEL, damp. Very hard drilling.",GP,Gravel,744.6,,1.5,Gravels,5,500
+71903,15326,47,47.46020081,-122.0456448,208.0,215.0,"GP very dense, olive-brown, fine to medium sandy, fine to coarse GRAVEL, damp to moist",GP,Sandy gravel,744.6,,7.0,Sands,4,403
+71903,15326,48,47.46020081,-122.0456448,215.0,220.0,"SP very dense, yellow-brown, slightly gravelly, fine to medium SAND, moist",SP,Sand,744.6,,5.0,Sands,4,400
+71903,15326,49,47.46020081,-122.0456448,220.0,223.0,"GP grades to very dense, yellow-brown, fine to medium sandy, fine to coarse GRAVEL with occasional cobbles, damp",GP,Sandy gravel,744.6,,3.0,Sands,4,403
+71903,15326,50,47.46020081,-122.0456448,223.0,226.0,"SP very dense, yellow-brown, fine gravelly, fine to coarse SAND, damp to moist. Sand mostly medium.",SP,Gravelly sand,744.6,,3.0,Sands,4,402
+71903,15326,51,47.46020081,-122.0456448,226.0,227.0,GP hard drilling; fine to coarse GRAVEL; cuttings dusty.,GP,Gravel,744.6,,1.0,Gravels,5,500
+71903,15326,52,47.46020081,-122.0456448,227.0,228.5,"SP very dense, yellow-brown, fine gravelly, fine to coarse SAND, damp to moist. Sand mostly medium.",SP,Gravelly sand,744.6,,1.5,Sands,4,402
+71903,15326,53,47.46020081,-122.0456448,228.5,231.0,"GP hard drilling, cuttings dusty: very dense, fine to coarse GRAVEL with cobbles.",GP,Gravel,744.6,,2.5,Gravels,5,500
+71903,15326,54,47.46020081,-122.0456448,231.0,233.0,"GP very dense, brown, slightly silty, fine to coarse sandy, fine GRAVEL, moist to wet. Sand mostly coarse.",GP,Sandy gravel,744.6,,2.0,Sands,4,403
+71903,15326,55,47.46020081,-122.0456448,233.0,234.0,"ML hard, light brown, SILT, moist to wet. Grades to rust-mottled, sandy, very silty, fine GRAVEL (diamicton-like; silt intruded into underlying unit).",ML,Silt,744.6,,1.0,Silts,2,200
+71903,15326,56,47.46020081,-122.0456448,234.0,245.0,"GP very dense, yellow-brown, slightly silty, fine to medium sandy;, fine GRAVEL, damp grading to moist.",GP,Sandy gravel,744.6,,11.0,Sands,4,403
+71903,15326,57,47.46020081,-122.0456448,245.0,255.0,"SW grades to dark yellow brown, fine gravelly, fine to coarse SAND, moist",SW,Gravelly sand,744.6,,10.0,Sands,4,402
+71903,15326,58,47.46020081,-122.0456448,255.0,255.5,"SP becomes gray, fine to medium SAND, moist",SP,Sand,744.6,,0.5,Sands,4,400
+71903,15326,59,47.46020081,-122.0456448,255.5,260.0,"ML hard, dark gray and dark gray-brown, SILT, moist. Finely laminated to massive. Silt cuttings wet on outside. (GLACIOLACUSTRINE SILT: LAWTON CLAY?)",ML,Silt,744.6,,4.5,Silts,2,200
+71903,15326,60,47.46020081,-122.0456448,260.0,262.0,"SP very dense, olive-brown, clean, fine to medium SAND, damp. Grades to fine gravelly.",SP,Sand,744.6,,2.0,Sands,4,400
+71903,15326,61,47.46020081,-122.0456448,262.0,264.5,"ML-SM finely bedded, hard, gray SILT, very dense yellow-brown silty fine SAND, and fine gravelly, silty, fine to coarse SAND, moist. Trace coal fragments, up to 1 cm long. Bedding 1/2 to 1 cm thick.",ML,Silt,744.6,,2.5,Silts,2,200
+71903,15326,62,47.46020081,-122.0456448,264.5,285.0,"SP very dense, dark yellow-brown, slightly silty, fine gravelly, fine to medium SAND, moist. Gravel subrounded.",SP,Gravelly sand,744.6,,5.5,Sands,4,402
+71903,15326,66,47.46020081,-122.0456448,285.0,293.5,"SP grades to very dense, light yellow-brown, clean, fine SAND, dry to damp",SP,Sand,744.6,,8.5,Sands,4,400
+71903,15326,67,47.46020081,-122.0456448,293.5,294.0,"ML lens of SILT, brown with one gray laminae, slightly fine sandy, moist",ML,Silt,744.6,,0.5,Silts,2,200
+71903,15326,68,47.46020081,-122.0456448,294.0,307.0,"SP very dense, light yellow-brown, clean, fine SAND, damp",SP,Sand,744.6,,10.0,Sands,4,400
+71903,15326,70,47.46020081,-122.0456448,307.0,313.0,"SP very dense, dark yellow-brown, fine gravelly, fine to coarse SAND, moist",SP,Gravelly sand,744.6,,1.0,Sands,4,402
+71903,15326,72,47.46020081,-122.0456448,313.0,315.0,"ML hard, dark gray, laminated SILT, moist. Non-plastic",ML,Silt,744.6,,2.0,Silts,2,200
+71903,15326,73,47.46020081,-122.0456448,315.0,321.0,"SP-SM very dense, greenish-gray, clean, fine to medium SAND, darmp",SP-SM,Sand,744.6,,6.0,Sands,4,400
+71903,15326,74,47.46020081,-122.0456448,321.0,338.5,"SP grades to very dense, gray, clean, fine gravelly, fine to coarse SAND, moist",SP,Gravelly sand,744.6,,17.5,Sands,4,402
+71903,15326,75,47.46020081,-122.0456448,338.5,339.0,"ML hard, gray, laminated SILT, moist",ML,Silt,744.6,,0.5,Silts,2,200
+71903,15326,76,47.46020081,-122.0456448,339.0,350.5,"GP very dense, gray, slightly silty, fine to medium sandy, fine to coarse GRAVEL, moist. (PRE-FRASER NON-GLACIAL DEPOSITS)",GP,Sandy gravel,744.6,,11.5,Sands,4,403
+71904,15326,1,47.45980131,-122.049086,0.0,0.400000006,"FILL, Asphaltic concrete road surface",Not applicable,Asphalt / concrete,713.9,,0.400000006,Mixed / Non-standard,6,602
+71904,15326,2,47.45980131,-122.049086,0.400000006,39.20000076,"Moist, brown SILTY GRAVEL with SAND, trace clay, scattered cobbles; gravel fine to coarse; road fabric at 1.4'; appears reworked, compacted (GW-GM)",GW-GM,Silty gravel,713.9,,29.599999994,Gravels,5,501
+71904,15326,4,47.45980131,-122.049086,39.20000076,54.20000076,"Light brown and yellow-orange SAND with GRAVEL; trace silt; sand fine to coarse, predominantly medium; gravel fine to coarse, predominantly fine; fine sandy silt interbeds up to 1 cm decrease in abundance with depth to 45' (SP)",SP,Sand,713.9,,15.0,Sands,4,400
+71904,15326,5,47.45980131,-122.049086,54.20000076,57.59999847,"Very moist to wet, light brown and yellow-orange SILTY SAND, trace gravel; sand fine, finely laminated (light gray, gray and iron oxide-stained laminae up to 2 mm); gravel fine (SM)",SM,Silty sand,713.9,,3.399997710000001,Sands,4,401
+71904,15326,6,47.45980131,-122.049086,57.59999847,60.40000153,"Light gray to olive gray with yellow-orange SILT, trace sand; sand fine, silt thinly laminated (1 - 2 mm) with gray and iron oxide-stained color changes; wet to 58.5', very moist to 59.5', moist to 60.4' (ML) 520 SILT",ML,Silt,713.9,,2.8000030599999945,Silts,2,200
+71904,15326,7,47.45980131,-122.049086,60.40000153,72.19999695,"UPPER HIGH-ENERGY FLUVIAL DEPOSITS, Slightly moist to very moist, light brown to light gray GRAVEL wtih SAND, trace silt, scattered to with cobbles; gravel fine to coarse; sand fine to coarse (GW)",GW,Gravel,713.9,,11.799995420000002,Gravels,5,500
+71904,15326,8,47.45980131,-122.049086,72.19999695,74.0,"Light brown and yellow-orange SAND, trace gravel; sand fine to medium, predominantly medium; gravel fine (SP)",SP,Sand,713.9,,1.8000030500000008,Sands,4,400
+71904,15326,9,47.45980131,-122.049086,74.0,78.30000305,"Slightly moist to very moist, light brown to light gray GRAVEL with SAND, trace silt, scattered to with cobbles; gravel fine to coarse; sand fine to coarse (GW)",GW,Gravel,713.9,,4.300003050000001,Gravels,5,500
+71904,15326,10,47.45980131,-122.049086,78.30000305,81.40000153,"Slightly moist to moist, scattered zones very moist to wet, light brown and yellow-orange SAND, trace silt, trace to few gravel; sand fine to coarse, predominantly medium; gravel fine to coarse, predominantly fine (SP)",SP,Sand,713.9,,3.0999984799999964,Sands,4,400
+71904,15326,11,47.45980131,-122.049086,81.40000153,86.5,"Slightly moist to very moist, light brown to light gray GRAVEL with SAND, trace silt, scattered to some cobbles; gravel fine to coarse; sand fine to coarse; scattered zones very moist to wet (GW)",GW,Gravel,713.9,,5.099998470000003,Gravels,5,500
+71904,15326,12,47.45980131,-122.049086,86.5,89.40000153,"SAND, few gravel; sand fine to coarse, predominantly medium, coarsens upward (SP)",SP,Sand,713.9,,2.9000015299999973,Sands,4,400
+71904,15326,13,47.45980131,-122.049086,89.40000153,92.0,"Slightly moist to very moist, light brown to light gray GRAVEL with SAND, trace silt, scattered to some cobbles; gravel fine to coarse, sand fine to coarse (GW)",GW,Gravel,713.9,,2.5999984700000027,Gravels,5,500
+71904,15326,14,47.45980131,-122.049086,92.0,103.4000015,"Moist SAND, few gravel, trace silt; sand fine to coarse; gravel fine to coarse, predominantly fine; coarsens upward slightly (SW)",SW,Sand,713.9,,10.300003099999998,Sands,4,400
+71904,15326,16,47.45980131,-122.049086,103.4000015,110.5999985,"Slightly moist, light brown to light gray GRAVEL with SAND, trace silt, scattered to some cobbles; gravel fine to coarse; sand fine to coarse (GW)",GW,Gravel,713.9,,7.199996999999996,Gravels,5,500
+71904,15326,17,47.45980131,-122.049086,110.5999985,112.5999985,"Moist SAND, trace gravel; sand fine to medium, gravel fine (SP)",SP,Sand,713.9,,2.0,Sands,4,400
+71904,15326,18,47.45980131,-122.049086,112.5999985,160.0,"Moist, light brown to light gray GRAVEL with SAND, trace silt, scattered to with cobbles; gravel fine to coarse; sand fine to coarse (GW)",GW,Gravel,713.9,,47.4000015,Gravels,5,500
+71904,15326,19,47.45980131,-122.049086,160.0,162.3999939,"Light brown to light gray and yellow-orange SILTY SAND; scattered sandy silt laminae up to 1 cm; sand fine to medium, predominantly fine (marker sand); abrupt contact (SP)",SP,Silty sand,713.9,,2.3999938999999983,Sands,4,401
+71904,15326,20,47.45980131,-122.049086,162.3999939,181.3999939,"Light brown to light gray GRAVEL with SAND, trace silt; gravel fine to coarse, predominantly fine; sand fine to coarse, predominantly fine to medium (GW)",GW,Gravel,713.9,,11.200012200000003,Gravels,5,500
+71904,15326,22,47.45980131,-122.049086,181.3999939,193.8000031,"Slightly moist, light brown to light gray with some yellow-orange SAND with GRAVEL, trace silt; sand fine to coarse, angular to subrounded, 60 - 70% quartz, most of which is iron oxide-stained; mafic grains generally largest (medium to coarse); gravel fi",SW,Sand,713.9,,5.0,Sands,4,400
+71904,15326,24,47.45980131,-122.049086,193.8000031,195.1999969,"LOWER FLUVIAL AND LACUSTRINE DEPOSITS, Slightly moist to moist, light olive gray with yellow-orange SILT with SAND; sand very fine; thinly laminated (gray and red-brown iron oxide-stained laminae up to 2 mm); scattered fine silty sand laminae up to 6 mm",ML,Silt,713.9,,1.3999938000000045,Silts,2,200
+71904,15326,25,47.45980131,-122.049086,195.1999969,196.3999939,"Very moist, light olive gray SANDY SILT; finely and indistinctly laminated; numerous 1 mm diameter air holes; sand fine (ML)",ML,Sandy silt,713.9,,1.1999969999999962,Silts,2,201
+71904,15326,26,47.45980131,-122.049086,196.3999939,196.6999969,"Very moist, light gray SILT (ML)",ML,Silt,713.9,,0.3000030000000038,Silts,2,200
+71904,15326,27,47.45980131,-122.049086,196.6999969,198.0,"Very moist, gray SILTY SAND; sand fine; massive; dark brown peat-like organic material as laminae abundant at 196.7' (SM)",SM,Silty sand,713.9,,1.300003099999998,Sands,4,401
+71904,15326,28,47.45980131,-122.049086,198.0,198.8000031,"Gray SILT, trace sand; sand fine; massive; scattered organic material and decayed roots; moist grading to slightly moist (ML)",ML,Silt,713.9,,0.8000030999999979,Silts,2,200
+71904,15326,29,47.45980131,-122.049086,198.8000031,214.5,"Slightly moist, light brown, iron oxide-stained GRAVEL with SAND, trace silt; gravel fine to coarse, predominantly fine, subangular to rounded, coated with iron oxide-stained sand, generally iron oxide-stained; sand fine to coarse, angular to subrounded,",GP,Gravel,713.9,,15.699996900000002,Gravels,5,500
+71904,15326,30,47.45980131,-122.049086,214.5,214.8999939,"Slightly moist to moist, light brown SILT, trace sand, trace clay; mostly massive; sand very fine; scattered gray sandy laminae of organic material up to 2 mm; some air holes up to 1 mm (ML)",ML,Silt,713.9,,0.3999938999999983,Silts,2,200
+71904,15326,31,47.45980131,-122.049086,214.8999939,218.3999939,"Slightly moist, light brown and yellow-orange SAND with SILT; sand fine, indistinctly bedded; scattered light gray sand silt laminae up to 3 mm (SP-SM)",SP-SM,Sand,713.9,,3.5,Sands,4,400
+71904,15326,32,47.45980131,-122.049086,218.3999939,218.6000061,"Gray SILT, trace sand, trace clay; sand very fine; fine roots and abundant iron oxide staining (ML) 350 SILT",ML,Silt,713.9,,0.2000122000000033,Silts,2,200
+71904,15326,33,47.45980131,-122.049086,218.6000061,223.3999939,"Slightly moist to moist, light gray grading to yellow-orange SANDY SILT, trace clay; scattered iron oxide staining as fine laminae (ML)",ML,Sandy silt,713.9,,4.799987799999997,Silts,2,201
+71904,15326,34,47.45980131,-122.049086,223.3999939,224.5,"Moist, gray SILT, few clay; massive; low plasticity (ML)",ML,Silt,713.9,,1.1000061000000017,Silts,2,200
+71904,15326,35,47.45980131,-122.049086,224.5,236.6000061,"Slightly moist to moist, light brown to light gray and yellow-orange SILTY SAND; sand fine, stratified; scattered light gray sandy silt laminae up to 1 cm (SP-SM)",SP-SM,Silty sand,713.9,,12.100006100000002,Sands,4,401
+71904,15326,36,47.45980131,-122.049086,236.6000061,237.3999939,"Slightly moist, gray SILT, trace sand, trace clay; sand fine; finely laminated as partings and as evenly-spaced dark brown laminae less than 0.5 mm within scattered iron oxide-stained bands up to 1 cm (ML)",ML,Silt,713.9,,0.7999877999999967,Silts,2,200
+71904,15326,37,47.45980131,-122.049086,237.3999939,240.6000061,Light brown to light gray and yellow-orange SAND with SILT; sand fine (SP-SM),SP-SM,Sand,713.9,,3.2000122000000033,Sands,4,400
+71904,15326,38,47.45980131,-122.049086,240.6000061,248.6000061,"Slightly moist, light brown to light gray and yellow-orange SILTY SAND, trace gravel; sand fine to medium, predominantly fine; gravel fine (SM)",SM,Silty sand,713.9,,5.199996999999996,Sands,4,401
+71904,15326,42,47.45980131,-122.049086,248.6000061,249.3000031,"Very moist, light gray SILT, little clay, trace sand, very finely laminated (ML) 330 SILT",ML,Silt,713.9,,0.6999969999999962,Silts,2,200
+71904,15326,43,47.45980131,-122.049086,249.3000031,267.5,"Moist, light gray SAND, trace silt, trace gravel; sand fine; gravel fine (SP)",SP,Sand,713.9,,7.900009100000005,Sands,4,400
+71904,15326,46,47.45980131,-122.049086,267.5,273.0,"LOWER HIGH-ENERGY FLUVIAL DEPOSITS, Wet, light gray GRAVEL with SAND, to GRAVEL with SAND and SILT; gravel fine to coarse, predominantly fine; sand fine to coarse; scattered gray sandy silt interbeds (GP-GM)",GP-GM,Gravel,713.9,,5.5,Gravels,5,500
+71904,15326,47,47.45980131,-122.049086,273.0,283.0,"Wet, light gray GRAVEL with SAND, to GRAVEL with SAND and SILT; gravel fine to coarse; sand fine to coarse; very gradational contact with above unit (GW to GW/GM)",GW,Gravelly sand,713.9,,10.0,Sands,4,402
+71904,15326,48,47.45980131,-122.049086,283.0,290.0,"Light gray GRAVEL with SAND, trace silt; gravel fine to coarse, predominantly fine; scattered cobbles; sand fine to coarse; scattered sandy silt interbeds (GP-GW)",GP,Gravel,713.9,,5.0,Gravels,5,500
+71904,15326,50,47.45980131,-122.049086,290.0,291.5,"Wet, light gray SAND AND GRAVEL, trace silt; sand fine to medium; gravel fine (SP-GP)",SP,Gravelly sand,713.9,,1.5,Sands,4,402
+71904,15326,51,47.45980131,-122.049086,291.5,302.5,"Wet, light gray GRAVEL with SAND, trace silt; gravel fine to coarse; sand fine to coarse; interbeds of fine gravel in silty sand matrix (GW)",GW,Gravel,713.9,,7.0,Gravels,5,500
+71904,15326,53,47.45980131,-122.049086,302.5,304.5,"Wet, light gray interbedded SAND with GRAVEL, and GRAVEL with SAND, trace silt; gravel fine to coarse; sand fine to coarse, predominantly fine to medium (SW-GW)",SW,Sand,713.9,,2.0,Sands,4,400
+71904,15326,54,47.45980131,-122.049086,304.5,308.7999878,Light gray GRAVEL with SILT and SAND; gravel fine to coarse; sand fine to coarse; matrix is sand and silt (GW-GM),GW-GM,Gravel,713.9,,0.7999877999999967,Gravels,5,500
+71904,15326,56,47.45980131,-122.049086,308.7999878,309.2999878,"Interbed of SAND, few gravel; sand medium to coarse, gravel fine; (SP)",SP,Sand,713.9,,0.5,Sands,4,400
+71904,15326,57,47.45980131,-122.049086,309.2999878,317.0,"Light gray GRAVEL with SAND; gravel fine to coarse; sand fine to coarse, predominantly medium to coarse; interbeds up to 0.7' thick of gravel with silt and sand matrix (GW-GM)",GW-GM,Gravel,713.9,,7.700012200000003,Gravels,5,500
+71904,15326,58,47.45980131,-122.049086,317.0,318.0,"Mottled to laminated, gray and brown SANDY SILT; sand fine to medium, laminae disturbed; brown laminae are fine organic matter; grades to gravelly silt 317.7' to 318' (ML)",ML,Sandy silt,713.9,,1.0,Silts,2,201
+71904,15326,59,47.45980131,-122.049086,318.0,320.5,Gray SILTY SAND with GRAVEL; gravel fine to coarse; sand fine to coarse; interbeds of clean sand with gravel (SM),SM,Silty sand,713.9,,2.5,Sands,4,401
+71904,15326,60,47.45980131,-122.049086,320.5,321.0,Gray SILT with SAND; sand fine; disturbed laminae of fine sand and brown organic matter (ML),ML,Silt,713.9,,0.5,Silts,2,200
+71904,15326,61,47.45980131,-122.049086,321.0,325.7000122,"Gray SAND, trace silt; sand fine to medium; scattered silty sand laminae (SP)",SP,Sand,713.9,,4.700012200000003,Sands,4,400
+71904,15326,62,47.45980131,-122.049086,325.7000122,326.0,SILT with SAND; sand fine (ML),ML,Silt,713.9,,0.2999877999999967,Silts,2,200
+71904,15326,63,47.45980131,-122.049086,326.0,327.7000122,Light gray SAND; fine to medium (SP),SP,Sand,713.9,,1.0,Sands,4,400
+71904,15326,65,47.45980131,-122.049086,327.7000122,329.2999878,"REGIONAL AQUIFER BASAL AQUITARD, Wet, light gray SILT, trace sand, fine to organic matter, sand fine; indistinctly laminated with sand; non- to low plasticity (ML)",ML,Silt,713.9,,1.5999755999999934,Silts,2,200
+71904,15326,66,47.45980131,-122.049086,329.2999878,330.2999878,Wet SAND; fine to medium (SP),SP,Sand,713.9,,0.3000182999999765,Sands,4,400
+71904,15326,68,47.45980131,-122.049086,330.2999878,336.0,"Very moist to wet, light gray SILT; few fine sand laminae; trace fine organic matter; indistinct laminae to disturbed (ML)",ML,Silt,713.9,,5.700012200000003,Silts,2,200
+71904,15326,69,47.45980131,-122.049086,336.0,338.7999878,"SUB-AQUITARD DEPOSITS, Light gray SILTY SAND; sand fine; thin interbeds of clean fine to medium sand; trace fine organic fragments (SM-ML)",SM,Silty sand,713.9,,2.7999877999999967,Sands,4,401
+71904,15326,70,47.45980131,-122.049086,338.7999878,343.2999878,Light gray interbedded SILT with SAND; trace organic fragments; nonplastic; interbeds of silty fine sand and silt (ML),ML,Silt,713.9,,4.5,Silts,2,200
+71904,15326,71,47.45980131,-122.049086,343.2999878,348.7000122,"Light gray SAND, trace gravel, trace wood fragments; sand fine to medium, predominantly medium; gravel fine; scattered silt laminae (SP)",SP,Sand,713.9,,5.400024400000007,Sands,4,400
+71904,15326,72,47.45980131,-122.049086,348.7000122,349.2000122,Light gray SILT with SAND; sand fine; trace fine organics; indistinct laminae (ML),ML,Silt,713.9,,0.5,Silts,2,200
+71904,15326,73,47.45980131,-122.049086,349.2000122,351.5,"Light gray SAND, few gravel, trace silt; trace wood; sand predominantly medium; gravel fine; scattered silty laminae (SP)",SP,Sand,713.9,,2.2999877999999967,Sands,4,400
+71904,15326,74,47.45980131,-122.049086,351.5,356.0,"Light gray SILT with SAND; sand fine; trace fine organic fragments; nonplastic, noncohesive (ML)",ML,Silt,713.9,,4.5,Silts,2,200
+71904,15326,75,47.45980131,-122.049086,356.0,357.7000122,Light gray SAND with SILT; sand fine; indistinctly bedded (SP-SM),SP-SM,Sand,713.9,,1.7000122000000033,Sands,4,400
+71904,15326,76,47.45980131,-122.049086,357.7000122,359.6000061,"Light gray SILT, few sand; sand fine; trace fine organic fragments; thin organic laminae (ML)",ML,Silt,713.9,,1.89999389999997,Silts,2,200
+71904,15326,77,47.45980131,-122.049086,359.6000061,361.0,"Light gray SAND; fine to medium, predominantly medium (SP)",SP,Sand,713.9,,1.3999939000000268,Sands,4,400

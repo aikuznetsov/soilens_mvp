@@ -1,0 +1,614 @@
+Borehole ID,Document ID,Sub Borehole Layer,Latitude,Longitude,Top Depth,Bottom Depth,Description,USCS,Lithology,Distance_km,Color,Elevation,md,Scaled_Latitude,Scaled_Longitude
+1,342,1,47.57425072,-122.4070512,0.0,1.200000048,"Duff and roots over loose, dark brown, silty fill, moist to wet",PT,Fill,14.121599253813711,blue,47,0.0,250.46089477982036,-130.20397716147158
+1,342,2,47.57425072,-122.4070512,1.200000048,2.700000048,"Soft, gray-brown, mottled, very fine, sandy silt with a trace of clay, moist to wet",ML,Sandy silt,14.121599253813711,blue,47,1.200000048,250.46089477982036,-130.20397716147158
+1,342,3,47.57425072,-122.4070512,2.700000048,8.0,"Very stiff to hard, gray-brown, silt with some very fine sand, damp to moist, thinly bedded, mottled on bedding",ML,Silt,14.121599253813711,blue,47,2.700000048,250.46089477982036,-130.20397716147158
+2,342,1,47.5741766,-122.4070567,0.0,0.800000012,"Duff, topsoil and roots, moist",PT,Topsoil / vegetation,14.123470815594867,blue,47,0.0,249.71969477981304,-130.25897716147483
+2,342,2,47.5741766,-122.4070567,0.800000012,2.5,"Loose, reddish-brown, silty sand, moist to wet",SM,Silty sand,14.123470815594867,blue,47,0.800000012,249.71969477981304,-130.25897716147483
+2,342,3,47.5741766,-122.4070567,2.5,4.300000191,"Medium dense to dense, tan-brown, mottled, silty fine sand, moist to wet",SM,Silty sand,14.123470815594867,blue,47,2.5,249.71969477981304,-130.25897716147483
+2,342,4,47.5741766,-122.4070567,4.300000191,9.0,"Very stiff, gray-brown, mottled, very fine sandy silt, moist, thinly bedded",ML,Sandy silt,14.123470815594867,blue,47,4.300000191,249.71969477981304,-130.25897716147483
+3,342,1,47.57421954,-122.4072811,0.0,1.200000048,"Duff, loose topsoil and roots, damp to moist",PT,Topsoil / vegetation,14.139236951404166,blue,44,0.0,250.14909477981462,-132.50297716155046
+3,342,2,47.57421954,-122.4072811,1.200000048,3.5,"Medium dense, tan-brown, silty fine sand, moist to wet beyond 2.5 ft",SM,Silty sand,14.139236951404166,blue,44,1.200000048,250.14909477981462,-132.50297716155046
+3,342,3,47.57421954,-122.4072811,3.5,6.0,"Very stiff, very fine sandy silt, moist to wet, thinly bedded, picks up density beyond 4 ft",ML,Sandy silt,14.139236951404166,blue,44,3.5,250.14909477981462,-132.50297716155046
+4,343,1,47.57495098,-122.4063185,0.0,1.0,Topsoil,Not applicable,Topsoil / vegetation,14.053694248233446,blue,37,0.0,257.4634947797705,-122.87697716146795
+4,343,2,47.57495098,-122.4063185,1.0,7.0,"Soft, wet, dark gray, clayey slide debris",GC,Clay,14.053694248233446,blue,37,1.0,257.4634947797705,-122.87697716146795
+4,343,3,47.57495098,-122.4063185,7.0,10.0,"Medium dense, wet, dark gray, clayey, blocky, slide debris",GC,Clay,14.053694248233446,blue,37,7.0,257.4634947797705,-122.87697716146795
+4,343,4,47.57495098,-122.4063185,10.0,13.0,"Very stiff, moist, gray, thinly bedded, silty clay",CL,Silty clay,14.053694248233446,blue,37,10.0,257.4634947797705,-122.87697716146795
+5,343,1,47.57493778,-122.4061195,0.0,1.5,"Topsoil, wet",Not applicable,Topsoil / vegetation,14.039201308675716,blue,39,0.0,257.3314947797911,-120.88697716151842
+5,343,2,47.57493778,-122.4061195,1.5,7.0,"Soft, wet, dark gray, blocky clayey silt, slide debris",GC,Clayey silt,14.039201308675716,blue,39,1.5,257.3314947797911,-120.88697716151842
+5,343,3,47.57493778,-122.4061195,7.0,13.0,"Medium dense, wet, dark gray, blocky clayey silt, slide debris",CH,Clayey silt,14.039201308675716,blue,39,7.0,257.3314947797911,-120.88697716151842
+6,343,1,47.57496301,-122.4059178,0.0,1.0,"Topsoil, wet",Not applicable,Topsoil / vegetation,14.023769680212183,blue,41,0.0,257.58379477977655,-118.86997716146652
+6,343,2,47.57496301,-122.4059178,1.0,5.0,"Soft, wet, dark gray, clayey slide debris",CL,Clay,14.023769680212183,blue,41,1.0,257.58379477977655,-118.86997716146652
+6,343,3,47.57496301,-122.4059178,5.0,8.0,"Medium dense, wet, dark gray, clayey, blocky slide debris",CL,Clay,14.023769680212183,blue,41,5.0,257.58379477977655,-118.86997716146652
+7,343,1,47.57500494,-122.4060368,0.0,2.5,"Very moist to wet, brown, clay, organic-rich",OH,Clay,14.031782693702588,blue,39,0.0,258.0030947797951,-120.05997716144634
+7,343,2,47.57500494,-122.4060368,2.5,3.0,"Wet, gray clayey sand",SC,Clayey sand,14.031782693702588,blue,39,2.5,258.0030947797951,-120.05997716144634
+7,343,3,47.57500494,-122.4060368,3.0,4.0,"Wet, tan clayey sand",SC,Clayey sand,14.031782693702588,blue,39,3.0,258.0030947797951,-120.05997716144634
+7,343,4,47.57500494,-122.4060368,4.0,6.5,"Wet, gray, silty clayey sand, organic-rich",SC,Sand,14.031782693702588,blue,39,4.0,258.0030947797951,-120.05997716144634
+7,343,5,47.57500494,-122.4060368,6.5,7.5,"Wet, gray, silty clay to clayey fine sand, organic-rich",CL-ML,Silty clay,14.031782693702588,blue,39,6.5,258.0030947797951,-120.05997716144634
+7,343,6,47.57500494,-122.4060368,7.5,8.0,"Wet, gray, silty clay, organic-rich",CL-ML,Silty clay,14.031782693702588,blue,39,7.5,258.0030947797951,-120.05997716144634
+7,343,7,47.57500494,-122.4060368,8.0,11.5,"Wet, gray, silty clay to clayey silty, fine sand",CL-ML,Silty clay,14.031782693702588,blue,39,8.0,258.0030947797951,-120.05997716144634
+7,343,8,47.57500494,-122.4060368,11.5,36.5,"Moist, gray, silty clay, very thin interbeds of light gray, very fine sand and silt",CL-ML,Silty clay,14.031782693702588,blue,39,11.5,258.0030947797951,-120.05997716144634
+7,343,9,47.57500494,-122.4060368,36.5,37.5,"Very moist, gray, silty fine sand, moderately sorted",CL-ML,Silty sand,14.031782693702588,blue,39,36.5,258.0030947797951,-120.05997716144634
+7,343,10,47.57500494,-122.4060368,37.5,38.0,"Interbedded moist, gray/green, very fine, silty sand and gray/green clay",CL-ML,Silty sand,14.031782693702588,blue,39,37.5,258.0030947797951,-120.05997716144634
+7,343,11,47.57500494,-122.4060368,38.0,41.0,"Moist, gray/green, silty fine sand, moderately sorted",ML,Silty sand,14.031782693702588,blue,39,38.0,258.0030947797951,-120.05997716144634
+8,343,1,47.57498245,-122.4062386,0.0,5.0,"Very moist, mottled brown, gold, and gray, clay to clayey silty fine sand",SC,Clay,14.047169090317496,blue,39,0.0,257.778194779803,-122.07797716143887
+8,343,2,47.57498245,-122.4062386,5.0,6.0,"Moist, mottled tan, gold, and gray, clayey silty fine sand",SC-SM,Silty sand,14.047169090317496,blue,39,5.0,257.778194779803,-122.07797716143887
+8,343,3,47.57498245,-122.4062386,6.0,8.5,"Moist, tan and gray mottled, broken clay and silty clay, minor organics",OL,Clay,14.047169090317496,blue,39,6.0,257.778194779803,-122.07797716143887
+8,343,4,47.57498245,-122.4062386,8.5,11.5,"Moist, tan and gray mottled, broken clay and silty clay",CL,Clay,14.047169090317496,blue,39,8.5,257.778194779803,-122.07797716143887
+8,343,5,47.57498245,-122.4062386,11.5,31.5,"Moist, gray, clay and silty clay, thinnly bedded.  Interbeds of light gray, silty clay.  Also 2 ft interbed of gray, clayey silty fine sand",CL-ML,Clay,14.047169090317496,blue,39,11.5,257.778194779803,-122.07797716143887
+8,343,6,47.57498245,-122.4062386,31.5,36.0,"2 inches of moist, gray/green, clayey silty fine sand; 3 inches of moist, green, very stiff, clay; 6 inches of moist, gray-green, silty fine sand and interbedded moist, very stiff, gray-green clayey silt",ML,Silty sand,14.047169090317496,blue,39,31.5,257.778194779803,-122.07797716143887
+8,343,7,47.57498245,-122.4062386,36.0,40.0,"3 inches of moist, gray, clay; 1 inches of moist gray/green, clayey silt and clayey silty fine sand; 2 inches of moist, gold, silty fine to medium sand; 6 inches of moist gray and green, clayey silt to very fine sand; 2 inches of moist, green-gray and gold, silty fine sand",ML,Clay,14.047169090317496,blue,39,36.0,257.778194779803,-122.07797716143887
+9,344,1,47.57401358,-122.4066295,0.0,2.0,"Dark brown silty fine to medium sand with organics, roots and organic debris, moist, loose",SM,Fill,14.095087863906508,blue,53,0.0,248.0894947797907,-125.98697716143192
+9,344,2,47.57401358,-122.4066295,2.0,4.0,"Gray silty fine to medium sand, moist, loose, mottled",SM,Silty sand,14.095087863906508,blue,53,2.0,248.0894947797907,-125.98697716143192
+9,344,3,47.57401358,-122.4066295,4.0,9.0,"Gray silt, moist, medium dense, oxidized from 4 to 5 ft",ML,Silt,14.095087863906508,blue,53,4.0,248.0894947797907,-125.98697716143192
+10,344,1,47.57401811,-122.4065202,0.0,10.0,"6 inches sod, reddish brown silty fine sand with trace organic fibres, moist, loose, fine roots extend to 3 ft",SM,Silty sand,14.086907698658738,blue,57,0.0,248.13479477977296,-124.89397716151984
+11,344,1,47.57411129,-122.4065235,0.0,7.0,"4 inches sod, light brown silty fine sand, moist, loose, fine roots extend to 3 ft",SM,Silty sand,14.085294187583475,blue,54,0.0,249.06659477977655,-124.92697716155021
+11,344,2,47.57411129,-122.4065235,7.0,10.0,"Brown reddish-brown silt, moist, medium dense, mottled",ML,Silt,14.085294187583475,blue,54,7.0,249.06659477977655,-124.92697716155021
+12,344,1,47.57410978,-122.4062804,0.0,4.0,"6 inches sod, reddish brown silty fine sand, moist, medium dense, fine roots extend to 3 ft",SM,Silty sand,14.067329705097068,blue,54,0.0,249.05149477980615,-122.49597716149196
+12,344,2,47.57410978,-122.4062804,4.0,4.5,"Gray sandy silt, moist, medium dense, mottled",ML,Sandy silt,14.067329705097068,blue,54,4.0,249.05149477980615,-122.49597716149196
+12,344,3,47.57410978,-122.4062804,4.5,11.0,"Brown silty fine sand, moist, medium dense",SM,Silty sand,14.067329705097068,blue,54,4.5,249.05149477980615,-122.49597716149196
+13,344,1,47.57399448,-122.4062884,0.0,11.0,"6 inches sod, light brown, silty fine sand, moist, loose to medium dense",SM,Silty sand,14.070224666011024,blue,57,0.0,247.8984947798324,-122.57597716143209
+14,344,1,47.57406127,-122.4063961,0.0,11.0,"6 inches sod, light brown, silty fine sand, moist, loose, trace fine roots to 3 ft",SM,Silty sand,14.076860789785124,blue,54,0.0,248.56639477981446,-123.65297716144141
+15,347,1,47.51235823,-122.3941245,0.0,7.5,"Medium stiff to stiff, gray-brown, slightly sandy silt, moist with scattered organics",ML,Sandy silt,15.972917366424,blue,10,0.0,-368.4640052202326,-0.9369771615297395
+15,347,2,47.51235823,-122.3941245,7.5,10.30000019,"Dense, gray-brown, clayey, fine sand, trace silt, moist, with scattered organics",SC,Clayey sand,15.972917366424,blue,10,7.5,-368.4640052202326,-0.9369771615297395
+15,347,3,47.51235823,-122.3941245,10.30000019,10.5,"Very stiff, blue-gray, clayey silt/silty clay, trace fine sand, moist",ML-CL,Clayey silt,15.972917366424,blue,10,10.30000019,-368.4640052202326,-0.9369771615297395
+16,347,1,47.51238381,-122.3940688,0.0,5.0,"Soft to very stiff, gray-brown, clayey, sandy silt, moist, with scattered organics",ML,Sandy silt,15.967851296078615,blue,13,0.0,-368.2082052201707,-0.37997716148652216
+16,347,2,47.51238381,-122.3940688,5.0,6.900000095,"Dense to very dense, gray, silty fine sand/fine sandy silt, moist, iron-oxide stains",SM-ML,Silty sand,15.967851296078615,blue,13,5.0,-368.2082052201707,-0.37997716148652216
+17,347,1,47.51220809,-122.3940828,0.0,8.600000381,"Stiff to very stiff, brown-gray, clayey silt, trace fine to medium sand, trace fine gravel, moist, scattered organics (wood, roots)",ML,Clayey silt,15.980190236525113,blue,10,0.0,-369.96540522018506,-0.5199771615593818
+17,347,2,47.51220809,-122.3940828,8.600000381,12.0,"Stiff, blue-gray, clayey silt/silty clay, trace fine sand, moist, occasional organics, iron-oxide stains.",ML-CL,Clayey silt,15.980190236525113,blue,10,8.600000381,-369.96540522018506,-0.5199771615593818
+17,347,3,47.51220809,-122.3940828,12.0,13.5,"Medium dense to dense, blue-gray, slightly clayey, silty fine sand, wet, iron-oxide stains.",SM,Silty sand,15.980190236525113,blue,10,12.0,-369.96540522018506,-0.5199771615593818
+18,347,1,47.51235957,-122.3938736,0.0,3.0,"Soft to very stiff, gray-brown, slightly clayey, slightly sandy silt, moist, scattered organics.",ML,Sandy silt,15.957540140759209,blue,18,0.0,-368.4506052201897,1.572022838445264
+18,347,2,47.51235957,-122.3938736,3.0,7.400000095,"Very stiff to hard, gray-brown, slightly clayey silt, moist, occasional fine sand seams, iron-oxide stains.",ML,Silt,15.957540140759209,blue,18,3.0,-368.4506052201897,1.572022838445264
+19,347,1,47.51221471,-122.3938442,0.0,3.5,"Soft to medium stiff, gray-brown and black, slightly clayey, slightly sandy silt, moist, with scattered organics.",ML,Sandy silt,15.965226729438688,blue,18,0.0,-369.8992052201788,1.8660228384703714
+19,347,2,47.51221471,-122.3938442,3.5,5.800000191,"Very stiff to hard, gray-brown, slightly clayey silt, moist, occasional fine sand seams with iron-oxide stains.",ML,Silt,15.965226729438688,blue,18,3.5,-369.8992052201788,1.8660228384703714
+20,347,1,47.51222236,-122.3937109,0.0,2.0,"Soft to medium stiff, gray-brown, slightly clayey, slightly sandy silt, moist, scattered organics.",ML,Sandy silt,15.956610887435437,blue,32,0.0,-369.822705220173,3.1990228384870534
+20,347,2,47.51222236,-122.3937109,2.0,3.799999952,"Very stiff to hard, gray-brown, slightly clayey silt, moist, occasional fine sand seams with iron-oxide stains.",ML,Silt,15.956610887435437,blue,32,2.0,-369.822705220173,3.1990228384870534
+21,348,1,47.56843598,-122.4074796,0.0,1.5,"Grayish brown, dry, very loose, well graded sand with trace silt.",SW,Fill,14.281944973437174,blue,22,0.0,192.31349477976778,-134.48797716151262
+21,348,2,47.56843598,-122.4074796,1.5,7.0,"Clay, medium gray, stiff, slightly moist, with some rootlets and organic staining.",CL,Clay,14.281944973437174,blue,22,1.5,192.31349477976778,-134.48797716151262
+21,348,3,47.56843598,-122.4074796,7.0,8.5,"Sandy silt, brown, medium stiff, wet, over sandy clay, mottled brown, medium stiff, with minor gravel.",ML-CL,Sandy silt,14.281944973437174,blue,22,7.0,192.31349477976778,-134.48797716151262
+21,348,4,47.56843598,-122.4074796,8.5,9.5,"Sand, rust brown to brown, loose, wet, with minor silt.",SP,Sand,14.281944973437174,blue,22,8.5,192.31349477976778,-134.48797716151262
+21,348,5,47.56843598,-122.4074796,9.5,10.5,"Sand, rust brown, loose, moist, some oxidation over clayey silt, gray medium stiff, moist.",SP-ML,Sand,14.281944973437174,blue,22,9.5,192.31349477976778,-134.48797716151262
+21,348,6,47.56843598,-122.4074796,10.5,12.0,"Sandy silt, mottled gray and rusty brown, very stiff, moist, over sand, brown, medium dense, moist, poorly graded, fine grained.",ML-SP,Sandy silt,14.281944973437174,blue,22,10.5,192.31349477976778,-134.48797716151262
+21,348,7,47.56843598,-122.4074796,12.0,13.5,"Sand, brown, dense, moist to wet, well graded with minor gravel.",SW,Sand,14.281944973437174,blue,22,12.0,192.31349477976778,-134.48797716151262
+21,348,8,47.56843598,-122.4074796,13.5,15.0,"Clayey silt, mottled rust brown and brown, grading to gray below 14 ft, with trace fine sand, moist, hard, and weakly bedded.",ML,Clayey silt,14.281944973437174,blue,22,13.5,192.31349477976778,-134.48797716151262
+22,350,1,47.51391992,-122.3935323,0.0,3.799999952,"Dark brown silty sand, occasional gravel to 1 inch, dry with roots.",SM,Silty sand,15.835222406248397,blue,44,0.0,-352.84710522020646,4.985022838468467
+22,350,2,47.51391992,-122.3935323,3.799999952,5.0,Yellow-brown clayey sand with black roots.,SC,Clayey sand,15.835222406248397,blue,44,3.799999952,-352.84710522020646,4.985022838468467
+22,350,3,47.51391992,-122.3935323,5.0,5.099999905,"Dense, dry till",,Undefined,15.835222406248397,blue,44,5.0,-352.84710522020646,4.985022838468467
+23,350,1,47.51408091,-122.3939185,0.0,1.5,Silty sand with roots.,SM,Silty sand,15.848505211257642,blue,37,0.0,-351.2372052202295,1.1230228385272767
+23,350,2,47.51408091,-122.3939185,1.5,2.599999905,"Till, gravel 1 inch, yellow, dry, very dense.",GM,Gravel,15.848505211257642,blue,37,1.5,-351.2372052202295,1.1230228385272767
+24,356,1,47.54644575,-122.3973182,0.0,1.0,"Dark brown, sandy, organic silt, moist, loose",OL,Topsoil / vegetation,14.3051777305016,blue,59,0.0,-27.588805220233326,-32.873977161500534
+24,356,2,47.54644575,-122.3973182,1.0,4.5,"Brown to light brown, silty, fine to medium sand, some gravel, moist, loose.",SM,Silty sand,14.3051777305016,blue,59,1.0,-27.588805220233326,-32.873977161500534
+24,356,3,47.54644575,-122.3973182,4.5,16.0,"Brown, silty, fine to medium sand, some gravel to gravelly, medium to coarse sand lenses, very moist, medium-dense.",SM,Silty sand,14.3051777305016,blue,59,4.5,-27.588805220233326,-32.873977161500534
+24,356,4,47.54644575,-122.3973182,16.0,18.0,"Brown, silty, medium sand, gravelly, moist, dense.",SM,Silty sand,14.3051777305016,blue,59,16.0,-27.588805220233326,-32.873977161500534
+25,356,1,47.54673974,-122.3974502,0.0,1.0,"Dark brown, sandy, organic silt, moist, loose",OL,Topsoil / vegetation,14.301578719455776,blue,53,0.0,-24.648905220203687,-34.19397716143635
+25,356,2,47.54673974,-122.3974502,1.0,4.0,"Brown, silty, fine to medium sand, moist, loose to medium-dense.",SM,Silty sand,14.301578719455776,blue,53,1.0,-24.648905220203687,-34.19397716143635
+25,356,3,47.54673974,-122.3974502,4.0,16.0,"Brown, silty, medium sand, some gravel, sand lenses, moist, medium-dense.",SM,Silty sand,14.301578719455776,blue,53,4.0,-24.648905220203687,-34.19397716143635
+25,356,4,47.54673974,-122.3974502,16.0,17.5,"Bluish-gray, silty, fine sand, some gravel, moist, dense.",SM,Silty sand,14.301578719455776,blue,53,16.0,-24.648905220203687,-34.19397716143635
+25,356,5,47.54673974,-122.3974502,17.5,18.0,"Brown, medium sand, some silt, some gravel, moist, dense.",SP,Sand,14.301578719455776,blue,53,17.5,-24.648905220203687,-34.19397716143635
+26,359,1,47.54326497,-122.3956299,0.0,0.5,"Dark brown, silty sand with organics, dry loose",OL,Topsoil / vegetation,14.331433624552924,blue,49,0.0,-59.396605220172205,-15.990977161521869
+26,359,2,47.54326497,-122.3956299,0.5,3.5,"Light brown, silty, fine to medium sand, trace gravel, dry, loose, becoming medium-dense.",SM,Silty sand,14.331433624552924,blue,49,0.5,-59.396605220172205,-15.990977161521869
+26,359,3,47.54326497,-122.3956299,3.5,17.0,"Light brown, slightly silty, medium sand, some gravel to gravelly, moist, medium-dense.",SP,Sand,14.331433624552924,blue,49,3.5,-59.396605220172205,-15.990977161521869
+26,359,4,47.54326497,-122.3956299,17.0,30.0,"Gray, silty, medium sand, trace to some gravel, very moist, dense, with hard silt lenses.",SM,Silty sand,14.331433624552924,blue,49,17.0,-59.396605220172205,-15.990977161521869
+27,360,1,47.54295102,-122.3962181,0.0,1.0,"Loose, dark brown, silty sand, contains little organics",SM,Topsoil / vegetation,14.38621416522972,blue,27,0.0,-62.53610522023223,-21.872977161478957
+27,360,2,47.54295102,-122.3962181,1.0,2.5,"Compact to dense, gray-brown sand, little to trace gravel and silt.",SW,Sand,14.38621416522972,blue,27,1.0,-62.53610522023223,-21.872977161478957
+28,360,1,47.54285271,-122.3960243,0.0,0.5,"Loose, dark brown, silty sand, contains little organics",SM,Topsoil / vegetation,14.37750119035403,blue,26,0.0,-63.519205220217145,-19.93497716142656
+28,360,2,47.54285271,-122.3960243,0.5,1.5,"Compact to dense, brown, silty sand, contains little gravel.",SP,Silty sand,14.37750119035403,blue,26,0.5,-63.519205220217145,-19.93497716142656
+29,360,1,47.54312839,-122.3961029,0.0,2.0,"Loose, dark brown, silty sand, contains little to some organics",SM,Topsoil / vegetation,14.37013259256604,blue,27,0.0,-60.76240522020271,-20.720977161516885
+29,360,2,47.54312839,-122.3961029,2.0,2.5,"Compact to dense, brown, silty sand, contains little to trace gravel.",SP,Silty sand,14.37013259256604,blue,27,2.0,-60.76240522020271,-20.720977161516885
+30,361,1,47.51627379,-122.3946438,0.0,2.0,Topsoil,Not applicable,Topsoil / vegetation,15.753270138154216,blue,33,0.0,-329.3084052202033,-6.1299771614642395
+30,361,2,47.51627379,-122.3946438,2.0,3.0,"Loose, moist, brown, silty, fine sand.",ML,Silty sand,15.753270138154216,blue,33,2.0,-329.3084052202033,-6.1299771614642395
+30,361,3,47.51627379,-122.3946438,3.0,5.0,"Stiff to very stiff, moist, gray silt with occasional gravel, upper 1 ft mottled tan and brown.",CL,Silt,15.753270138154216,blue,33,3.0,-329.3084052202033,-6.1299771614642395
+31,361,1,47.51638074,-122.3946436,0.0,3.0,"Loose, moist, brown, fine sand with trace silt.",SM,Sand,15.746505811289028,blue,33,0.0,-328.23890522017507,-6.127977161440867
+31,361,2,47.51638074,-122.3946436,3.0,4.5,"Loose to medium dense, moist to wet, gray, fine to medium sand with occasional black organic zones.",SP,Sand,15.746505811289028,blue,33,3.0,-328.23890522017507,-6.127977161440867
+31,361,3,47.51638074,-122.3946436,4.5,7.0,"Dense, wet to saturated with depth, brown, medium sand.",SP,Sand,15.746505811289028,blue,33,4.5,-328.23890522017507,-6.127977161440867
+32,361,1,47.51642834,-122.3944145,0.0,0.5,Topsoil,Not applicable,Topsoil / vegetation,15.729295895890589,blue,35,0.0,-327.7629052202258,-3.8369771614554793
+32,361,2,47.51642834,-122.3944145,0.5,5.5,"Loose, moist, light brown to tan, gravelly, fine to coarse sand with trace silt.",SW,Gravelly sand,15.729295895890589,blue,35,0.5,-327.7629052202258,-3.8369771614554793
+32,361,3,47.51642834,-122.3944145,5.5,6.0,"Loose, wet to saturated, mottled tan and orange, silty, fine sand with trace small roots.",SM,Silty sand,15.729295895890589,blue,35,5.5,-327.7629052202258,-3.8369771614554793
+32,361,4,47.51642834,-122.3944145,6.0,7.0,"Medium dense to dense, saturated, brown and gray, fine to coarse sand.",SW,Sand,15.729295895890589,blue,35,6.0,-327.7629052202258,-3.8369771614554793
+33,361,1,47.51643046,-122.3946211,0.0,1.0,Topsoil,Not applicable,Topsoil / vegetation,15.741973441560924,blue,33,0.0,-327.741705220177,-5.9029771614405036
+33,361,2,47.51643046,-122.3946211,1.0,2.5,"Loose, moist, brown, fine to medium sand with trace silt.",SM,Sand,15.741973441560924,blue,33,1.0,-327.741705220177,-5.9029771614405036
+33,361,3,47.51643046,-122.3946211,2.5,7.0,"Medium dense, wet to saturated with depth, tan, fine to medium sand with occasional coarse sand and gravel, pieces of dense sand common.",SW,Sand,15.741973441560924,blue,33,2.5,-327.741705220177,-5.9029771614405036
+34,361,1,47.51631319,-122.3947505,0.0,1.5,"Loose to medium dense, wet, brown, fine to coarse sand with some silt organics.",SW,Fill,15.757397692874315,blue,33,0.0,-328.91440522021753,-7.196977161498808
+34,361,2,47.51631319,-122.3947505,1.5,3.0,"Stiff to very stiff, moist to wet, gray with some orange mottling, brecciated silt with clasts of hard silt.",MH,Silt,15.757397692874315,blue,33,1.5,-328.91440522021753,-7.196977161498808
+35,361,1,47.51630284,-122.3945437,0.0,1.0,"Medium dense, moist, gray, mottled orange, fine to medium sand with some silt.",SP-SM,Sand,15.745230584557984,blue,35,0.0,-329.0179052201836,-5.128977161490411
+36,381,1,47.5762026,-122.3986842,0.0,5.0,"Brown, gravelly, silt and sand, moist.",ML-SM,Fill,13.463976820442143,blue,86,0.0,269.97969477982053,-46.533977161544726
+36,381,2,47.5762026,-122.3986842,5.0,8.5,"Mottled to tan, sandy silt, moist.",ML,Sandy silt,13.463976820442143,blue,86,5.0,269.97969477982053,-46.533977161544726
+36,381,3,47.5762026,-122.3986842,8.5,11.5,"Brown, silty sand, moist to wet.",SM,Silty sand,13.463976820442143,blue,86,8.5,269.97969477982053,-46.533977161544726
+37,382,1,47.5817845,-122.3992476,0.0,30.0,"Light brown, sandy material.",SM,Undefined,13.414611180326617,blue,59,0.0,325.7986947797775,-52.16797716144583
+37,382,2,47.5817845,-122.3992476,30.0,53.0,"Silty, clayey, sandy material.",SM,Undefined,13.414611180326617,blue,59,30.0,325.7986947797775,-52.16797716144583
+38,387,1,47.56228252,-122.4016204,0.0,0.5,"Brown, silty sand with trace organic, fine grained, dry to moist, loose.",SM,Silty sand,14.023728981307984,blue,71,0.0,130.77889477976612,-75.89597716147978
+38,387,2,47.56228252,-122.4016204,0.5,12.0,"Tan, slightly silty, gravelly sand, fine grained, dry to moist, medium dense to dense with depth.",SM,Gravelly sand,14.023728981307984,blue,71,0.5,130.77889477976612,-75.89597716147978
+39,387,1,47.56243493,-122.4016907,0.0,0.5,"Brown, silty sand, fine grained, dry, loose.",SM,Silty sand,14.024194923118898,blue,79,0.0,132.30299477982044,-76.59897716152386
+39,387,2,47.56243493,-122.4016907,0.5,12.0,"Tan, slightly silty, gravelly sand, fine grained, dry to moist, medium dense to dense with depth.",SM,Gravelly sand,14.024194923118898,blue,79,0.5,132.30299477982044,-76.59897716152386
+40,387,1,47.56252874,-122.4014874,0.0,0.5,"Brown, silty sand, fine grained, dry, loose.",SM,Silty sand,14.006635325431583,blue,74,0.0,133.24109477977686,-74.5659771614271
+40,387,2,47.56252874,-122.4014874,0.5,12.0,"Tan, slightly silty, gravelly sand, fine grained, dry to moist, medium dense to dense with depth.",SM-SP,Gravelly sand,14.006635325431583,blue,74,0.5,133.24109477977686,-74.5659771614271
+41,387,1,47.56237333,-122.4014332,0.0,0.5,"Tan, silty, gravelly sand, fine grained, dry, loose.",SM,Gravelly sand,14.007418549980637,blue,74,0.0,131.68699477979828,-74.02397716148812
+41,387,2,47.56237333,-122.4014332,0.5,9.5,"Tan, slightly silty, gravelly sand, fine grained, medium dense to dense.",SM-SP,Gravelly sand,14.007418549980637,blue,74,0.5,131.68699477979828,-74.02397716148812
+42,398,1,47.56230619,-122.3986558,0.0,3.0,"Brown, damp, silty sand, some organics.",SM,Fill,13.808537157582895,blue,102,0.0,131.01559477981084,-46.24997716149437
+42,398,2,47.56230619,-122.3986558,3.0,9.0,"Tan, damp, medium dense, silty sand with gravels.",SP,Silty sand,13.808537157582895,blue,102,3.0,131.01559477981084,-46.24997716149437
+43,398,1,47.56230732,-122.3985869,0.0,1.0,"Brown, damp, silty sand with organics.",SM,Silty sand,13.803520972015653,blue,102,0.0,131.0268947798221,-45.56097716147178
+43,398,2,47.56230732,-122.3985869,1.0,6.0,"Tan, damp, medium dense, silty sand with gravels.",SP,Silty sand,13.803520972015653,blue,102,1.0,131.0268947798221,-45.56097716147178
+44,401,1,47.51394714,-122.3943873,0.0,2.0,"Loose, brown, silty, fine sand, trace of coarse sand and gravel, some organics, moist.",SW,Silty sand,15.885898529231437,blue,18,0.0,-352.57490522020873,-3.5649771615453574
+44,401,2,47.51394714,-122.3943873,2.0,11.0,"Medium stiff to stiff, gray-brown, mottled, silty clay, trace of sand, gravel and organics, moist.",SC,Silty clay,15.885898529231437,blue,18,2.0,-352.57490522020873,-3.5649771615453574
+44,401,3,47.51394714,-122.3943873,11.0,16.5,"Very stiff, gray, fine sandy, silty clay, trace of gravel, moist to wet.",CH,Silty clay,15.885898529231437,blue,18,11.0,-352.57490522020873,-3.5649771615453574
+45,401,1,47.51393991,-122.3943263,0.0,2.0,"Loose to medium dense, brown, silty fine sand, some gravel and organics, moist.",SW,Silty sand,15.882620606813624,blue,18,0.0,-352.6472052202223,-2.9549771615222653
+45,401,2,47.51393991,-122.3943263,2.0,9.5,"Stiff, gray-brown (mottled), silty clay, scattered sand, gravel and organics, moist.",OH,Silty clay,15.882620606813624,blue,18,2.0,-352.6472052202223,-2.9549771615222653
+45,401,3,47.51393991,-122.3943263,9.5,12.0,"Hard, gray, moist, silty clay.",CH,Silty clay,15.882620606813624,blue,18,9.5,-352.6472052202223,-2.9549771615222653
+46,401,1,47.51397336,-122.3944611,0.0,5.0,"Loose, brown, sandy silt, some organics, moist.",MH,Sandy silt,15.888739675873152,blue,18,0.0,-352.31270522018576,-4.302977161501076
+46,401,2,47.51397336,-122.3944611,5.0,17.0,"Medium to very stiff, gray, silty clay, moist to wet.",CH,Silty clay,15.888739675873152,blue,18,5.0,-352.31270522018576,-4.302977161501076
+46,401,3,47.51397336,-122.3944611,17.0,17.5,"Hard, gray, moist, silty clay.",CH,Silty clay,15.888739675873152,blue,18,17.0,-352.31270522018576,-4.302977161501076
+46,401,4,47.51397336,-122.3944611,17.5,18.5,"Very dense, gray, silty fine sand, moist to wet.",ML,Silty sand,15.888739675873152,blue,18,17.5,-352.31270522018576,-4.302977161501076
+47,402,1,47.51360308,-122.3942982,0.0,6.0,"Soft, gray, clayey silt, with some organic matter.",OL,Clayey silt,15.902640364066556,blue,22,0.0,-356.0155052201708,-2.6739771614359142
+47,402,2,47.51360308,-122.3942982,6.0,10.0,"Loose, gray, fine sandy silt, water-bearing.",MH,Sandy silt,15.902640364066556,blue,22,6.0,-356.0155052201708,-2.6739771614359142
+47,402,3,47.51360308,-122.3942982,10.0,10.5,"Medium stiff, gray, clayey silt.",MH,Clayey silt,15.902640364066556,blue,22,10.0,-356.0155052201708,-2.6739771614359142
+48,402,1,47.51362366,-122.3945499,0.0,3.0,"Soft to medium stiff, gray-brown, clayey silt, with some organic matter.",OL,Clayey silt,15.916740447605468,blue,13,0.0,-355.80970522019584,-5.1909771615044065
+48,402,2,47.51362366,-122.3945499,3.0,8.5,"Stiff, gray, clayey silt.",MH,Clayey silt,15.916740447605468,blue,13,3.0,-355.80970522019584,-5.1909771615044065
+49,402,1,47.51378904,-122.3943291,0.0,5.0,"Soft, gray to dark brown, clayey silt, with some organic matter.",OL,Clayey silt,15.892523549201975,blue,18,0.0,-354.15590522021034,-2.9829771614231504
+49,402,2,47.51378904,-122.3943291,5.0,12.0,"Loose, gray, fine sandy silt, water-bearing.",ML,Sandy silt,15.892523549201975,blue,18,5.0,-354.15590522021034,-2.9829771614231504
+49,402,3,47.51378904,-122.3943291,12.0,13.5,"Very stiff, gray, stratified, clayey silt and fine sandy silt.",MH,Clayey silt,15.892523549201975,blue,18,12.0,-354.15590522021034,-2.9829771614231504
+50,402,1,47.51382059,-122.3945811,0.0,2.5,"Soft to medium stiff, gray to brown, clayey silt, with some organic matter.",OL,Clayey silt,15.905949540976138,blue,18,0.0,-353.8404052201827,-5.502977161455647
+50,402,2,47.51382059,-122.3945811,2.5,13.5,"Stiff to medium stiff, gray, slightly clayey silt.",MH,Silt,15.905949540976138,blue,18,2.5,-353.8404052201827,-5.502977161455647
+51,403,1,47.51334121,-122.394382,0.0,3.0,"Soft, wet, brown silt.",ML,Fill,15.924716462464088,blue,11,0.0,-358.6342052201985,-3.511977161423374
+51,403,2,47.51334121,-122.394382,3.0,6.0,"Soft, wet, red-brown mottled, very silty, fine sand, with trace organics.",SM,Silty sand,15.924716462464088,blue,11,3.0,-358.6342052201985,-3.511977161423374
+51,403,3,47.51334121,-122.394382,6.0,9.0,"Soft, wet, blue-gray, fine sandy silt with gravel, and lenses of black silt with organics.",GM,Sandy silt,15.924716462464088,blue,11,6.0,-358.6342052201985,-3.511977161423374
+51,403,4,47.51334121,-122.394382,9.0,10.80000019,"Medium stiff, wet, blue-gray, silty clay.",CH,Silty clay,15.924716462464088,blue,11,9.0,-358.6342052201985,-3.511977161423374
+52,403,1,47.51339045,-122.3945578,0.0,3.200000048,"Soft, wet, blue-gray, slightly sandy silt with gravel.",SM-ML,Silt,15.932296617684154,blue,11,0.0,-358.14180522017125,-5.269977161503903
+52,403,2,47.51339045,-122.3945578,3.200000048,4.800000191,"Loose, wet, gray, fine sand.",SW,Sand,15.932296617684154,blue,11,3.200000048,-358.14180522017125,-5.269977161503903
+52,403,3,47.51339045,-122.3945578,4.800000191,6.599999905,"Soft, wet, brown, organic silt, with pieces of timber in silty sand matrix.",OL,Silty sand,15.932296617684154,blue,11,4.800000191,-358.14180522017125,-5.269977161503903
+52,403,4,47.51339045,-122.3945578,6.599999905,8.5,"Medium stiff, wet, blue-gray, clayey silt.",MH,Clayey silt,15.932296617684154,blue,11,6.599999905,-358.14180522017125,-5.269977161503903
+53,403,1,47.51329706,-122.3942307,0.0,1.0,"Soft, wet, red-brown mottled, very silty, fine sand, with trace organics.",SM,Silty sand,15.918314975364131,blue,17,0.0,-359.0757052202065,-1.9989771614348228
+53,403,2,47.51329706,-122.3942307,1.0,4.0,"Soft, wet, black, organic silt, with rotten wood pieces.",OL,Silt,15.918314975364131,blue,17,1.0,-359.0757052202065,-1.9989771614348228
+53,403,3,47.51329706,-122.3942307,4.0,8.0,"Soft, wet, blue-gray, fine, sandy silt to silty, fine sand.",SM-ML,Sandy silt,15.918314975364131,blue,17,4.0,-359.0757052202065,-1.9989771614348228
+54,403,1,47.51323538,-122.3943135,0.0,3.200000048,"Loose, damp, brown, gravel.",GP,Fill,15.92738033494786,blue,11,0.0,-359.6925052202238,-2.8269771614475303
+54,403,2,47.51323538,-122.3943135,3.200000048,4.400000095,"Soft, wet, blue-gray, clayey silt.",ML,Clayey silt,15.92738033494786,blue,11,3.200000048,-359.6925052202238,-2.8269771614475303
+54,403,3,47.51323538,-122.3943135,4.400000095,7.0,"Soft to medium stiff, wet, blue-gray, slightly sandy silt to silty, fine sand with small wood pieces.",SM-ML,Silt,15.92738033494786,blue,11,4.400000095,-359.6925052202238,-2.8269771614475303
+55,515,1,47.5748049,-122.407537,0.0,1.0,"Dark brown, fine, sandy silt, dry, soft, with roots.",ML,Sandy silt,14.146797209252664,blue,35,0.0,256.00269477976667,-135.06197716154134
+55,515,2,47.5748049,-122.407537,1.0,4.0,"Yellow and light gray, silty, fine to medium sand, moist, medium dense, occasional rounded gravel.",SM,Silty sand,14.146797209252664,blue,35,1.0,256.00269477976667,-135.06197716154134
+55,515,3,47.5748049,-122.407537,4.0,8.5,"Light yellow-brown, fine to coarse sand, moist, medium dense, little silt, little rounded gravel, occasional cobble.",SP-SM,Sand,14.146797209252664,blue,35,4.0,256.00269477976667,-135.06197716154134
+55,515,4,47.5748049,-122.407537,8.5,12.0,"Light brown and yellow-brown, plastic silt, moist, stiff.",MH,Silt,14.146797209252664,blue,35,8.5,256.00269477976667,-135.06197716154134
+56,515,1,47.57473791,-122.4079439,0.0,2.0,"3 inches light brown silt topsoil, sod, light brown, fine sandy silt, dry, soft, with roots to 1 inch diameter",ML,Topsoil / vegetation,14.178237504247264,blue,28,0.0,255.33279477983228,-139.13097716155676
+56,515,2,47.57473791,-122.4079439,2.0,4.5,"Brown, silty, fine sand, moist, medium dense, little rounded gravel.",SM,Silty sand,14.178237504247264,blue,28,2.0,255.33279477983228,-139.13097716155676
+56,515,3,47.57473791,-122.4079439,4.5,11.0,"Yellow and reddish brown, fine to medium, sandy silt, moist, medium stiff.",ML,Sandy silt,14.178237504247264,blue,28,4.5,255.33279477983228,-139.13097716155676
+57,516,1,47.57301326,-122.4092762,0.0,3.299999952,"Very loose to loose, dark brown, silty, fine sand to sandy silt, moist.",SM-ML,Silty sand,14.311149538799638,blue,26,0.0,238.08629477983345,-152.4539771614286
+57,516,2,47.57301326,-122.4092762,3.299999952,7.5,"Stiff to very stiff, brown to light gray, sandy, clayey silt, moist.",ML,Clayey silt,14.311149538799638,blue,26,3.299999952,238.08629477983345,-152.4539771614286
+58,516,1,47.57294274,-122.4092291,0.0,3.0,"Very loose, brown, slightly silty, slightly gravelly to gravelly, fine sand, moist.",SM,Sand,14.30911738665594,blue,26,0.0,237.3810947798205,-151.98297716153775
+58,516,2,47.57294274,-122.4092291,3.0,4.5,"Very loose, brown, silty, fine sand to sandy silt, with traces of gravel, moist to wet.",SM-ML,Silty sand,14.30911738665594,blue,26,3.0,237.3810947798205,-151.98297716153775
+58,516,3,47.57294274,-122.4092291,4.5,7.0,"Stiff to hard, brown to gray, slightly sandy, clayey silt to silty clay, wet, iron-oxide staining.",ML-CL,Clayey silt,14.30911738665594,blue,26,4.5,237.3810947798205,-151.98297716153775
+59,516,1,47.57294232,-122.4090872,0.0,3.0,"Loose, dark brown, slightly silty, slightly gravelly, fine to medium sand, moist, scattered organics; SM.",SM,Sand,14.298634597413788,blue,26,0.0,237.37689477982826,-150.56397716151082
+59,516,2,47.57294232,-122.4090872,3.0,4.5,"Medium dense, brown, silty, fine sand to sandy silt, wet.",SM-ML,Silty sand,14.298634597413788,blue,26,3.0,237.37689477982826,-150.56397716151082
+59,516,3,47.57294232,-122.4090872,4.5,7.5,"Medium dense, gray, slightly clayey, sandy silt, moist to wet.",ML,Sandy silt,14.298634597413788,blue,26,4.5,237.37689477982826,-150.56397716151082
+60,516,1,47.57304111,-122.4090827,0.0,6.0,"Very loose, dark brown, silty sand to sandy silt, moist, with scattered organics and 4 inch seam of sandy clay at 5 to 5.4 ft.",SM-ML,Silty sand,14.296269365065372,blue,26,0.0,238.364794779784,-150.51897716148233
+60,516,2,47.57304111,-122.4090827,6.0,7.5,"Loose, brown to gray, silty sand and sandy silt, interbedded at 4 to 6 inches, layers of oxide staining, moist to wet, scattered organics (charred wood).",SM,Silty sand,14.296269365065372,blue,26,6.0,238.364794779784,-150.51897716148233
+60,516,3,47.57304111,-122.4090827,7.5,11.5,"Loose to medium dense, gray, slightly silty to silty sand, wet, iron-oxide staining, occasional organics.",SM,Sand,14.296269365065372,blue,26,7.5,238.364794779784,-150.51897716148233
+60,516,4,47.57304111,-122.4090827,11.5,12.0,"Dense, gray, sandy silt, wet.",ML,Sandy silt,14.296269365065372,blue,26,11.5,238.364794779784,-150.51897716148233
+61,516,1,47.57303932,-122.409192,0.0,3.0,"Loose, brown, silty, fine sand, moist.",SM,Silty sand,14.304388347830198,blue,26,0.0,238.3468947797951,-151.61197716153652
+61,516,2,47.57303932,-122.409192,3.0,4.5,"Loose, brown to gray, silty, fine sand to sandy silt, moist.",SM-ML,Silty sand,14.304388347830198,blue,26,3.0,238.3468947797951,-151.61197716153652
+61,516,3,47.57303932,-122.409192,4.5,9.5,"Loose to medium dense, gray, silty, fine sand, trace gravel, scattered organics.",SM,Silty sand,14.304388347830198,blue,26,4.5,238.3468947797951,-151.61197716153652
+61,516,4,47.57303932,-122.409192,9.5,10.5,"Medium dense to dense, gray, sandy silt, moist to wet.",ML,Sandy silt,14.304388347830198,blue,26,9.5,238.3468947797951,-151.61197716153652
+62,521,1,47.57375712,-122.4129091,0.0,3.5,"Dark brown, silty, fine sand, moist, loose.",SM,Silty sand,14.5650976649492,blue,9,0.0,245.52489477983386,-188.78297716142356
+62,521,2,47.57375712,-122.4129091,3.5,5.5,"Brown, medium sand, moist, loose.",SP,Sand,14.5650976649492,blue,9,3.5,245.52489477983386,-188.78297716142356
+62,521,3,47.57375712,-122.4129091,5.5,8.0,"Brown, silt and sand, wet, soft.",ML,Silty sand,14.5650976649492,blue,9,5.5,245.52489477983386,-188.78297716142356
+62,521,4,47.57375712,-122.4129091,8.0,12.0,"Gray, silty, medium sand, wet, loose.",SM,Silty sand,14.5650976649492,blue,9,8.0,245.52489477983386,-188.78297716142356
+62,521,5,47.57375712,-122.4129091,12.0,18.0,"Gray, gravelly, silty, medium sand, very wet, loose.",SM,Silty sand,14.5650976649492,blue,9,12.0,245.52489477983386,-188.78297716142356
+62,521,6,47.57375712,-122.4129091,18.0,24.0,"Gray, clayey silt, very moist, hard.",ML,Clayey silt,14.5650976649492,blue,9,18.0,245.52489477983386,-188.78297716142356
+62,521,7,47.57375712,-122.4129091,24.0,30.5,"Gray, fine sand, moist, very dense.",SP,Sand,14.5650976649492,blue,9,24.0,245.52489477983386,-188.78297716142356
+63,528,1,47.56926926,-122.4078335,0.0,3.5,"Loose to medium dense, gray-brown, gravelly, silty, fine sand, dry, scattered plant fragments.",SM,Fill,14.287795158895426,blue,29,0.0,200.64629477978713,-138.02697716144507
+63,528,2,47.56926926,-122.4078335,3.5,14.5,"Loose, light brown to brown, clean to slightly silty, fine sand, dry to 6 ft.",SP-SM,Sand,14.287795158895426,blue,29,3.5,200.64629477978713,-138.02697716144507
+63,528,3,47.56926926,-122.4078335,14.5,15.0,"Stiff, gray, clayey silt, moist.",ML,Clayey silt,14.287795158895426,blue,29,14.5,200.64629477978713,-138.02697716144507
+64,529,1,47.56942733,-122.4082281,0.0,18.0,"Tan, loose to moderately dense, silty sand.",SM,Silty sand,14.313054062761998,blue,17,0.0,202.22699477983497,-141.97297716151525
+64,529,2,47.56942733,-122.4082281,18.0,35.5,"Light gray, silty sand, dense.",SM,Silty sand,14.313054062761998,blue,17,18.0,202.22699477983497,-141.97297716151525
+65,530,1,47.56926791,-122.4082508,0.0,2.400000095,"Loose, brown, slightly silty, gravelly sand, damp, with concrete and wood fragments.",SP,Fill,14.318500021473625,blue,12,0.0,200.632794779807,-142.19997716153898
+65,530,2,47.56926791,-122.4082508,2.400000095,6.0,"Loose to medium dense, clean, fine to medium sand, moist.",SP,Sand,14.318500021473625,blue,12,2.400000095,200.632794779807,-142.19997716153898
+65,530,3,47.56926791,-122.4082508,6.0,10.19999981,"Loose to medium dense, gray, silty sand, containing irregular layers of silty clay, with organics (wood fragments).",SM,Silty sand,14.318500021473625,blue,12,6.0,200.632794779807,-142.19997716153898
+65,530,4,47.56926791,-122.4082508,10.19999981,11.0,"Medium dense, dark brown, silty sand, containing wood fragments.",SM,Silty sand,14.318500021473625,blue,12,10.19999981,200.632794779807,-142.19997716153898
+66,530,1,47.5691857,-122.4082478,0.0,0.600000024,"Ivy roots, forest duff and organic material",PT,Topsoil / vegetation,14.320235409840684,blue,12,0.0,199.81069477978508,-142.16997716147262
+66,530,2,47.5691857,-122.4082478,0.600000024,1.0,"Loose, dark brown, silty sand, with scattered roots.",SM,Silty sand,14.320235409840684,blue,12,0.600000024,199.81069477978508,-142.16997716147262
+66,530,3,47.5691857,-122.4082478,1.0,10.80000019,"Loose to medium dense, light brown, fine to medium sand, damp.",SP,Sand,14.320235409840684,blue,12,1.0,199.81069477978508,-142.16997716147262
+66,530,4,47.5691857,-122.4082478,10.80000019,13.0,"Medium dense, gray, slightly silty, fine to medium sand, wet.",SM,Sand,14.320235409840684,blue,12,10.80000019,199.81069477978508,-142.16997716147262
+67,530,1,47.56928705,-122.4079192,0.0,0.600000024,"Dark brown, silty sand with roots.",SM,Silty sand,14.293670903341226,blue,18,0.0,200.8241947797984,-138.8839771614414
+67,530,2,47.56928705,-122.4079192,0.600000024,6.800000191,"Loose, light brown, fine to medium sand with minor organics and wood fragments.",SW,Sand,14.293670903341226,blue,18,0.600000024,200.8241947797984,-138.8839771614414
+67,530,3,47.56928705,-122.4079192,6.800000191,10.39999962,"Loose to medium dense, gray, slightly silty, fine to medium sand, wet.",SW,Sand,14.293670903341226,blue,18,6.800000191,200.8241947797984,-138.8839771614414
+67,530,4,47.56928705,-122.4079192,10.39999962,11.0,"Medium stiff, silty sand and clay, with scattered organics.",SC-SM,Silty sand,14.293670903341226,blue,18,10.39999962,200.8241947797984,-138.8839771614414
+67,530,5,47.56928705,-122.4079192,11.0,12.0,"Medium dense, gray sand, wet.",SP,Sand,14.293670903341226,blue,18,11.0,200.8241947797984,-138.8839771614414
+68,530,1,47.5691876,-122.4079643,0.0,0.200000003,Forest duff and dry roots,PT,Topsoil / vegetation,14.299354524173346,blue,18,0.0,199.82969477979395,-139.33497716152488
+68,530,2,47.5691876,-122.4079643,0.200000003,9.600000381,"Loose to medium dense, light brown, fine to medium sand, damp.",SP,Sand,14.299354524173346,blue,18,0.200000003,199.82969477979395,-139.33497716152488
+68,530,3,47.5691876,-122.4079643,9.600000381,11.0,"Loose to medium dense, slightly silty, fine to medium sand, wet, with occasional wood chips.",SM,Sand,14.299354524173346,blue,18,9.600000381,199.82969477979395,-139.33497716152488
+69,530,1,47.56922371,-122.4081033,0.0,1.399999976,"Loose, silty sand, with bricks and trash.",SM,Fill,14.30870966895707,blue,18,0.0,200.1907947798287,-140.72497716142607
+69,530,2,47.56922371,-122.4081033,1.399999976,6.0,"Loose, light brown, fine to medium sand, with occasional fragments of wood, damp.",SP,Sand,14.30870966895707,blue,18,1.399999976,200.1907947798287,-140.72497716142607
+69,530,3,47.56922371,-122.4081033,6.0,10.0,"Loose to medium dense, gray to brown mottled, slightly silty to silty, fine to medium sand, containing wood fragments, wet.",SM,Sand,14.30870966895707,blue,18,6.0,200.1907947798287,-140.72497716142607
+69,530,4,47.56922371,-122.4081033,10.0,11.0,"Gray, silty sand, with occasional organics.",SM,Silty sand,14.30870966895707,blue,18,10.0,200.1907947798287,-140.72497716142607
+70,530,1,47.5692143,-122.4081759,0.0,12.0,"Very loose to loose, brown to gray-brown, slightly silty to silty sand, damp to wet.",SM,Sand,14.314269733341972,blue,18,0.0,200.09669477978775,-141.45097716152577
+70,530,2,47.5692143,-122.4081759,12.0,20.5,"Medium dense to very dense, gray, slightly silty sand, with scattered root or wood fragments.",SP,Sand,14.314269733341972,blue,18,12.0,200.09669477978775,-141.45097716152577
+71,530,1,47.56922897,-122.4079496,0.0,6.800000191,"Loose, brown to gray-brown sand and silty sand, wet.",SW-SM,Sand,14.297287815904756,blue,18,0.0,200.24339477977549,-139.18797716144127
+71,530,2,47.56922897,-122.4079496,6.800000191,9.199999809,"Medium stiff to stiff, gray, clayey silt, damp with occasional wood fragments.",OH,Clayey silt,14.297287815904756,blue,18,6.800000191,200.24339477977549,-139.18797716144127
+71,530,3,47.56922897,-122.4079496,9.199999809,25.0,"Medium dense to very dense, slightly silty to silty sand, damp to wet.",SM,Sand,14.297287815904756,blue,18,9.199999809,200.24339477977549,-139.18797716144127
+72,575,1,47.53996136,-122.3901916,0.0,0.200000003,Asphalt,Not applicable,Asphalt / concrete,14.120384094016169,blue,55,0.0,-92.43270522020453,38.3920228385648
+72,575,2,47.53996136,-122.3901916,0.200000003,6.0,"Silty sand with gravel; brown, fine to medium sand, coarse gravel, medium dense, moist.",SM,Fill,14.120384094016169,blue,55,0.200000003,-92.43270522020453,38.3920228385648
+72,575,3,47.53996136,-122.3901916,6.0,24.5,"Sand; yellow brown, fine to coarse, trace silt and gravel, very dense, moist.",SW,Sand,14.120384094016169,blue,55,6.0,-92.43270522020453,38.3920228385648
+73,575,1,47.54033736,-122.3900024,0.0,0.100000001,Asphalt.,Not applicable,Asphalt / concrete,14.08898253269699,blue,57,0.0,-88.67270522017634,40.28402283850596
+73,575,2,47.54033736,-122.3900024,0.100000001,7.0,"Silty sand with gravel; brown, fine to medium, medium gravel medium dense, moist.",SM,Fill,14.08898253269699,blue,57,0.100000001,-88.67270522017634,40.28402283850596
+73,575,3,47.54033736,-122.3900024,7.0,12.0,"Sand; gray, fine to coarse, little gravel and silt, dense, moist.",SW,Sand,14.08898253269699,blue,57,7.0,-88.67270522017634,40.28402283850596
+73,575,4,47.54033736,-122.3900024,12.0,17.0,"Sand; dark gray, fine to coarse, few silt, little gravel dense, wet.",SW,Sand,14.08898253269699,blue,57,12.0,-88.67270522017634,40.28402283850596
+73,575,5,47.54033736,-122.3900024,17.0,23.79999924,"Sand; gray, fine to medium, trace fine to coarse gravel very dense, moist.",SP,Sand,14.08898253269699,blue,57,17.0,-88.67270522017634,40.28402283850596
+74,575,1,47.54017433,-122.3897415,0.0,0.129999995,Asphalt.,Not applicable,Asphalt / concrete,14.079487288191071,blue,57,0.0,-90.30300522020696,42.89302283851271
+74,575,2,47.54017433,-122.3897415,0.129999995,1.5,"Silty sand; brown mottled gray, few to little gravel, trace organics, medium dense, moist.",SM,Fill,14.079487288191071,blue,57,0.129999995,-90.30300522020696,42.89302283851271
+74,575,3,47.54017433,-122.3897415,1.5,2.5,"Silty sand, dark brown, fine to medium, medium dense, moist.",SM,Silty sand,14.079487288191071,blue,57,1.5,-90.30300522020696,42.89302283851271
+74,575,4,47.54017433,-122.3897415,2.5,4.5,"Sand; gray, fine to coarse, trace to few silt, trace gravel, medium dense, moist.",SW,Sand,14.079487288191071,blue,57,2.5,-90.30300522020696,42.89302283851271
+75,575,1,47.53999777,-122.3896381,0.0,0.200000003,Asphalt.,Not applicable,Asphalt / concrete,14.081310005673403,blue,57,0.0,-92.06860522020577,43.927022838516905
+75,575,2,47.53999777,-122.3896381,0.200000003,2.200000048,"Sand; gray, little silt and gravel, trace organics, medium dense, very moist.",SW,Fill,14.081310005673403,blue,57,0.200000003,-92.06860522020577,43.927022838516905
+75,575,3,47.53999777,-122.3896381,2.200000048,2.5,"Silty sand; gray-brown to mottled dark brown, fine to medium, dense, moist.",SM,Fill,14.081310005673403,blue,57,2.200000048,-92.06860522020577,43.927022838516905
+75,575,4,47.53999777,-122.3896381,2.5,4.5,"Sand; gray, fine to coarse, trace to few silt, trace gravel, medium dense, moist.",SW,Sand,14.081310005673403,blue,57,2.5,-92.06860522020577,43.927022838516905
+76,575,1,47.54023485,-122.3893913,0.0,0.200000003,Asphalt.,Not applicable,Asphalt / concrete,14.05289506897667,blue,58,0.0,-89.69780522022575,46.39502283851016
+76,575,2,47.54023485,-122.3893913,0.200000003,1.5,"Sand with gravel; gray brown, trace to few silt dense, moist.",SW,Fill,14.05289506897667,blue,58,0.200000003,-89.69780522022575,46.39502283851016
+76,575,3,47.54023485,-122.3893913,1.5,2.5,"Silty sand with gravel; gray brown, fine to medium, trace charcoal, medium dense, moist, weathered.",SM,Silty sand,14.05289506897667,blue,58,1.5,-89.69780522022575,46.39502283851016
+76,575,4,47.54023485,-122.3893913,2.5,4.5,"Sand; gray, fine to coarse, trace to few silt, trace gravel, medium dense, moist.",SW,Sand,14.05289506897667,blue,58,2.5,-89.69780522022575,46.39502283851016
+77,575,1,47.54046427,-122.389448,0.0,0.200000003,Asphalt.,Not applicable,Asphalt / concrete,14.04532837951035,blue,58,0.0,-87.40360522018875,45.82802283849219
+77,575,2,47.54046427,-122.389448,0.200000003,1.5,"Silty sand; red-brown, fine to medium, trace gravel and charcoal, medium dense, moist.",SM,Fill,14.04532837951035,blue,58,0.200000003,-87.40360522018875,45.82802283849219
+77,575,3,47.54046427,-122.389448,1.5,4.5,"Sand; gray-brown, fine to medium, trace gravel and silt, medium dense, moist.",SW,Sand,14.04532837951035,blue,58,1.5,-87.40360522018875,45.82802283849219
+78,575,1,47.54045329,-122.3889415,0.0,0.100000001,Asphalt.,Not applicable,Asphalt / concrete,14.011747087950928,blue,62,0.0,-87.5134052201787,50.89302283849406
+78,575,2,47.54045329,-122.3889415,0.100000001,6.0,"Silty sand with gravel; brown, fine to medium, trace organics, loose, slightly moist.",SM,Fill,14.011747087950928,blue,62,0.100000001,-87.5134052201787,50.89302283849406
+78,575,3,47.54045329,-122.3889415,6.0,13.0,"Sand with silt; brown mottled gray, fine to coarse, trace gravel, medium dense, moist.",SM,Sand,14.011747087950928,blue,62,6.0,-87.5134052201787,50.89302283849406
+78,575,4,47.54045329,-122.3889415,13.0,17.0,"Silty sand with gravel; brown fine to coarse sand, fine gravel, medium dense, very moist.",SM,Silty sand,14.011747087950928,blue,62,13.0,-87.5134052201787,50.89302283849406
+78,575,5,47.54045329,-122.3889415,17.0,20.0,"Sand with silt; brown, fine to medium, trace gravel, very dense, moist.",SW,Sand,14.011747087950928,blue,62,17.0,-87.5134052201787,50.89302283849406
+78,575,6,47.54045329,-122.3889415,20.0,29.5,"Sand; gray brown, fine to medium, trace silt and gravel, with occasional laminations of sandy silt, very dense, very moist.",SW,Sand,14.011747087950928,blue,62,20.0,-87.5134052201787,50.89302283849406
+79,575,1,47.54022712,-122.3890226,0.0,0.100000001,Asphalt.,Not applicable,Asphalt / concrete,14.028457749922987,blue,63,0.0,-89.77510522022669,50.082022838466855
+79,575,2,47.54022712,-122.3890226,0.100000001,6.0,"Silty sand with gravel; brown, fine to medium, trace organics, loose, moist.",SM,Fill,14.028457749922987,blue,63,0.100000001,-89.77510522022669,50.082022838466855
+79,575,3,47.54022712,-122.3890226,6.0,16.0,"Sand; gray brown, fine to coarse, little silt and gravel, very dense, wet.",SW,Sand,14.028457749922987,blue,63,6.0,-89.77510522022669,50.082022838466855
+79,575,4,47.54022712,-122.3890226,16.0,19.0,"Sand with gravel; gray, fine to coarse sand, fine gravel, very dense, wet.",SW,Sand,14.028457749922987,blue,63,16.0,-89.77510522022669,50.082022838466855
+79,575,5,47.54022712,-122.3890226,19.0,37.0,"Sand; brown, fine to medium, little gravel, trace silt, very dense, moist.",SW,Sand,14.028457749922987,blue,63,19.0,-89.77510522022669,50.082022838466855
+79,575,6,47.54022712,-122.3890226,37.0,39.5,"Sand; gray, fine to coarse, trace fine gravel, thinly bedded with fine to medium sand, dense, wet.",SW,Sand,14.028457749922987,blue,63,37.0,-89.77510522022669,50.082022838466855
+80,575,1,47.5400681,-122.389021,0.0,0.100000001,Asphalt.,Not applicable,Asphalt / concrete,14.036280119862434,blue,62,0.0,-91.36530522020792,50.098022838511724
+80,575,2,47.5400681,-122.389021,0.100000001,6.0,"Sand; brown, fine to coarse, little silt and gravel, loose, slightly moist.",SW,Fill,14.036280119862434,blue,62,0.100000001,-91.36530522020792,50.098022838511724
+80,575,3,47.5400681,-122.389021,6.0,8.0,"Sand with silt; brown mottled gray, fine to coarse, trace gravel, medium dense, moist.",SM,Sand,14.036280119862434,blue,62,6.0,-91.36530522020792,50.098022838511724
+80,575,4,47.5400681,-122.389021,8.0,11.0,"Silty sand with gravel; gray brown, fine to coarse sand, fine gravel, dense, moist.",SM,Silty sand,14.036280119862434,blue,62,8.0,-91.36530522020792,50.098022838511724
+80,575,5,47.5400681,-122.389021,11.0,17.0,"Sand; gray, fine to coarse, trace silt and gravel, thinly bedded with silty sand, dense, wet.",SW,Sand,14.036280119862434,blue,62,11.0,-91.36530522020792,50.098022838511724
+80,575,6,47.5400681,-122.389021,17.0,19.0,"Sand; gray, fine to coarse, trace gravel and silt, very dense, wet.",SW,Sand,14.036280119862434,blue,62,17.0,-91.36530522020792,50.098022838511724
+80,575,7,47.5400681,-122.389021,19.0,21.0,"Sand; gray brown, fine to medium, trace silt and gravel, with occasional laminations of sandy silt, very dense, very moist.",SP,Sand,14.036280119862434,blue,62,19.0,-91.36530522020792,50.098022838511724
+80,575,8,47.5400681,-122.389021,21.0,25.0,"Sand with silt and gravel, gray, fine to coarse sand, fine gravel, very dense, moist.",SW,Sand,14.036280119862434,blue,62,21.0,-91.36530522020792,50.098022838511724
+80,575,9,47.5400681,-122.389021,25.0,29.5,"Sand; gray brown, fine to coarse, trace and gravel, very dense, moist.",SW,Sand,14.036280119862434,blue,62,25.0,-91.36530522020792,50.098022838511724
+81,575,1,47.54009951,-122.3880988,0.0,0.100000001,Asphalt.,Not applicable,Asphalt / concrete,13.972704239763043,blue,63,0.0,-91.05120522022503,59.320022838562636
+81,575,2,47.54009951,-122.3880988,0.100000001,5.0,"Sand; brown, fine to medium, little silt and gravel, trace fine gravel, very dense, moist.",SW,Sand,13.972704239763043,blue,63,0.100000001,-91.05120522022503,59.320022838562636
+81,575,3,47.54009951,-122.3880988,5.0,12.5,"Sand; gray brown, fine to medium, trace silt, thinly bedded with stained zones of sand, very dense, moist.",SP,Sand,13.972704239763043,blue,63,5.0,-91.05120522022503,59.320022838562636
+81,575,4,47.54009951,-122.3880988,12.5,19.29999924,"Silty sand; gray, fine to medium sand, trace gravel, very dense, very moist grades with zones of iron stained sand, very moist.",SM,Silty sand,13.972704239763043,blue,63,12.5,-91.05120522022503,59.320022838562636
+82,575,1,47.54040378,-122.3881055,0.0,12.0,"Sand; brown, fine to medium, trace silt and gravel, dense, moist.",SP,Sand,13.957936887846092,blue,63,0.0,-88.0085052202162,59.253022838561265
+82,575,2,47.54040378,-122.3881055,12.0,15.0,"Silty sand with gravel; gray, fine to medium sand, medium gravel, very dense, very moist.",SM,Silty sand,13.957936887846092,blue,63,12.0,-88.0085052202162,59.253022838561265
+82,575,3,47.54040378,-122.3881055,15.0,19.0,"Silty sand with gravel; gray, fine to medium sand, medium gravel, very dense, very moist.",SM,Silty sand,13.957936887846092,blue,63,15.0,-88.0085052202162,59.253022838561265
+83,577,1,47.53993143,-122.384424,0.0,7.5,"Gray, silty sand with gravel, moist, loose to medium dense.",SM,Fill,13.734900207646854,blue,103,0.0,-92.73200522017078,96.06802283855131
+83,577,2,47.53993143,-122.384424,7.5,13.0,"Orange brown, silty, medium sand, loose, dry.",SP,Silty sand,13.734900207646854,blue,103,7.5,-92.73200522017078,96.06802283855131
+84,577,1,47.53997011,-122.3847453,0.0,5.0,"Gray, silty sand with gravel, moist, loose to medium dense.",SM,Fill,13.754409401027232,blue,102,0.0,-92.34520522021228,92.85502283844949
+84,577,2,47.53997011,-122.3847453,5.0,8.0,"Brown to gray, silty, medium sand.",SM,Silty sand,13.754409401027232,blue,102,5.0,-92.34520522021228,92.85502283844949
+85,583,1,47.54168974,-122.3938529,0.0,1.5,"Loose, dry, brown, sandy silt.",SM,Sandy silt,14.28402977958749,blue,16,0.0,-75.14890522017481,1.779022838519495
+85,583,2,47.54168974,-122.3938529,1.5,6.0,"Hard, dry, silty, gravelly sand.",SW,Gravelly sand,14.28402977958749,blue,16,1.5,-75.14890522017481,1.779022838519495
+86,583,1,47.54149999,-122.3938866,0.0,6.0,"Hard, dry, silty sand.",SM,Silty sand,14.29537692311412,blue,19,0.0,-77.04640522021577,1.4420228384892653
+87,583,1,47.54153105,-122.393831,0.0,7.0,"Dense, moist, blue-gray, silty sand, very moist.",SM,Silty sand,14.290113277554209,blue,16,0.0,-76.73580522016721,1.9980228384497423
+88,587,1,47.54472559,-122.396192,0.0,4.0,"Fill, clean, uncontrolled, stable as is.",,Fill,14.303482943497942,blue,55,0.0,-44.79040522021194,-21.61197716148422
+88,587,2,47.54472559,-122.396192,4.0,7.0,"Medium sand, silty and gravely (pebbles), dense.",SW,Sand,14.303482943497942,blue,55,4.0,-44.79040522021194,-21.61197716148422
+88,587,3,47.54472559,-122.396192,7.0,8.0,"Coarse sand, clean.",SP,Sand,14.303482943497942,blue,55,7.0,-44.79040522021194,-21.61197716148422
+89,587,1,47.54459504,-122.3964628,0.0,1.0,"Fill, clean.",,Fill,14.32799871340003,blue,55,0.0,-46.095905220226996,-24.319977161439965
+89,587,2,47.54459504,-122.3964628,1.0,5.0,"Silty, gravely sand, medium to light brown, dense.",SW,Gravelly sand,14.32799871340003,blue,55,1.0,-46.095905220226996,-24.319977161439965
+89,587,3,47.54459504,-122.3964628,5.0,9.0,"Coarse sand, non-plastic, medium brown to brown, dense.",SP,Sand,14.32799871340003,blue,55,5.0,-46.095905220226996,-24.319977161439965
+90,588,1,47.54471091,-122.3859494,0.0,0.800000012,"Asphalt (0.75 inches) over black, sandy silt, trace gravel, moist to wet, medium dense.",Not applicable-ML,Sandy silt,13.602578956755847,blue,72,0.0,-44.93720522020794,80.8140228384957
+90,588,2,47.54471091,-122.3859494,0.800000012,4.5,"Gray sand with silt, scattered gravel, with seams of silt to sandy silt, moist to wet, dense.",SP-SM,Sand,13.602578956755847,blue,72,0.800000012,-44.93720522020794,80.8140228384957
+90,588,3,47.54471091,-122.3859494,4.5,7.0,"Gray-brown, silty sand with gravel, fine sand, moist, very dense.",SM,Silty sand,13.602578956755847,blue,72,4.5,-44.93720522020794,80.8140228384957
+90,588,4,47.54471091,-122.3859494,7.0,20.0,"Gray-brown, silty sand, fine to medium, few to scattered gravel, transitions to less silty with depth, very moist to wet, dense to very dense.",SM,Silty sand,13.602578956755847,blue,72,7.0,-44.93720522020794,80.8140228384957
+90,588,5,47.54471091,-122.3859494,20.0,26.0,"Gray-brown to gray sand with silt, fine to medium, scattered gravel, wet, very dense.",SP-SM,Sand,13.602578956755847,blue,72,20.0,-44.93720522020794,80.8140228384957
+91,588,1,47.54454749,-122.3863891,0.0,1.0,"Asphalt (2 inches) over organic, sandy silt, some wood, peat, gravel, moist, loose.",Not applicable-OL,Sandy silt,13.640264407150122,blue,70,0.0,-46.571405220205975,76.41702283848417
+91,588,2,47.54454749,-122.3863891,1.0,1.799999952,"Gray silt, root traces, very moist. stiff.",ML,Silt,13.640264407150122,blue,70,1.0,-46.571405220205975,76.41702283848417
+91,588,3,47.54454749,-122.3863891,1.799999952,2.599999905,"Gray sand with silt, very moist to wet, medium dense.",SP-SM,Sand,13.640264407150122,blue,70,1.799999952,-46.571405220205975,76.41702283848417
+91,588,4,47.54454749,-122.3863891,2.599999905,8.0,"Gray silty sand, fine to medium, trace to little gravel, very moist to wet, dense.",SM,Silty sand,13.640264407150122,blue,70,2.599999905,-46.571405220205975,76.41702283848417
+91,588,5,47.54454749,-122.3863891,8.0,23.5,"Gray sand with silt, fine to medium, scattered large gravel, wet, occasional seams of silty sand, very dense.",SP-SM,Sand,13.640264407150122,blue,70,8.0,-46.571405220205975,76.41702283848417
+92,588,1,47.54420898,-122.3862962,0.0,1.0,"Asphalt (2 inches) over crushed rock (3 inches), over black organic silt, soft.",Not applicable-ML,Silt,13.650001098369712,blue,70,0.0,-49.95650522019446,77.34602283846925
+92,588,2,47.54420898,-122.3862962,1.0,3.0,"Black peat, silt with large pieces of wood, very moist, soft.",OL,Peat,13.650001098369712,blue,70,1.0,-49.95650522019446,77.34602283846925
+92,588,3,47.54420898,-122.3862962,3.0,5.0,"Dark-gray, silty sand, fine to medium, scattered gravel, wet, medium dense.",SM,Silty sand,13.650001098369712,blue,70,3.0,-49.95650522019446,77.34602283846925
+92,588,4,47.54420898,-122.3862962,5.0,7.0,"Gray silt, trace sand, root traces, seams of silty sand, wet, stiff.",ML,Silt,13.650001098369712,blue,70,5.0,-49.95650522019446,77.34602283846925
+92,588,5,47.54420898,-122.3862962,7.0,15.0,"Dark-gray, silty sand, fine to medium, scattered gravel, very moist to wet, dense to very dense.",SM,Silty sand,13.650001098369712,blue,70,7.0,-49.95650522019446,77.34602283846925
+92,588,6,47.54420898,-122.3862962,15.0,23.5,"Dark-gray sand with silt, fine to medium, wet, very dense.",SP-SM,Sand,13.650001098369712,blue,70,15.0,-49.95650522019446,77.34602283846925
+93,633,1,47.53773945,-122.3844884,0.0,3.0,"Loose, brown, silty sand with fine roots, occasional gravel.",SM,Silty sand,13.852952044924358,blue,106,0.0,-114.65180522023388,95.42402283855722
+93,633,2,47.53773945,-122.3844884,3.0,4.5,"Medium dense, slightly clayey, fine sand with gravel.",GW,Sand,13.852952044924358,blue,106,3.0,-114.65180522023388,95.42402283855722
+93,633,3,47.53773945,-122.3844884,4.5,5.099999905,"Very dense, brown and gray, silty, very fine sand with trace fine roots.",MH,Silty sand,13.852952044924358,blue,106,4.5,-114.65180522023388,95.42402283855722
+94,633,1,47.53783745,-122.3845324,0.0,2.5,"Loose, brown to grayish-brown, silty, fine sand with organics in top 1.5 ft.",ML,Silty sand,13.850713787741356,blue,106,0.0,-113.67180522022124,94.98402283853125
+94,633,2,47.53783745,-122.3845324,2.5,3.5,"Medium dense, grayish-brown, silty fine sand.",ML,Silty sand,13.850713787741356,blue,106,2.5,-113.67180522022124,94.98402283853125
+94,633,3,47.53783745,-122.3845324,3.5,4.5,"Very dense, grayish-brown to light brownish-gray, silty, fine sand with gravel.",GM,Silty sand,13.850713787741356,blue,106,3.5,-113.67180522022124,94.98402283853125
+95,633,1,47.53798669,-122.3844607,0.0,2.5,"Very loose, brown, slightly silty sand with fine roots.",SM,Sand,13.838115826194638,blue,105,0.0,-112.17940522023184,95.70102283845472
+95,633,2,47.53798669,-122.3844607,2.5,3.5,"Dense brown to grayish-brown, silty, fine sand with gravel.",GM,Silty sand,13.838115826194638,blue,105,2.5,-112.17940522023184,95.70102283845472
+95,633,3,47.53798669,-122.3844607,3.5,5.0,"Very dense, grayish-brown to brownish-gray, silty, fine sand with gravel.",GM,Silty sand,13.838115826194638,blue,105,3.5,-112.17940522023184,95.70102283845472
+96,633,1,47.53802604,-122.3844013,0.0,4.5,"Very loose to loose, brown, silty, fine sand with gravel and organics.",GM,Silty sand,13.83210801158016,blue,105,0.0,-111.78590522021636,96.29502283857505
+96,633,2,47.53802604,-122.3844013,4.5,5.5,"Very dense, brownish-gray, slightly silty, fine sand with gravel and occasional iron staining.",GM,Sand,13.83210801158016,blue,105,4.5,-111.78590522021636,96.29502283857505
+97,633,1,47.53809063,-122.3844765,0.0,6.0,"Very loose to loose, brown, silty, fine sand with gravel near surface, organics.",GM,Silty sand,13.833712554975165,blue,105,0.0,-111.14000522020717,95.54302283845573
+97,633,2,47.53809063,-122.3844765,6.0,7.0,"Medium dense, brown, silty, fine sand with gravel.",GM,Silty sand,13.833712554975165,blue,105,6.0,-111.14000522020717,95.54302283845573
+97,633,3,47.53809063,-122.3844765,7.0,8.100000381,"Very dense, brownish-gray, silty, fine sand with gravel, iron staining.",GM,Silty sand,13.833712554975165,blue,105,7.0,-111.14000522020717,95.54302283845573
+98,638,1,47.53753344,-122.3797597,0.0,1.0,Black organic topsoil with roots,PT,Topsoil / vegetation,13.551548622322658,blue,137,0.0,-116.71190522022812,142.71102283856862
+98,638,2,47.53753344,-122.3797597,1.0,4.0,"Loose to medium dense, brown silty fine sand, some roots.",SM,Silty sand,13.551548622322658,blue,137,1.0,-116.71190522022812,142.71102283856862
+98,638,3,47.53753344,-122.3797597,4.0,9.0,"Medium dense, tan, slightly silty, gravelly sand.  Some silty pockets becomes gray and dense with depth.",GM,Gravelly sand,13.551548622322658,blue,137,4.0,-116.71190522022812,142.71102283856862
+99,638,1,47.53752051,-122.3798807,0.0,1.0,Tan sandy fill.,SP,Fill,13.560210263768106,blue,131,0.0,-116.84120522019725,141.5010228384972
+99,638,2,47.53752051,-122.3798807,1.0,1.5,Black organic topsoil,PT,Topsoil / vegetation,13.560210263768106,blue,131,1.0,-116.84120522019725,141.5010228384972
+99,638,3,47.53752051,-122.3798807,1.5,9.0,"Loose to medium dense, tan, slightly gravelly sand, interbedded with silty, fine sand, fine, sandy gravel and slightly sandy gravel.  Becomes tan, and dense to very dense, with depth.",GM,Gravelly sand,13.560210263768106,blue,131,1.5,-116.84120522019725,141.5010228384972
+100,638,1,47.5374693,-122.3796562,0.0,0.5,"Loose, gravelly sand.",SW,Gravelly sand,13.548205264013385,blue,137,0.0,-117.35330522022025,143.74602283851345
+100,638,2,47.5374693,-122.3796562,0.5,2.0,"Very dense, gray, interbedded, gravelly sand, and silty, fine sand.",SW,Gravelly sand,13.548205264013385,blue,137,0.5,-117.35330522022025,143.74602283851345
+101,638,1,47.53742969,-122.3797317,0.0,2.0,"Very dense, gray, interbedded, gravelly sand, and silty, fine sand.",SW,Gravelly sand,13.555314057078627,blue,137,0.0,-117.74940522016664,142.99102283857223
+102,658,1,47.52864472,-122.3886656,0.0,9.0,"Loose, brown sand with organics.",SP,Sand,14.627697047732877,blue,96,0.0,-205.59910522017333,53.65202283854842
+102,658,2,47.52864472,-122.3886656,9.0,30.0,"Light brown, brown to grayish brown, non plastic, poorly graded sand with silt to silty sand, medium dense to very dense.",SP-SM,Sand,14.627697047732877,blue,96,9.0,-205.59910522017333,53.65202283854842
+102,658,3,47.52864472,-122.3886656,30.0,49.0,"Wet, gray, fine clay with sand, very plastic, very dense, occasionally gravelly.",ML,Clay,14.627697047732877,blue,96,30.0,-205.59910522017333,53.65202283854842
+103,658,1,47.52862163,-122.3892437,0.0,13.0,"Light brown, poorly graded sand with silt to silty sand, medium dense to dense.",SM,Sand,14.666284770135206,blue,77,0.0,-205.83000522016448,47.871022838563704
+103,658,2,47.52862163,-122.3892437,13.0,17.5,"Gray, fine clay with sand, very plastic, dense, occasionally gravelly.",ML,Clay,14.666284770135206,blue,77,13.0,-205.83000522016448,47.871022838563704
+104,721,1,47.5780832,-122.4050972,0.0,0.5,Sandy topsoil,PT,Topsoil / vegetation,13.906893000865836,blue,13,0.0,288.7856947798184,-110.66397716149368
+104,721,2,47.5780832,-122.4050972,0.5,4.0,"Brown sand, trace of silt, fine-grained, moist, loose to medium dense.",SP,Sand,13.906893000865836,blue,13,0.5,288.7856947798184,-110.66397716149368
+104,721,3,47.5780832,-122.4050972,4.0,8.0,"Brown-gray, gravelly sand, coarse-grained, very wet, medium dense, becomes gray, non-gravelly, saturated.",SP,Gravelly sand,13.906893000865836,blue,13,4.0,288.7856947798184,-110.66397716149368
+104,721,4,47.5780832,-122.4050972,8.0,9.0,"Dark gray, slightly sandy silt, low elasticity, moist, very stiff.",ML,Silt,13.906893000865836,blue,13,8.0,288.7856947798184,-110.66397716149368
+105,721,1,47.57792567,-122.4051726,0.0,5.0,"Gray, gravelly, silty sand with organics, moist, loose to medium dense.",SM,Silty sand,13.915129715800706,blue,8,0.0,287.21039477979105,-111.41797716149426
+105,721,2,47.57792567,-122.4051726,5.0,8.0,"Brown sand, trace of silt, medium-grained, moist, loose to medium dense, lens of saturated silt.",SP,Sand,13.915129715800706,blue,8,5.0,287.21039477979105,-111.41797716149426
+105,721,3,47.57792567,-122.4051726,8.0,9.0,"Brown, gravelly sand, coarse-grained, saturated, medium dense.",SP,Gravelly sand,13.915129715800706,blue,8,8.0,287.21039477979105,-111.41797716149426
+105,721,4,47.57792567,-122.4051726,9.0,11.0,"Blue-gray, silty sand, fine to medium-grained, wet, medium dense.",SM,Silty sand,13.915129715800706,blue,8,9.0,287.21039477979105,-111.41797716149426
+106,731,1,47.59175255,-122.388573,0.0,1.0,"Very loose, dark brown, silty sand, moist",SM,Topsoil / vegetation,12.520291703035683,blue,73,0.0,425.4791947798253,54.578022838569495
+106,731,2,47.59175255,-122.388573,1.0,3.5,"Soft to stiff, mottled tan, silty clay, moist to wet, iron-oxide stains.",CL,Fill,12.520291703035683,blue,73,1.0,425.4791947798253,54.578022838569495
+106,731,3,47.59175255,-122.388573,3.5,6.0,"Dense, brown, silt, fine sand, moist to wet.",SM,Fill,12.520291703035683,blue,73,3.5,425.4791947798253,54.578022838569495
+106,731,4,47.59175255,-122.388573,6.0,6.5,"Very dense, light brown, silty, fine sand, moist.",SM,Silty sand,12.520291703035683,blue,73,6.0,425.4791947798253,54.578022838569495
+107,731,1,47.59177688,-122.3885942,0.0,8.0,"Very loose grading to medium dense, light brown, slightly silty to silty, fine sand, moist, trace of organics.",SM,Fill,12.52176473463793,blue,73,0.0,425.72249477977664,54.36602283850789
+107,731,2,47.59177688,-122.3885942,8.0,9.0,"Very dense, silty, fine sand, moist.",SM,Silty sand,12.52176473463793,blue,73,8.0,425.72249477977664,54.36602283850789
+108,731,1,47.59178615,-122.3885296,0.0,2.0,"Soft to medium stiff, mottled tan, gravelly, silty clay, moist, iron-oxide stains.",GC,Fill,12.516865237961548,blue,73,0.0,425.8151947797728,55.012022838525354
+108,731,2,47.59178615,-122.3885296,2.0,6.0,"Loose to dense, brown, silty, fine sand, moist.",SM,Fill,12.516865237961548,blue,73,2.0,425.8151947797728,55.012022838525354
+108,731,3,47.59178615,-122.3885296,6.0,6.5,"Very dense, light brown, silty, fine sand, moist.",SM,Fill,12.516865237961548,blue,73,6.0,425.8151947797728,55.012022838525354
+109,732,1,47.59337809,-122.3872483,0.0,4.5,"Loose, dark brown to brown, silty, fine sand, moist, with layered fine, sandy silt, mottled with roots and organics.",SM,Silty sand,12.413978307592446,blue,71,0.0,441.7345947798168,67.82502283854797
+109,732,2,47.59337809,-122.3872483,4.5,8.300000191,"Medium dense to dense, light brown, slightly silty, fine to medium sand, moist.",SP,Sand,12.413978307592446,blue,71,4.5,441.7345947798168,67.82502283854797
+110,732,1,47.59322914,-122.3871336,0.0,5.0,"Very loose to loose, brown, silty, fine sand, moist, with fine roots and charcoal.",SM,Silty sand,12.40586783129674,blue,71,0.0,440.24509477978313,68.97202283852266
+110,732,2,47.59322914,-122.3871336,5.0,9.0,"Medium dense to dense, light brown, silty, fine sand and slightly silty, fine to medium sand, moist.",SM-SP,Silty sand,12.40586783129674,blue,71,5.0,440.24509477978313,68.97202283852266
+111,732,1,47.59323127,-122.3873404,0.0,1.5,"Loose, light brown, slightly silty, fine to medium sand, moist.",SP,Sand,12.421406051956296,blue,71,0.0,440.26639477976914,66.90402283851427
+111,732,2,47.59323127,-122.3873404,1.5,5.5,"Medium dense to dense, light brown to gray, slightly silty, fine to medium sand, moist.",SP,Sand,12.421406051956296,blue,71,1.5,440.26639477976914,66.90402283851427
+112,732,1,47.59339949,-122.3872815,0.0,2.5,"Very loose to loose, dark brown and brown, silty, fine sand to slightly silty, fine to medium sand, moist.",SM-SP,Silty sand,12.41640242642358,blue,71,0.0,441.9485947798307,67.49302283850511
+112,732,2,47.59339949,-122.3872815,2.5,4.5,"Medium dense, light brown, fine to medium sand, moist.",SP,Sand,12.41640242642358,blue,71,2.5,441.9485947798307,67.49302283850511
+113,732,1,47.59334376,-122.3873363,0.0,1.0,"Loose, brown, silty, fine sand, moist, with roots and topsoil",SM,Topsoil / vegetation,12.42070970027469,blue,71,0.0,441.39129477983374,66.94502283849602
+113,732,2,47.59334376,-122.3873363,1.0,3.5,"Medium dense to dense, gray, fine to medium sand, moist.",SP,Sand,12.42070970027469,blue,71,1.0,441.39129477983374,66.94502283849602
+114,732,1,47.59324125,-122.3874016,0.0,3.0,"Loose, light brown, silty, fine sand, moist to wet, mottled with scattered silt layers.",SM,Silty sand,12.42597168900878,blue,60,0.0,440.36619477978434,66.2920228384678
+114,732,2,47.59324125,-122.3874016,3.0,4.5,"Medium dense to dense, light brown and gray-brown, silty, fine sand and fine to medium sand, moist.",SM-SP,Silty sand,12.42597168900878,blue,60,3.0,440.36619477978434,66.2920228384678
+115,732,1,47.59324601,-122.3874463,0.0,15.0,"Loose to medium dense, brown and gray, silty, fine sand, moist, mixed with fine to medium sand and slightly clayey, fine, sandy silt, mottled with trace of charcoal.",SM,Fill,12.429315296320963,blue,60,0.0,440.4137947798148,65.84502283857319
+115,732,2,47.59324601,-122.3874463,15.0,17.0,"Medium dense, light brown, silty, fine sand and fine, sandy silt, moist, laminated to layered.",SP,Silty sand,12.429315296320963,blue,60,15.0,440.4137947798148,65.84502283857319
+116,732,1,47.59325338,-122.3874993,0.0,4.5,"Medium dense, brown and gray, silty, fine sand, moist, mottled with scattered organics.",SM,Fill,12.433273782937132,blue,60,0.0,440.4874947798021,65.31502283849022
+116,732,2,47.59325338,-122.3874993,4.5,5.5,"Dense, gray, fine to coarse, sandy gravel, moist.",GP,Fill,12.433273782937132,blue,60,4.5,440.4874947798021,65.31502283849022
+116,732,3,47.59325338,-122.3874993,5.5,8.5,"Medium dense, light brown, slightly silty, gravelly, fine sand, moist.",SP,Gravelly sand,12.433273782937132,blue,60,5.5,440.4874947798021,65.31502283849022
+116,732,4,47.59325338,-122.3874993,8.5,11.0,"Medium dense to dense, light brown, slightly silty, fine sand and fine to medium sand, moist, faintly laminated.",SP,Sand,12.433273782937132,blue,60,8.5,440.4874947798021,65.31502283849022
+117,732,1,47.59325546,-122.3875399,0.0,3.0,"Loose, dark brown, silty, fine sand mixed with topsoil and organics.",SM,Fill,12.436318577145938,blue,60,0.0,440.5082947798178,64.90902283857736
+117,732,2,47.59325546,-122.3875399,3.0,4.5,"Medium dense and loose, light brown, fine sandy silt, mixed with silty, fine sand, moist, with charcoal and organics.",SM,Fill,12.436318577145938,blue,60,3.0,440.5082947798178,64.90902283857736
+117,732,3,47.59325546,-122.3875399,4.5,13.0,"Loose to medium dense, light brown, slightly silty, fine to medium sand, moist.",SP,Sand,12.436318577145938,blue,60,4.5,440.5082947798178,64.90902283857736
+118,732,1,47.59328285,-122.3877111,0.0,6.5,"Very loose to loose, light brown, slightly silty, fine to medium sand, moist.",SP,Sand,12.449093432854657,blue,50,0.0,440.78219477981406,63.197022838465955
+118,732,2,47.59328285,-122.3877111,6.5,9.0,"Medium dense to dense, light brown, slightly silty, fine to medium sand, moist.",SP,Sand,12.449093432854657,blue,50,6.5,440.78219477981406,63.197022838465955
+119,732,1,47.59346956,-122.387357,0.0,1.0,"Very loose, dark brown, silty, fine sand mixed with topsoil and roots",SM,Topsoil / vegetation,12.421846702388246,blue,71,0.0,442.6492947798266,66.7380228385639
+119,732,2,47.59346956,-122.387357,1.0,10.5,"Loose, light brown, silty, fine sand, moist.",SM,Silty sand,12.421846702388246,blue,71,1.0,442.6492947798266,66.7380228385639
+119,732,3,47.59346956,-122.387357,10.5,13.0,"Medium dense to very dense, light brown, slightly silty, fine to medium sand, moist.",SW,Sand,12.421846702388246,blue,71,10.5,442.6492947798266,66.7380228385639
+120,732,1,47.59318458,-122.3870064,0.0,1.5,"Loose, dark brown, silty, fine sand mixed with topsoil and roots",SM,Topsoil / vegetation,12.396463507008486,blue,67,0.0,439.7994947797912,70.24402283846598
+120,732,2,47.59318458,-122.3870064,1.5,24.5,"Loose, light brown, slightly silty, fine to medium sand and fine sand, moist.",SP,Fill,12.396463507008486,blue,67,1.5,439.7994947797912,70.24402283846598
+120,732,3,47.59318458,-122.3870064,24.5,25.5,"Medium dense to dense, light brown, silty, fine sand, moist.",SM,Silty sand,12.396463507008486,blue,67,24.5,439.7994947797912,70.24402283846598
+121,733,1,47.59177678,-122.3882618,0.0,4.5,"Very loose, brown, slightly silty to silty, fine to medium sand with coarse sand and numerous burnt wood fragments and cinders.",SW,Fill,12.496789196963846,blue,75,0.0,425.72149477976495,57.69002283855684
+121,733,2,47.59177678,-122.3882618,4.5,13.5,"Very loose to very dense with depth, brown, slightly silty to silty, fine to medium sand with occasional coarse sand.",SW,Sand,12.496789196963846,blue,75,4.5,425.72149477976495,57.69002283855684
+122,733,1,47.59181495,-122.3882753,0.0,8.0,"Very loose to loose, brown, silty, fine to medium sand with burnt wood fragments, cinders and coal debris.",SP,Fill,12.497616302514697,blue,71,0.0,426.10319477979886,57.55502283847136
+122,733,2,47.59181495,-122.3882753,8.0,10.5,"Loose to medium dense, brown, silty sand and sandy silt.",SM,Silty sand,12.497616302514697,blue,71,8.0,426.10319477979886,57.55502283847136
+122,733,3,47.59181495,-122.3882753,10.5,13.0,"Medium dense to very dense, brown, silty, fine to medium sand.",SP,Silty sand,12.497616302514697,blue,71,10.5,426.10319477979886,57.55502283847136
+123,733,1,47.59179283,-122.3882867,0.0,5.5,"Very loose, brown, slightly silty to silty, fine to medium sand.",SM,Fill,12.498581230370773,blue,75,0.0,425.8819947798287,57.44102283856023
+123,733,2,47.59179283,-122.3882867,5.5,9.0,"Medium to very dense, brown, sandy silt with occasional gravel.",SM,Sandy silt,12.498581230370773,blue,75,5.5,425.8819947798287,57.44102283856023
+123,733,3,47.59179283,-122.3882867,9.0,11.5,"Loose to very dense, brown, slightly silty, fine to medium sand.",SW,Sand,12.498581230370773,blue,75,9.0,425.8819947798287,57.44102283856023
+124,734,1,47.59150064,-122.3890586,0.0,12.0,"Medium dense, light brown to light gray, slightly silty to silty, fine sand, dry to moist with some iron-oxide stains.",SM,Sand,12.558051026637807,blue,73,0.0,422.96009477979624,49.72202283852312
+124,734,2,47.59150064,-122.3890586,12.0,51.0,"Dense to very dense, light gray, silty to slightly silty fine sand, moist to wet, with iron-oxide stains, and zones of silt.",SM,Silty sand,12.558051026637807,blue,73,12.0,422.96009477979624,49.72202283852312
+124,734,3,47.59150064,-122.3890586,51.0,66.0,"Very dense, blue-gray, silty fine sand with layers of silt.",SM,Silty sand,12.558051026637807,blue,73,51.0,422.96009477979624,49.72202283852312
+124,734,4,47.59150064,-122.3890586,66.0,86.5,"Very hard, blue-gray, clayey silt to silty clay, moist with silt partings.",CL,Clayey silt,12.558051026637807,blue,73,66.0,422.96009477979624,49.72202283852312
+125,734,1,47.59149643,-122.3893179,0.0,7.0,"Loose, light brown, silty sand, dry with pockets of silt, wood debris and organics.",SM,Fill,12.57755430515854,blue,66,0.0,422.9179947797945,47.12902283856124
+125,734,2,47.59149643,-122.3893179,7.0,17.0,"Medium dense to dense, light gray to light brown, silty fine sand, dry with zones and pockets of silt and iron-oxide staining.",SM,Silty sand,12.57755430515854,blue,66,7.0,422.9179947797945,47.12902283856124
+125,734,3,47.59149643,-122.3893179,17.0,30.0,"Very hard, blue-gray, silty clay to clayey silt, moist to dry with silt partings and fractured structure.",CL,Silty clay,12.57755430515854,blue,66,17.0,422.9179947797945,47.12902283856124
+125,734,4,47.59149643,-122.3893179,30.0,78.0,"Dense to very dense, light gray, silty fine sand, dry.",SM,Silty sand,12.57755430515854,blue,66,30.0,422.9179947797945,47.12902283856124
+125,734,5,47.59149643,-122.3893179,78.0,91.40000153,"Hard, blue-gray, clayey silt to silty clay, moist to dry.",CL,Clayey silt,12.57755430515854,blue,66,78.0,422.9179947797945,47.12902283856124
+126,734,1,47.59127608,-122.389379,0.0,16.0,"Loose to medium dense, rust-brown to brown, slightly clayey, silty fine to medium sand, dry with pockets of silt and clay, organics, wood, and burnt wood debris.",SM,Fill,12.583307573390616,blue,66,0.0,420.7144947798014,46.51802283845541
+126,734,2,47.59127608,-122.389379,16.0,40.0,"Dense to very dense, light brown to light gray, silty fine sand, dry.",SM,Silty sand,12.583307573390616,blue,66,16.0,420.7144947798014,46.51802283845541
+126,734,3,47.59127608,-122.389379,40.0,66.0,"Interbedded hard, blue-gray, silty clay to clayey silt, dry to wet with slicken side and fractured structure.",CL,Silty clay,12.583307573390616,blue,66,40.0,420.7144947798014,46.51802283845541
+126,734,4,47.59127608,-122.389379,66.0,100.8000031,"Very dense, light gray to blue-gray, silty fine sand with zones and layers of silt.",SM,Silty sand,12.583307573390616,blue,66,66.0,420.7144947798014,46.51802283845541
+127,735,1,47.59099553,-122.3897704,0.0,0.200000003,"Dark brown, organic, silty, fine sand, moist with scattered gravel and roots",SM,Topsoil / vegetation,12.614257250125688,blue,76,0.0,417.9089947798076,42.604022838474975
+127,735,2,47.59099553,-122.3897704,0.200000003,2.5,"Loose, brown, slightly silty, fine sand, moist.",SM,Fill,12.614257250125688,blue,76,0.200000003,417.9089947798076,42.604022838474975
+127,735,3,47.59099553,-122.3897704,2.5,3.5,"Dark brown-black, sand and gravel, cemented, possibly asphalt.",SP,Fill,12.614257250125688,blue,76,2.5,417.9089947798076,42.604022838474975
+127,735,4,47.59099553,-122.3897704,3.5,7.0,"Loose to medium dense, brown, silty fine sand, moist with fine roots.",SP,Silty sand,12.614257250125688,blue,76,3.5,417.9089947798076,42.604022838474975
+127,735,5,47.59099553,-122.3897704,7.0,9.0,"Dense to very dense, light brown, fine sand, moist, trace of silt.",SP,Sand,12.614257250125688,blue,76,7.0,417.9089947798076,42.604022838474975
+128,735,1,47.59106496,-122.3897161,0.0,6.0,"Loose, brown, slightly silty fine sand, moist with occasional fine roots and gravel in upper 3 ft, locally some oxidation staining.",SM,Silty sand,12.609788598711347,blue,76,0.0,418.6032947797713,43.147022838496696
+128,735,2,47.59106496,-122.3897161,6.0,10.5,"Medium dense to dense, light brown to brown, fine sand, moist, locally slightly silty to silty, and some iron-oxide staining.",SP,Sand,12.609788598711347,blue,76,6.0,418.6032947797713,43.147022838496696
+129,735,1,47.5911759,-122.3896389,0.0,0.100000001,Grass,Not applicable,Topsoil / vegetation,12.603376059721988,blue,76,0.0,419.7126947798324,43.919022838565525
+129,735,2,47.5911759,-122.3896389,0.100000001,7.0,"Medium dense, light brown, fine sand, moist with trace of silt, occasional fine roots and some iron-oxide staining, seam of fine gravelly, fine to coarse sand.",SP,Sand,12.603376059721988,blue,76,0.100000001,419.7126947798324,43.919022838565525
+129,735,3,47.5911759,-122.3896389,7.0,11.5,"Dense to very dense, light brown, fine sand, moist with trace of silt.",SM,Sand,12.603376059721988,blue,76,7.0,419.7126947798324,43.919022838565525
+130,737,1,47.58363662,-122.3961401,0.0,14.5,"Gray, moist, fine grained sand with a trace of gravel.",SP,Sand,13.15825082722714,blue,80,0.0,344.31989477980096,-21.092977161458748
+131,737,1,47.58356967,-122.3962107,0.0,3.5,"Gray, damp, fine grained sand with minor gravel.",SP,Sand,13.164356491187569,blue,80,0.0,343.6503947798286,-21.798977161466837
+131,737,2,47.58356967,-122.3962107,3.5,7.0,"Reddish-brown, moist, silty, fine grained sand, with wood debris, and minor gravel.",SM,Silty sand,13.164356491187569,blue,80,3.5,343.6503947798286,-21.798977161466837
+131,737,3,47.58356967,-122.3962107,7.0,12.0,"Brown, moist, fine grained sand with a trace of silt, and gravel.",SP,Sand,13.164356491187569,blue,80,7.0,343.6503947798286,-21.798977161466837
+131,737,4,47.58356967,-122.3962107,12.0,31.0,"Gray, moist, fine grained sand.",SP,Sand,13.164356491187569,blue,80,12.0,343.6503947798286,-21.798977161466837
+131,737,5,47.58356967,-122.3962107,31.0,62.0,"Gray, moist, very fine to fine grained sand.",SP,Sand,13.164356491187569,blue,80,31.0,343.6503947798286,-21.798977161466837
+131,737,6,47.58356967,-122.3962107,62.0,64.5,"Gray, damp, silty clay, below plastic limit.",CL,Silty clay,13.164356491187569,blue,80,62.0,343.6503947798286,-21.798977161466837
+132,769,1,47.53177866,-122.3913879,0.0,2.599999905,"Brown silt with clay, soft.",CH,Fill,14.628272430720846,blue,51,0.0,-174.2597052201944,26.42902283852777
+132,769,2,47.53177866,-122.3913879,2.599999905,3.299999952,Dark brown organic topsoil,PT,Topsoil / vegetation,14.628272430720846,blue,51,2.599999905,-174.2597052201944,26.42902283852777
+132,769,3,47.53177866,-122.3913879,3.299999952,7.5,"Brown and mottled brown, silty, very fine sand, very stiff.",SP,Silty sand,14.628272430720846,blue,51,3.299999952,-174.2597052201944,26.42902283852777
+132,769,4,47.53177866,-122.3913879,7.5,8.5,"Brown to tan, clayey silt, very stiff to hard, severely fissured.",CL,Clayey silt,14.628272430720846,blue,51,7.5,-174.2597052201944,26.42902283852777
+133,769,1,47.53179005,-122.3910239,0.0,1.299999952,Medium brown loam topsoil with roots,PT,Topsoil / vegetation,14.60381992475599,blue,54,0.0,-174.1458052202205,30.06902283857471
+133,769,2,47.53179005,-122.3910239,1.299999952,3.200000048,"Brown silty, very fine sand.",SM,Silty sand,14.60381992475599,blue,54,1.299999952,-174.1458052202205,30.06902283857471
+133,769,3,47.53179005,-122.3910239,3.200000048,10.0,"Tan clayey silt, very stiff to hard, slightly to moderately fissured.",CL,Clayey silt,14.60381992475599,blue,54,3.200000048,-174.1458052202205,30.06902283857471
+133,769,4,47.53179005,-122.3910239,10.0,11.39999962,"Blue gray silt with clay, massive, hard.",CL,Silt,14.60381992475599,blue,54,10.0,-174.1458052202205,30.06902283857471
+134,769,1,47.53136615,-122.3912923,0.0,0.800000012,Medium brown loam topsoil,SM,Topsoil / vegetation,14.644729077445572,blue,50,0.0,-178.38480522023303,27.385022838473105
+134,769,2,47.53136615,-122.3912923,0.800000012,7.5,"Variable brown, sandy silt and silty sand, medium to dark brown inclusion 4 ft deep, possible ancient debris, moderate wall sloughage.",SM,Sandy silt,14.644729077445572,blue,50,0.800000012,-178.38480522023303,27.385022838473105
+134,769,3,47.53136615,-122.3912923,7.5,11.5,"Thin sand layer at contact. Gray clayey silt, hard, massive, slightly fissured.",CL,Clayey silt,14.644729077445572,blue,50,7.5,-178.38480522023303,27.385022838473105
+135,769,1,47.53159223,-122.3913853,0.0,1.0,"Variable clayey silt, soft.",CL,Clayey silt,14.638350567115156,blue,51,0.0,-176.12400522018845,26.455022838547393
+135,769,2,47.53159223,-122.3913853,1.0,2.400000095,"Medium brown, clayey silt, topsoil",CH,Topsoil / vegetation,14.638350567115156,blue,51,1.0,-176.12400522018845,26.455022838547393
+135,769,3,47.53159223,-122.3913853,2.400000095,11.39999962,"Brown, clayey silt, medium stiff to very stiff, severely fissured 6 to 8 ft depth, less fissured below.",CL,Clayey silt,14.638350567115156,blue,51,2.400000095,-176.12400522018845,26.455022838547393
+136,769,1,47.53159512,-122.3912073,0.0,2.200000048,"Brown, clayey loam, topsoil with roots",SM,Topsoil / vegetation,14.626546789907948,blue,54,0.0,-176.0951052202131,28.23502283845869
+136,769,2,47.53159512,-122.3912073,2.200000048,8.800000191,"Variable brown, clayey silt, with silty very fine sand inclusions.",CL,Clayey silt,14.626546789907948,blue,54,2.200000048,-176.0951052202131,28.23502283845869
+136,769,3,47.53159512,-122.3912073,8.800000191,13.0,"Tan to gray silt, massive, hard.",CL,Silt,14.626546789907948,blue,54,8.800000191,-176.0951052202131,28.23502283845869
+137,770,1,47.54269153,-122.3914343,0.0,1.5,"Dark brown, silty sand, with organics, moist, loose",SM,Topsoil / vegetation,14.071800434523375,blue,52,0.0,-65.1310052202092,25.965022838505547
+137,770,2,47.54269153,-122.3914343,1.5,7.0,"Brown, silty, gravelly sand, moist, medium dense to dense.",SM,Gravelly sand,14.071800434523375,blue,52,1.5,-65.1310052202092,25.965022838505547
+137,770,3,47.54269153,-122.3914343,7.0,9.0,"Gray, silty clay, highly fractured, moist, very stiff.",CL,Silty clay,14.071800434523375,blue,52,7.0,-65.1310052202092,25.965022838505547
+137,770,4,47.54269153,-122.3914343,9.0,10.5,"Brown, well-graded sand, moist, very dense.",SW,Sand,14.071800434523375,blue,52,9.0,-65.1310052202092,25.965022838505547
+138,770,1,47.54266403,-122.3916074,0.0,2.0,"Dark brown, silty sand with organics, moist, loose",Not applicable,Topsoil / vegetation,14.0848892984414,blue,43,0.0,-65.40600522022544,24.23402283852738
+138,770,2,47.54266403,-122.3916074,2.0,6.0,"Brown, silty, gravelly sand, moist, medium-dense to dense.",SM,Gravelly sand,14.0848892984414,blue,43,2.0,-65.40600522022544,24.23402283852738
+138,770,3,47.54266403,-122.3916074,6.0,8.0,"Gray, silty clay, slickensided, moist, hard.",CL,Silty clay,14.0848892984414,blue,43,6.0,-65.40600522022544,24.23402283852738
+138,770,4,47.54266403,-122.3916074,8.0,10.5,"Brown, gravelly sand, well-graded, moist, dense.",SW,Gravelly sand,14.0848892984414,blue,43,8.0,-65.40600522022544,24.23402283852738
+139,777,1,47.58065778,-122.3874144,0.0,5.5,"Brown, silty sand with organics, fine to medium grained, moist, loose.",,Fill,12.549066938446025,blue,101,0.0,314.53149477982834,66.16402283853517
+139,777,2,47.58065778,-122.3874144,5.5,6.0,"Reddish-brown, slightly silty sand, fine to medium-grained, moist, medium-dense.",SM,Sand,12.549066938446025,blue,101,5.5,314.53149477982834,66.16402283853517
+140,777,1,47.58056766,-122.3875612,0.0,2.5,"Black, silty sand with organics and gravel, fine to coarse grained, very moist, loose debris.",,Fill,12.5614292934444,blue,101,0.0,313.63029477979865,64.69602283857512
+140,777,2,47.58056766,-122.3875612,2.5,7.0,"Brown, slightly silty sand with gravel, fine to coarse grained, moist, medium-dense.",,Fill,12.5614292934444,blue,101,2.5,313.63029477979865,64.69602283857512
+141,777,1,47.58068601,-122.3877032,0.0,5.0,"Brown, silty sand with organics, fine to medium-grained, moist, loose.",,Fill,12.570124627432596,blue,100,0.0,314.8137947798091,63.27602283846545
+142,777,1,47.58063127,-122.3876972,0.0,3.0,"Brown, silty, sand with organics, fine to medium-grained, moist, loose.",,Fill,12.570544336289135,blue,100,0.0,314.2663947797786,63.336022838456074
+142,777,2,47.58063127,-122.3876972,3.0,3.5,"Black, silty organic sand with gravel, very moist, loose",Not applicable,Topsoil / vegetation,12.570544336289135,blue,100,3.0,314.2663947797786,63.336022838456074
+142,777,3,47.58063127,-122.3876972,3.5,6.0,"Reddish-brown, silty sand with gravel, fine to coarse-grained, moist, medium-dense.",SM,Silty sand,12.570544336289135,blue,100,3.5,314.2663947797786,63.336022838456074
+143,777,1,47.5805655,-122.3876948,0.0,4.0,"Brown, silty sand, fine to medium-grained, moist, loose, brick debris.",,Fill,12.57141055820282,blue,100,0.0,313.6086947797878,63.36002283845232
+143,777,2,47.5805655,-122.3876948,4.0,10.5,"Tan to reddish-brown, silty sand with gravel, fine to coarse grained, moist, medium-dense.",SM,Silty sand,12.57141055820282,blue,100,4.0,313.6086947797878,63.36002283845232
+144,777,1,47.58056682,-122.3874436,0.0,4.5,"Reddish-brown, silty sand with gravel, fine to coarse grained, moist, loose.",,Fill,12.55268718015455,blue,101,0.0,313.62189477981417,65.87202283853344
+144,777,2,47.58056682,-122.3874436,4.5,5.0,"Black, silty, organic sand with gravel, moist, loose",Not applicable,Topsoil / vegetation,12.55268718015455,blue,101,4.5,313.62189477981417,65.87202283853344
+144,777,3,47.58056682,-122.3874436,5.0,8.5,"Reddish-brown, silty sand with gravel, fine to coarse grained, moist, medium-dense.",SM,Silty sand,12.55268718015455,blue,101,5.0,313.62189477981417,65.87202283853344
+145,777,1,47.58067234,-122.3873623,0.0,6.0,"Brown, silty sand, fine to medium-grained, moist, loose.",,Fill,12.54495679466176,blue,101,0.0,314.6770947797961,66.68502283844191
+145,777,2,47.58067234,-122.3873623,6.0,10.0,"Reddish-brown, silty sand with trace gravel, fine to medium-grained, moist, medium-dense.",SM,Silty sand,12.54495679466176,blue,101,6.0,314.6770947797961,66.68502283844191
+146,778,1,47.53518786,-122.3888079,0.0,5.0,"Very loose to loose, brown, silty fine sand and fine sandy silt, moist to dry with scattered gravel and wood fragments.",,Fill,14.274068244311314,blue,95,0.0,-140.16770522019328,52.22902283847475
+146,778,2,47.53518786,-122.3888079,5.0,7.0,"Medium-dense, silty, fine sand and silt, moist.",,Silty sand,14.274068244311314,blue,95,5.0,-140.16770522019328,52.22902283847475
+146,778,3,47.53518786,-122.3888079,7.0,9.0,"Dense to very dense, brown, clean, fine to medium sand, moist.",,Sand,14.274068244311314,blue,95,7.0,-140.16770522019328,52.22902283847475
+147,778,1,47.53526179,-122.3888145,0.0,6.0,"Very loose to loose, silty, fine sand and fine, sandy silt, moist to dry with scattered gravel.",,Fill,14.27056441347602,blue,95,0.0,-139.42840522020106,52.16302283855612
+147,778,2,47.53526179,-122.3888145,6.0,9.0,"Medium dense, brown, slightly silty, fine to medium sand, moist.",,Sand,14.27056441347602,blue,95,6.0,-139.42840522020106,52.16302283855612
+147,778,3,47.53526179,-122.3888145,9.0,11.0,"Dense to very dense, brown, slightly silty to clean, fine to medium sand, moist with silt layer, and dark brown staining.",,Sand,14.27056441347602,blue,95,9.0,-139.42840522020106,52.16302283855612
+148,778,1,47.53522015,-122.3888455,0.0,3.5,"Very loose to loose, brown silty fine sand and fine sandy silt, moist to dry with scattered gravel.",,Fill,14.274831542422149,blue,95,0.0,-139.84480522019282,51.85302283848614
+148,778,2,47.53522015,-122.3888455,3.5,7.0,"Medium dense to dense, brown, slightly silty to clean, fine to medium sand, moist.",,Sand,14.274831542422149,blue,95,3.5,-139.84480522019282,51.85302283848614
+148,778,3,47.53522015,-122.3888455,7.0,8.5,"Dense to very dense, brown, slightly silty to clean, fine to medium sand, moist.",,Sand,14.274831542422149,blue,95,7.0,-139.84480522019282,51.85302283848614
+149,778,1,47.5353429,-122.3887162,0.0,2.0,"Very loose to loose, brown, silty fine sand and fine sandy silt, moist to dry with scattered gravel and organics.",,Fill,14.259748001096211,blue,99,0.0,-138.61730522016558,53.146022838461704
+149,778,2,47.5353429,-122.3887162,2.0,4.0,"Medium dense, brown, silty fine sand and fine sandy silt, moist.",,Silty sand,14.259748001096211,blue,99,2.0,-138.61730522016558,53.146022838461704
+149,778,3,47.5353429,-122.3887162,4.0,5.5,"Dense to very dense, brown, silty fine sand and clean, fine to medium sand, moist.",,Silty sand,14.259748001096211,blue,99,4.0,-138.61730522016558,53.146022838461704
+150,778,1,47.53529702,-122.3888401,0.0,7.0,"Very loose to loose, brown, silty, fine to medium sand, moist to wet.",,Fill,14.270380341152755,blue,95,0.0,-139.07610522018388,51.907022838548755
+150,778,2,47.53529702,-122.3888401,7.0,12.5,"Medium dense, brown, slightly silty fine sand, dry.",,Sand,14.270380341152755,blue,95,7.0,-139.07610522018388,51.907022838548755
+150,778,3,47.53529702,-122.3888401,12.5,15.0,"Dense to very dense, brown, slightly silty, fine sand, moist with layers of silty fine sand.",,Sand,14.270380341152755,blue,95,12.5,-139.07610522018388,51.907022838548755
+151,778,1,47.53534707,-122.3887973,0.0,3.5,"Very loose to loose, brown, gravelly, silty, fine to medium sand, dry.",,Fill,14.264887101811263,blue,95,0.0,-138.57560522019696,52.335022838576606
+151,778,2,47.53534707,-122.3887973,3.5,5.0,"Medium dense, brown and dark brown, silty fine sand, dry with scattered gravel.",,Fill,14.264887101811263,blue,95,3.5,-138.57560522019696,52.335022838576606
+151,778,3,47.53534707,-122.3887973,5.0,7.5,"Loose, dark brown, silty fine sand, dry.",,Fill,14.264887101811263,blue,95,5.0,-138.57560522019696,52.335022838576606
+151,778,4,47.53534707,-122.3887973,7.5,10.0,"Medium dense, brown, slightly silty fine sand, dry with fine roots.",,Sand,14.264887101811263,blue,95,7.5,-138.57560522019696,52.335022838576606
+151,778,5,47.53534707,-122.3887973,10.0,12.0,"Dense to very dense, brown, slightly silty, fine to medium sand, moist.",,Sand,14.264887101811263,blue,95,10.0,-138.57560522019696,52.335022838576606
+152,778,1,47.53517775,-122.3887549,0.0,0.5,"Very loose topsoil, moist",Not applicable,Topsoil / vegetation,14.271105861506216,blue,95,0.0,-140.26880522017393,52.75902283855771
+152,778,2,47.53517775,-122.3887549,0.5,1.5,"Very loose, dark brown, silty, fine sand, moist.",,Silty sand,14.271105861506216,blue,95,0.5,-140.26880522017393,52.75902283855771
+152,778,3,47.53517775,-122.3887549,1.5,4.5,"Loose to medium dense, brown, silty, fine sand to fine sandy silt, iron-oxide staining, moist.",,Silty sand,14.271105861506216,blue,95,1.5,-140.26880522017393,52.75902283855771
+152,778,4,47.53517775,-122.3887549,4.5,7.0,"Medium dense to dense, brown to grayish-brown, fine sandy silt to silty, fine sand, with iron-oxide laminations, moist.",,Sandy silt,14.271105861506216,blue,95,4.5,-140.26880522017393,52.75902283855771
+152,778,5,47.53517775,-122.3887549,7.0,7.400000095,"Very dense, brown to grayish-brown, fine sandy silt to silty fine sand, with iron-oxide laminations, moist.",,Sandy silt,14.271105861506216,blue,95,7.0,-140.26880522017393,52.75902283855771
+153,778,1,47.5352173,-122.3886834,0.0,0.5,"Very loose, dark brown, slightly silty, fine to medium sand, with roots, moist.",,Sand,14.264272886031694,blue,99,0.0,-139.87330522020613,53.47402283845781
+153,778,2,47.5352173,-122.3886834,0.5,2.5,"Loose, brown, slightly silty to silty, fine to medium sand.",,Sand,14.264272886031694,blue,99,0.5,-139.87330522020613,53.47402283845781
+153,778,3,47.5352173,-122.3886834,2.5,5.5,"Medium dense to dense, brown, fine sandy silt, with iron-oxide staining, moist.",,Sandy silt,14.264272886031694,blue,99,2.5,-139.87330522020613,53.47402283845781
+153,778,4,47.5352173,-122.3886834,5.5,5.800000191,"Very dense, brown, fine sandy silt, with iron-oxide staining, moist.",,Sandy silt,14.264272886031694,blue,99,5.5,-139.87330522020613,53.47402283845781
+154,778,1,47.53528496,-122.3887384,0.0,3.0,"Very loose to loose, dark brown, silty, fine sand, moist.",,Fill,14.264300834789143,blue,99,0.0,-139.19670522021477,52.92402283856745
+154,778,2,47.53528496,-122.3887384,3.0,4.5,"Loose to medium dense, brownish-gray, slightly silty, fine sand, moist.",,Fill,14.264300834789143,blue,99,3.0,-139.19670522021477,52.92402283856745
+154,778,3,47.53528496,-122.3887384,4.5,5.0,"Dense, brown, fine to medium sand.",,Sand,14.264300834789143,blue,99,4.5,-139.19670522021477,52.92402283856745
+154,778,4,47.53528496,-122.3887384,5.0,6.0,"Very dense, grayish-brown silt, moist.",,Silt,14.264300834789143,blue,99,5.0,-139.19670522021477,52.92402283856745
+155,778,1,47.53528456,-122.3887627,0.0,0.5,Concrete.,Not applicable,Asphalt / concrete,14.265928102154485,blue,95,0.0,-139.20070522019046,52.68102283849885
+155,778,2,47.53528456,-122.3887627,0.5,4.0,"Loose to medium dense, brown, layered, fine sandy silt and silty, fine sand, moist.",,Sandy silt,14.265928102154485,blue,95,0.5,-139.20070522019046,52.68102283849885
+155,778,3,47.53528456,-122.3887627,4.0,8.0,"Dense, brown, slightly silty, fine sand, moist.",,Sand,14.265928102154485,blue,95,4.0,-139.20070522019046,52.68102283849885
+156,779,1,47.53313266,-122.3892292,0.0,8.0,"Loose, brown, slightly silty to silty, fine sand with scattered gravel ashes and bricks, moist to wet.",,Fill,14.412676138825464,blue,101,0.0,-160.7197052202025,48.01602283848183
+156,779,2,47.53313266,-122.3892292,8.0,9.5,"Very dense, brown, clean to silty sand and fine sandy silt with silt layers.",,Sand,14.412676138825464,blue,101,8.0,-160.7197052202025,48.01602283848183
+157,779,1,47.53313084,-122.3891724,0.0,7.5,"Loose, brown, clean to silty sand with scattered gravel and ashes.",,Fill,14.409049383104408,blue,101,0.0,-160.73790522021625,48.58402283844043
+157,779,2,47.53313084,-122.3891724,7.5,11.0,"Loose to medium dense, brown, slightly silty sand with scattered gravel.",,Sand,14.409049383104408,blue,101,7.5,-160.73790522021625,48.58402283844043
+157,779,3,47.53313084,-122.3891724,11.0,13.5,"Very dense, brown, slightly to silty, gravelly sand.",,Gravelly sand,14.409049383104408,blue,101,11.0,-160.73790522021625,48.58402283844043
+158,779,1,47.53313222,-122.3890874,0.0,7.5,"Loose, brown, slightly silty to silty sand with scattered gravel.",,Fill,14.403398608838271,blue,101,0.0,-160.7241052202113,49.434022838568126
+158,779,2,47.53313222,-122.3890874,7.5,13.0,"Loose to very dense, brown, clean to silty sand with scattered gravel.",,Sand,14.403398608838271,blue,101,7.5,-160.7241052202113,49.434022838568126
+158,779,3,47.53313222,-122.3890874,13.0,14.10000038,"Very dense, brown, silty, gravelly sand.",,Gravelly sand,14.403398608838271,blue,101,13.0,-160.7241052202113,49.434022838568126
+159,780,1,47.51974943,-122.3893307,0.0,2.599999905,"Brown, silty fine sand with some debris and silt chunks, concrete pieces and old metal pipe, moist, loose to very loose.",SM-ML,Fill,15.204693106055135,blue,41,0.0,-294.5520052202255,47.001022838486506
+159,780,2,47.51974943,-122.3893307,2.599999905,3.700000048,"Dark brown topsoil mixed with fill, moist, very loose",Not applicable,Topsoil / vegetation,15.204693106055135,blue,41,2.599999905,-294.5520052202255,47.001022838486506
+159,780,3,47.51974943,-122.3893307,3.700000048,7.5,"Tan, mottled, silty clay, blocky with stains, moist, medium stiff.",CL-ML,Silty clay,15.204693106055135,blue,41,3.700000048,-294.5520052202255,47.001022838486506
+159,780,4,47.51974943,-122.3893307,7.5,11.60000038,"Tan, fine sandy silt becomes silty and then clean, fine sand, moist becomes wet, medium dense becomes dense at lower depths.",SM-SP,Sandy silt,15.204693106055135,blue,41,7.5,-294.5520052202255,47.001022838486506
+160,780,1,47.51976282,-122.3891814,0.0,3.200000048,"Brown, silty fine sand and fine sandy silt with debris, brick pieces and large concrete chunks, mixed with dark brown topsoil-like material, moist, very loose.",SM,Fill,15.19456331855043,blue,45,0.0,-294.41810522023104,48.49402283852555
+160,780,2,47.51976282,-122.3891814,3.200000048,7.0,"Tan, mottled, silty clay, blocky with stains, moist, medium stiff.",ML-CL,Silty clay,15.19456331855043,blue,45,3.200000048,-294.41810522023104,48.49402283852555
+160,780,3,47.51976282,-122.3891814,7.0,11.19999981,"Tan becomes tan-gray, slightly silty becomes clean, fine to medium sand, moist, medium dense becomes dense at lower depths.",SM-SW,Sand,15.19456331855043,blue,45,7.0,-294.41810522023104,48.49402283852555
+161,780,1,47.51966181,-122.3891535,0.0,1.5,"dark brown topsoil and silty topsoil, moist, very loose",Not applicable,Topsoil / vegetation,15.19915784594547,blue,45,0.0,-295.4282052201762,48.77302283844642
+161,780,2,47.51966181,-122.3891535,1.5,3.799999952,"Tan-gray, mottled, fine sand and clayey silt with stains, moist, loose.",ML-SM,Sandy silt,15.19915784594547,blue,45,1.5,-295.4282052201762,48.77302283844642
+161,780,3,47.51966181,-122.3891535,3.799999952,6.800000191,"Tan, mottled, clayey silt, moist, blocky, medium stiff.",ML,Clayey silt,15.19915784594547,blue,45,3.799999952,-295.4282052201762,48.77302283844642
+161,780,4,47.51966181,-122.3891535,6.800000191,9.100000381,"Tan, mottled, silty clay to clay, moist, blocky, medium stiff.",ML-CL,Silty clay,15.19915784594547,blue,45,6.800000191,-295.4282052201762,48.77302283844642
+161,780,5,47.51966181,-122.3891535,9.100000381,11.0,"Tan-gray, laminated, silty clay, damp to moist, hard.",CL,Silty clay,15.19915784594547,blue,45,9.100000381,-295.4282052201762,48.77302283844642
+162,780,1,47.51974495,-122.3890998,0.0,2.799999952,"Dark brown, silty sand with large concrete chunks building rubble, moist, loose.",SM,Fill,15.19060593021588,blue,45,0.0,-294.5968052201664,49.310022838540135
+162,780,2,47.51974495,-122.3890998,2.799999952,4.0,"Tan-gray, silty, fine sand, moist, loose to medium dense.",SM,Silty sand,15.19060593021588,blue,45,2.799999952,-294.5968052201664,49.310022838540135
+162,780,3,47.51974495,-122.3890998,4.0,7.900000095,"Tan, mottled, silty clay, blocky with stains, moist, medium stiff.",ML,Silty clay,15.19060593021588,blue,45,4.0,-294.5968052201664,49.310022838540135
+162,780,4,47.51974495,-122.3890998,7.900000095,11.0,"Tan, clay, laminated, very stiff becomes hard.",CL,Clay,15.19060593021588,blue,45,7.900000095,-294.5968052201664,49.310022838540135
+162,780,5,47.51974495,-122.3890998,11.0,14.5,"Blue-gray, laminated, silty clay to clayey silt, slickenslide, damp, very hard.",ML,Silty clay,15.19060593021588,blue,45,11.0,-294.5968052201664,49.310022838540135
+163,787,1,47.5723311,-122.3907383,0.0,9.0,"Medium dense, gray, fine sand.",,Fill,12.958588146502647,blue,103,0.0,231.26469477979583,32.925022838554696
+163,787,2,47.5723311,-122.3907383,9.0,23.0,"Dense, gray, fine sand.",,Sand,12.958588146502647,blue,103,9.0,231.26469477979583,32.925022838554696
+163,787,3,47.5723311,-122.3907383,23.0,36.0,"Very dense, gray, fine to medium sand.",,Sand,12.958588146502647,blue,103,23.0,231.26469477979583,32.925022838554696
+164,787,1,47.57249266,-122.3907522,0.0,12.0,"Medium dense, gray, fine sand.",,Fill,12.955858165383248,blue,102,0.0,232.8802947798181,32.78602283856458
+164,787,2,47.57249266,-122.3907522,12.0,36.0,"Dense to very dense, gray, fine to medium sand, with occasional gravel seams.",,Sand,12.955858165383248,blue,102,12.0,232.8802947798181,32.78602283856458
+165,787,1,47.57230661,-122.390389,0.0,7.0,"Medium dense to loose, brown, fine to medium sand.",,Fill,12.933463776362922,blue,109,0.0,231.01979477978318,36.41802283851803
+165,787,2,47.57230661,-122.390389,7.0,14.0,"Medium dense to very dense, gray, fine to medium sand with scattered gravel.",,Sand,12.933463776362922,blue,109,7.0,231.01979477978318,36.41802283851803
+166,787,1,47.57250934,-122.3904002,0.0,8.5,"Loose, fine to medium sand with scattered gravel.",,Fill,12.929568729816143,blue,108,0.0,233.04709477983465,36.30602283848816
+166,787,2,47.57250934,-122.3904002,8.5,14.0,"Dense to very dense, gray, fine to medium sand with scattered gravel.",,Sand,12.929568729816143,blue,108,8.5,233.04709477983465,36.30602283848816
+167,787,1,47.57239902,-122.3907772,0.0,1.0,"Loose, brown fine to medium sand.",,Fill,12.95986971801742,blue,102,0.0,231.94389477978916,32.53602283848522
+167,787,2,47.57239902,-122.3907772,1.0,9.0,"Dense, brown to gray, fine to medium sand.",,Sand,12.95986971801742,blue,102,1.0,231.94389477978916,32.53602283848522
+168,791,1,47.50894602,-122.3903045,0.0,0.5,Topsoil,Not applicable,Topsoil / vegetation,15.970038283010682,blue,60,0.0,-402.58610522016625,37.263022838516235
+168,791,2,47.50894602,-122.3903045,0.5,2.0,Sandy gravel with cobbles.,,Sandy gravel,15.970038283010682,blue,60,0.5,-402.58610522016625,37.263022838516235
+169,791,1,47.5089454,-122.390005,0.0,1.0,Topsoil,Not applicable,Topsoil / vegetation,15.952231948552155,blue,65,0.0,-402.59230522018186,40.25802283848634
+169,791,2,47.5089454,-122.390005,1.0,3.0,Gravelly sand.,,Gravelly sand,15.952231948552155,blue,65,1.0,-402.59230522018186,40.25802283848634
+170,791,1,47.50894724,-122.3898917,0.0,0.5,Topsoil,Not applicable,Topsoil / vegetation,15.945357765153734,blue,65,0.0,-402.5739052202226,41.39102283843954
+170,791,2,47.50894724,-122.3898917,0.5,1.5,Gravelly sand.,,Gravelly sand,15.945357765153734,blue,65,0.5,-402.5739052202226,41.39102283843954
+171,792,1,47.51001061,-122.3909411,0.0,10.0,"Loose, fine to medium grained sand with gravel.",,Fill,15.93610269115042,blue,50,0.0,-391.94020522018036,30.89702283844531
+171,792,2,47.51001061,-122.3909411,10.0,15.0,Silt and clay with joints and slickensides.,,Silty clay,15.93610269115042,blue,50,10.0,-391.94020522018036,30.89702283844531
+171,792,3,47.51001061,-122.3909411,15.0,29.0,Hard silt and clay massive with intercalated beds of water-bearing sand.,,Silty clay,15.93610269115042,blue,50,15.0,-391.94020522018036,30.89702283844531
+172,793,1,47.50967934,-122.3907392,0.0,4.0,"Stiff to very stiff, gray-brown, moist, fine gravelly, sandy silt and clayey silt.",,Sandy silt,15.946332851070505,blue,45,0.0,-395.25290522021805,32.916022838520576
+172,793,2,47.50967934,-122.3907392,4.0,6.0,"Hard, gray-brown, moist, laminated silty clay, with scattered fine gravel.",,Silty clay,15.946332851070505,blue,45,4.0,-395.25290522021805,32.916022838520576
+173,793,1,47.50966882,-122.3908805,0.0,2.0,"Medium dense, gray-brown, moist, silty fine sand, with scattered gravel and fine roots.",,Silty sand,15.955501649171326,blue,45,0.0,-395.35810522018267,31.503022838563766
+173,793,2,47.50966882,-122.3908805,2.0,6.5,"Very dense, brown, moist, gravelly, silty fine sand.",,Silty sand,15.955501649171326,blue,45,2.0,-395.35810522018267,31.503022838563766
+174,793,1,47.50957295,-122.391043,0.0,2.400000095,"Very dense, brown, moist, fine gravelly, silty fine sand.",,Silty sand,15.971699484071564,blue,29,0.0,-396.3168052202093,29.87802283854535
+175,793,1,47.50960855,-122.3907084,0.0,7.0,"Stiff to very stiff, brown, moist, clayey silt and silty clay, with fine organics.",,Clayey silt,15.949269620754558,blue,45,0.0,-395.9608052201702,33.22402283856718
+175,793,2,47.50960855,-122.3907084,7.0,10.5,"Hard, gray, moist, laminated and massive clay, with scattered fine sand lenses.",,Clay,15.949269620754558,blue,45,7.0,-395.9608052201702,33.22402283856718
+176,793,1,47.50952274,-122.3912638,0.0,2.5,"Very dense, brown, dry, gravelly, silty fine sand.",,Silty sand,15.988307690331958,blue,21,0.0,-396.8189052201865,27.670022838464092
+177,794,1,47.50910636,-122.3902252,0.0,1.0,Sandy topsoil,Not applicable,Topsoil / vegetation,15.954416080552203,blue,57,0.0,-400.9827052202297,38.0560228384752
+177,794,2,47.50910636,-122.3902252,1.0,2.0,Fine to medium sandy gravel.,,Sandy gravel,15.954416080552203,blue,57,1.0,-400.9827052202297,38.0560228384752
+177,794,3,47.50910636,-122.3902252,2.0,3.5,Gravelly fine to medium sand.,,Gravelly sand,15.954416080552203,blue,57,2.0,-400.9827052202297,38.0560228384752
+178,794,1,47.50910905,-122.3900593,0.0,1.0,Sandy topsoil,Not applicable,Topsoil / vegetation,15.944340124553268,blue,66,0.0,-400.9558052202067,39.71502283846462
+178,794,2,47.50910905,-122.3900593,1.0,3.0,Fine gravelly sand.,,Gravelly sand,15.944340124553268,blue,66,1.0,-400.9558052202067,39.71502283846462
+179,794,1,47.50911069,-122.3899582,0.0,1.0,Sandy topsoil,Not applicable,Topsoil / vegetation,15.938201433209622,blue,66,0.0,-400.9394052201998,40.72602283855531
+179,794,2,47.50911069,-122.3899582,1.0,2.5,Silty very fine sand to sandy silt.,,Silty sand,15.938201433209622,blue,66,1.0,-400.9394052201998,40.72602283855531
+180,795,1,47.50881194,-122.3907935,0.0,45.0,"Sandy, clayey silt, gray, wet, medium dense, contains very fine sand.",,Clayey silt,16.008306584658897,blue,48,0.0,-403.9269052201888,32.373022838498855
+180,795,2,47.50881194,-122.3907935,45.0,51.5,Gravelly sand.,,Gravelly sand,16.008306584658897,blue,48,45.0,-403.9269052201888,32.373022838498855
+181,704,1,47.52799327,-122.3897761,0.0,1.799999952,"Medium brown silt, soft.",,Silt,14.736751074076484,blue,64,0.0,-212.11360522016776,42.547022838448356
+181,704,2,47.52799327,-122.3897761,1.799999952,7.5,"Brown silt with clay, medium to stiff.",,Silt,14.736751074076484,blue,64,1.799999952,-212.11360522016776,42.547022838448356
+182,704,1,47.52792318,-122.3898708,0.0,3.400000095,"Dark brown, slightly organic silt with traces of construction rubble, soft.",,Fill,14.746890681764922,blue,59,0.0,-212.8145052201802,41.60002283853714
+182,704,2,47.52792318,-122.3898708,3.400000095,4.099999905,"Dark brown organic topsoil, soft",Not applicable,Topsoil / vegetation,14.746890681764922,blue,59,3.400000095,-212.8145052201802,41.60002283853714
+182,704,3,47.52792318,-122.3898708,4.099999905,4.800000191,"Brown silt with clay, medium stiff to stiff.",,Silt,14.746890681764922,blue,59,4.099999905,-212.8145052201802,41.60002283853714
+183,803,1,47.51692602,-122.3924771,0.0,1.0,"Dark brown, sandy, organic-rich topsoil, moist, loose to medium-dense",OL,Topsoil / vegetation,15.577804707996496,blue,47,0.0,-322.786105220203,15.537022838572057
+183,803,2,47.51692602,-122.3924771,1.0,2.5,"Red-brown, gravelly, silty sand, very moist to wet, medium-dense.",SM,Silty sand,15.577804707996496,blue,47,1.0,-322.786105220203,15.537022838572057
+183,803,3,47.51692602,-122.3924771,2.5,10.0,"Gray, gravelly, silty sand, very moist, dense to very dense, till.",SM,Silty sand,15.577804707996496,blue,47,2.5,-322.786105220203,15.537022838572057
+184,803,1,47.51683902,-122.3925995,0.0,0.5,"Dark brown, sandy, organic-rich topsoil , moist, loose to medium-dense",OL,Topsoil / vegetation,15.590892583662052,blue,47,0.0,-323.65610522020916,14.313022838479128
+184,803,2,47.51683902,-122.3925995,0.5,1.5,"Red-brown, gravelly, silty sand, very moist to wet, medium dense.",SM,Silty sand,15.590892583662052,blue,47,0.5,-323.65610522020916,14.313022838479128
+184,803,3,47.51683902,-122.3925995,1.5,8.0,"Gray, gravelly, silty sand, very moist, dense to very dense.",SM,Silty sand,15.590892583662052,blue,47,1.5,-323.65610522020916,14.313022838479128
+185,804,1,47.51483253,-122.3925527,0.0,2.0,Topsoil,Not applicable,Topsoil / vegetation,15.716234436388184,blue,59,0.0,-343.7210052202033,14.781022838548097
+185,804,2,47.51483253,-122.3925527,2.0,4.0,"Loose, wet, tan and gray with rust mottling, silty, fine to coarse sand, some gravel, trace cobbles, trace to some clay.",,Silty sand,15.716234436388184,blue,59,2.0,-343.7210052202033,14.781022838548097
+185,804,3,47.51483253,-122.3925527,4.0,8.5,"Medium dense, wet to saturated, tan and gray with rust mottling, silty, fine to coarse sand, some gravel, trace cobbles, trace to some clay.",,Silty sand,15.716234436388184,blue,59,4.0,-343.7210052202033,14.781022838548097
+185,804,4,47.51483253,-122.3925527,8.5,10.5,"Dense, wet, blue-gray with trace of rust mottling, silty, fine to coarse sand, some gravel, trace cobbles, trace to some clay.",,Silty sand,15.716234436388184,blue,59,8.5,-343.7210052202033,14.781022838548097
+186,804,1,47.51468307,-122.3923005,0.0,2.0,Topsoil,Not applicable,Topsoil / vegetation,15.71040459961202,blue,66,0.0,-345.21560522023265,17.303022838461857
+186,804,2,47.51468307,-122.3923005,2.0,3.0,"Loose, moist to wet, tan with rust mottling, gravelly, silty, fine to coarse sand, trace cobbles, several fine to medium roots.",,Silty sand,15.71040459961202,blue,66,2.0,-345.21560522023265,17.303022838461857
+186,804,3,47.51468307,-122.3923005,3.0,6.0,"Medium dense, moist, tan with rust mottling, gravelly, silty, fine to coarse sand, trace cobbles, occasional fine to medium roots.",,Silty sand,15.71040459961202,blue,66,3.0,-345.21560522023265,17.303022838461857
+186,804,4,47.51468307,-122.3923005,6.0,9.0,"Dense, moist, tan with rust mottling, gravelly, silty, fine to coarse sand, trace cobbles.",,Silty sand,15.71040459961202,blue,66,6.0,-345.21560522023265,17.303022838461857
+187,806,1,47.51069887,-122.3916171,0.0,7.5,"Brown to gray, clayey sand and silt, wet, loose.",SM-ML,Clayey sand,15.930590857710476,blue,54,0.0,-385.0576052202115,24.137022838459643
+187,806,2,47.51069887,-122.3916171,7.5,18.5,"Gray clay, wet, moderate to stiff, plastic.",CH,Clay,15.930590857710476,blue,54,7.5,-385.0576052202115,24.137022838459643
+188,807,1,47.51023258,-122.3921308,0.0,0.699999988,"Stiff, dry to moist, gray-brown, clayey silt, disturbed.",,Clayey silt,15.992678324450534,blue,37,0.0,-389.72050522019686,19.00002283846902
+188,807,2,47.51023258,-122.3921308,0.699999988,1.5,"Stiff, tan, fine, sandy silt, with roots and wood.",,Sandy silt,15.992678324450534,blue,37,0.699999988,-389.72050522019686,19.00002283846902
+188,807,3,47.51023258,-122.3921308,1.5,4.0,"Very dense, gray-brown, fine sandy silt, dry to moist.",,Sandy silt,15.992678324450534,blue,37,1.5,-389.72050522019686,19.00002283846902
+188,807,4,47.51023258,-122.3921308,4.0,7.0,"Very dense, gray, dry to moist, silty fine sand.",,Silty sand,15.992678324450534,blue,37,4.0,-389.72050522019686,19.00002283846902
+189,807,1,47.51021973,-122.3920777,0.0,3.0,"Very stiff to hard, brown and tan, clayey, sandy silt, dry to moist, with roots and organics, disturbed.",,Sandy silt,15.990342828208329,blue,47,0.0,-389.84900522017085,19.531022838492618
+189,807,2,47.51021973,-122.3920777,3.0,4.5,"Very stiff, brown, dry to moist, clayey silt, with trace of roots and gravel.",,Clayey silt,15.990342828208329,blue,47,3.0,-389.84900522017085,19.531022838492618
+189,807,3,47.51021973,-122.3920777,4.5,9.0,"Hard, brown, gray, dry to moist, silty clay and clayey silt with iron oxidized silt lenses.",,Silty clay,15.990342828208329,blue,47,4.5,-389.84900522017085,19.531022838492618
+190,807,1,47.51020675,-122.3920327,0.0,3.5,"Dense, brown, dry, clayey, sandy silt with organics.",,Fill,15.988504077349027,blue,47,0.0,-389.97880522018136,19.981022838493345
+190,807,2,47.51020675,-122.3920327,3.5,6.0,"Stiff to very stiff, gray and brown, clayey silt with scattered roots and gravel, dry to moist, disturbed.",,Clayey silt,15.988504077349027,blue,47,3.5,-389.97880522018136,19.981022838493345
+190,807,3,47.51020675,-122.3920327,6.0,10.0,"Very stiff to hard, brown-gray and gray, moist, clayey silt, occasional gravel.",,Clayey silt,15.988504077349027,blue,47,6.0,-389.97880522018136,19.981022838493345
+191,807,1,47.5102854,-122.3919181,0.0,6.5,"Dense, brown, dry, silty, gravelly, fine to medium sand, occasional small pieces of clay.",,Fill,15.97634714933499,blue,47,0.0,-389.19230522019177,21.12702283852741
+191,807,2,47.5102854,-122.3919181,6.5,9.0,"Hard, dry to moist, gray-brown, clayey silt, with fine roots, disturbed.",,Clayey silt,15.97634714933499,blue,47,6.5,-389.19230522019177,21.12702283852741
+191,807,3,47.5102854,-122.3919181,9.0,29.0,"Very stiff to hard, moist, silty clay to clayey silt, gray-brown.",,Silty clay,15.97634714933499,blue,47,9.0,-389.19230522019177,21.12702283852741
+191,807,4,47.5102854,-122.3919181,29.0,48.5,"Very dense, brown, moist, silty fine sand, with lenses of silt.",,Silty sand,15.97634714933499,blue,47,29.0,-389.19230522019177,21.12702283852741
+192,815,1,47.56162479,-122.3892937,0.0,1.5,"Sod over loose, gray brown, silty fine sandy fill, damp.",,Fill,13.155407268247108,blue,92,0.0,124.20159477983361,47.371022838547105
+192,815,2,47.56162479,-122.3892937,1.5,4.5,"Loose, reddish brown, silty fine sand with scattered fine gravels and cobbles, damp, well sorted, native, root penetration to 3 ft.",,Silty sand,13.155407268247108,blue,92,1.5,124.20159477983361,47.371022838547105
+192,815,3,47.56162479,-122.3892937,4.5,10.0,"Medium dense, gray-brown, gravelly, silty fine sand, damp, well sorted.",,Silty sand,13.155407268247108,blue,92,4.5,124.20159477983361,47.371022838547105
+192,815,4,47.56162479,-122.3892937,10.0,16.0,"Loose to medium dense, gray, slightly silty fine sand, damp, well sorted.",,Silty sand,13.155407268247108,blue,92,10.0,124.20159477983361,47.371022838547105
+193,815,1,47.56178152,-122.3892668,0.0,0.699999988,"Sod, roots and topsoil",Not applicable,Topsoil / vegetation,13.148309982669623,blue,92,0.0,125.76889477976749,47.64002283849322
+193,815,2,47.56178152,-122.3892668,0.699999988,2.5,"Loose, reddish-brown, silty fine sand with scattered gravels, damp, native.",,Silty sand,13.148309982669623,blue,92,0.699999988,125.76889477976749,47.64002283849322
+193,815,3,47.56178152,-122.3892668,2.5,10.5,"Medium dense to loose with depth, gray brown, silty fine sand, damp, moderate sorting.",,Silty sand,13.148309982669623,blue,92,2.5,125.76889477976749,47.64002283849322
+194,815,1,47.56158711,-122.3889115,0.0,1.0,"Medium dense, gray-brown, silty sandy fill, damp.",,Fill,13.12919164930433,blue,94,0.0,123.82479477977881,51.19302283844718
+194,815,2,47.56158711,-122.3889115,1.0,2.200000048,"Medium dense, orange-brown, gravelly, slightly silty fine sand, damp, weathered native.",,Sand,13.12919164930433,blue,94,1.0,123.82479477977881,51.19302283844718
+194,815,3,47.56158711,-122.3889115,2.200000048,15.0,"Loose to medium dense, gray, gravelly, slightly silty fine sand, damp, well sorted and stratified.",,Sand,13.12919164930433,blue,94,2.200000048,123.82479477977881,51.19302283844718
+195,815,1,47.56176584,-122.3888814,0.0,0.699999988,"Sod over topsoil, damp",Not applicable,Topsoil / vegetation,13.121123723142718,blue,94,0.0,125.61209477979673,51.49402283848303
+195,815,2,47.56176584,-122.3888814,0.699999988,1.5,"Loose, reddish brown, silty fine sand, damp, native.",,Silty sand,13.121123723142718,blue,94,0.699999988,125.61209477979673,51.49402283848303
+195,815,3,47.56176584,-122.3888814,1.5,7.0,"Medium dense, gray brown, grading to gray with depth, gravelly, slightly silty, fine to medium sand, damp.",,Sand,13.121123723142718,blue,94,1.5,125.61209477979673,51.49402283848303
+195,815,4,47.56176584,-122.3888814,7.0,15.0,"Medium dense, gray, clean, medium to fine sand, damp, well sorted.",,Sand,13.121123723142718,blue,94,7.0,125.61209477979673,51.49402283848303
+196,816,1,47.54164086,-122.3907856,0.0,9.0,"Boulders, concrete debris, occasional hollow pockets.",,Fill,14.078115986979926,blue,51,0.0,-75.63770522018842,32.45202283849835
+196,816,2,47.54164086,-122.3907856,9.0,12.0,"Grayish brown sand, occasionally gravelly.",,Sand,14.078115986979926,blue,51,9.0,-75.63770522018842,32.45202283849835
+197,816,1,47.54157117,-122.390856,0.0,11.0,"Boulders, concrete debris, occasional hollow pockets.",,Fill,14.086261074498232,blue,51,0.0,-76.33460522022517,31.748022838513634
+197,816,2,47.54157117,-122.390856,11.0,13.0,"Grayish brown sand, occasionally gravelly.",,Sand,14.086261074498232,blue,51,11.0,-76.33460522022517,31.748022838513634
+198,820,1,47.52107638,-122.3900213,0.0,7.0,"2 inches crushed rock, gray-tan silty sand, fine to medium grained, moist, medium dense.",SM,Silty sand,15.165352077045004,blue,28,0.0,-281.2825052202328,40.09502283849997
+198,820,2,47.52107638,-122.3900213,7.0,10.0,"Gray, slightly mottled sandy silt to silt, low plastic, wet, medium stiff.",ML,Sandy silt,15.165352077045004,blue,28,7.0,-281.2825052202328,40.09502283849997
+198,820,3,47.52107638,-122.3900213,10.0,11.0,"Blue-gray very silty sand with occasional cobbles, very wet, dense.",SM,Silty sand,15.165352077045004,blue,28,10.0,-281.2825052202328,40.09502283849997
+199,820,1,47.52121856,-122.3900465,0.0,2.5,"2 inches crushed rock, mottled silty sand, fine to medium grained, moist, medium dense.",SM,Silty sand,15.15816682091631,blue,28,0.0,-279.86070522018736,39.843022838539355
+199,820,2,47.52121856,-122.3900465,2.5,11.0,"Mottled silt with trace of organics, low plasticity, moist, medium stiff.",ML,Silt,15.15816682091631,blue,28,2.5,-279.86070522018736,39.843022838539355
+200,827,1,47.5582755,-122.3839495,0.0,0.5,Topsoil with organics,Not applicable,Topsoil / vegetation,12.89065808479373,blue,102,0.0,90.70869477980636,100.81302283850846
+200,827,2,47.5582755,-122.3839495,0.5,10.0,"Light brown sand with gravel, fine to medium grained, slightly moist, loose.",SP,Fill,12.89065808479373,blue,102,0.5,90.70869477980636,100.81302283850846
